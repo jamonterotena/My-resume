@@ -197,7 +197,7 @@ skills:
       - name: "Next Generation Sequencing Analysis"
         level: 80% 
       - name: "High Performance Computing (HPC)"
-        level: 80        
+        level: "80%"
       - name: "MarkDown"
         level: 70%
       - name: "git"
