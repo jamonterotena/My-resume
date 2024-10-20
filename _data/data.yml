@@ -1,7 +1,3 @@
-emoji:
-  - chars: "\U0001F60A"
-    codes: "1F60A"
-    name: "SMILING FACE WITH SMILING EYES"
 sidebar:
     position: left # position of the sidebar : left or right
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
@@ -55,7 +51,7 @@ education:
         university: "Justus Liebig University"
         time: "March 2022 – Present"
         details: |
-          Research focus on genome-wide recombination in **Brassica napus** under the supervision of Prof.
+          Research focus on genome-wide recombination in *Brassica napus* under the supervision of Prof.
           Dr. Agnieszka Golicz and Prof. Dr. Rodney Snowdon.
       - degree: "MSc in Agrobiotechnology"
         university: "Justus Liebig University"
@@ -88,10 +84,9 @@ experiences:
         time: "March 2022 – Present"
         company: "Justus Liebig University"
         details: |
-          Researching the genome-wide recombination landscape in **Brassica napus** under Prof. Dr. Agnieszka Golicz.
           I participated actively in several national and international conferences in the fields of bioinformatics,
           genomics and plant breeding by presenting talks or posters about my scientific contributions and attending
-          workshops.
+          workshops. I also assisted in teaching of modules related with bioinformatics.
       - role: "Lab Intern"
         time: "March 2021 – April 2021"
         company: "Deutsche Saatveredelung (DSV)"
@@ -107,7 +102,7 @@ experiences:
            protocols.
       - role: "Volunteer Assistant"
         time: "Aug 2016 - Sep 2016"
-        company: "Hostelling Scottland"
+        company: "Hostelling Scotland"
         details: |
             Assistance in reception, catering and roomkeeping in Glasgow Youth Hostel while I practiced English and travelled around Scotland
 
