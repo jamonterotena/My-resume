@@ -4,7 +4,7 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
     
     # Profile information
-    name: Jose A. Montero
+    name: Jose A. Montero-Tena
     tagline: Bioinformatician
     avatar: profile.png  # Make sure this image is available in the /assets/images/ folder
     
