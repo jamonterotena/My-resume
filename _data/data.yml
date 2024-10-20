@@ -1,3 +1,7 @@
+emoji:
+  - chars: "\U0001F60A"
+    codes: "1F60A"
+    name: "SMILING FACE WITH SMILING EYES"
 sidebar:
     position: left # position of the sidebar : left or right
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
