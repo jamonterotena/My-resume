@@ -148,13 +148,13 @@ certifications:
           credentialurl: www.linkedin.com/posts/chaima-boug_seattle-posit-positconf2024-ugcPost-7229004878839255042-B4LL?utm_source=share&utm_medium=member_desktop
           credentialname: link
           details: |
-        - name: "Intermediate Python"
-          start: "Sep 2022"
-          end:
+        - name: "DataCamp courses (x18) on Python, R, and Shell, covering coding fundamentals, data manipulation, statistics, and machine learning"
+          start: "Nov 2021"
+          end: "Jan 2024"
           organization: "datacamp"
           credentialid:
-          credentialurl: www.datacamp.com/completed/statement-of-accomplishment/course/43be59825f3811ee2a0697bccfac1d5b1add5080
-          credentialname: link
+          credentialurl: https://www.datacamp.com/portfolio/jamonterotena?view=true
+          credentialname: datacamp portfolio
           details: |
         - name: "Plant Tissue Culture and Genetic Transformation"
           start: "April 2020"
