@@ -116,5 +116,11 @@
     </li>
     {% endif %}
 
+    {% if sidebar.certificates %}
+    <li class="certificates"><i class="fas fa-file-pdf"></i>
+      <a href="{{ sidebar.certificates }}" target="_blank">{{ "Check attached certificates" }}</a>
+    </li>
+    {% endif %}
+    
   </ul>
 </div><!--//contact-container-->
