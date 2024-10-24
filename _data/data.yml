@@ -149,8 +149,8 @@ certifications:
           credentialname: linkedin
           details: |
         - name: "DataCamp courses (x18) on Python, R, and Shell, covering coding fundamentals, data manipulation, statistics, and machine learning"
-          start: "Nov 2021"
-          end: "Jan 2024"
+          start:
+          end:
           organization: "datacamp"
           credentialid:
           credentialurl: www.datacamp.com/portfolio/jamonterotena?view=true
