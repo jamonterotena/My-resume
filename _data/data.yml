@@ -138,7 +138,7 @@ certifications:
           organization: "German Conference of Bioinformatics, Bielefeld, Germany"
           credentialid:
           credentialurl: www.gcb2024.de/
-          credentialname: link
+          credentialname: website
           details: |
         - name: "Workshop: Machine Learning with tidymodels"
           start: "Aug 2024"
@@ -146,14 +146,14 @@ certifications:
           organization: "Posit Conference, Seattle, USA"
           credentialid:
           credentialurl: www.linkedin.com/posts/chaima-boug_seattle-posit-positconf2024-ugcPost-7229004878839255042-B4LL?utm_source=share&utm_medium=member_desktop
-          credentialname: link
+          credentialname: linkedin
           details: |
         - name: "DataCamp courses (x18) on Python, R, and Shell, covering coding fundamentals, data manipulation, statistics, and machine learning"
           start: "Nov 2021"
           end: "Jan 2024"
           organization: "datacamp"
           credentialid:
-          credentialurl: https://www.datacamp.com/portfolio/jamonterotena?view=true
+          credentialurl: www.datacamp.com/portfolio/jamonterotena?view=true
           credentialname: datacamp portfolio
           details: |
         - name: "Plant Tissue Culture and Genetic Transformation"
@@ -170,7 +170,7 @@ certifications:
           organization: "Coursera, UC San Diego"
           credentialid: 
           credentialurl: www.linkedin.com/posts/joseantoniomonterotena_completion-certificate-for-biology-meets-activity-6841831236089065472-7bwX?utm_source=share&utm_medium=member_desktop
-          credentialname: link
+          credentialname: certificate
           details: |
         - name: "Whole Genome Sequencing of Bacterial Genomes"
           start: "Sep 2021"
@@ -178,7 +178,7 @@ certifications:
           organization: "Coursera, TU Denmark"
           credentialid: 
           credentialurl: www.linkedin.com/posts/joseantoniomonterotena_completion-certificate-for-whole-genome-sequencing-activity-6848685870837575682-CJvV?utm_source=share&utm_medium=member_desktop
-          credentialname: link
+          credentialname: certificate
           details: |
 
 skills:
