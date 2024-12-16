@@ -33,7 +33,7 @@ sidebar:
       title: Interests
       info:
         - item: Languages
-        - item: Guitar playing
+        - item: Guitar
         - item: Sports
 
 career-profile:
@@ -192,6 +192,8 @@ skills:
         level: 100%
       - name: "Linux Terminal"
         level: 100%
+      - name: "Python"
+        level: 80%
       - name: "Next Generation Sequencing Analysis"
         level: 80% 
       - name: "High Performance Computing (HPC)"
@@ -200,5 +202,5 @@ skills:
         level: 70%
       - name: "git"
         level: 60%
-      - name: "Python"
-        level: 40%
+      - name: "OMOP Common Data Model (CDM)
+        level: 0%
