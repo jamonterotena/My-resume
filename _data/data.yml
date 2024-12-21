@@ -5,7 +5,7 @@ sidebar:
     
     # Profile information
     name: Jose A. Montero-Tena
-    tagline: Bioinformatician
+    tagline: Bioinformatics Scientist
     avatar: profile.png  # Make sure this image is available in the /assets/images/ folder
     
     # Sidebar links
@@ -28,7 +28,7 @@ sidebar:
         - idiom: German
           level: Fluent
         - idiom: Italian
-          level: Advanced
+          level: Conversational
     interests:
       title: Interests
       info:
@@ -56,8 +56,10 @@ education:
         university: "Justus Liebig University"
         time: "Oct 2019 – Oct 2021"
         details: |
-          Completed Master’s thesis on pangenome diversity analysis in wheat applied to haplotypes under
-          the supervision of Dr. Christian Obermeier and Prof. Dr. Rodney Snowdon.
+          Master’s thesis on haplotype-based pangenome diversity analysis in wheat under the supervision
+          of Dr. Christian Obermeier and Prof. Dr. Rodney Snowdon. I wrote code for analyzing large genomics data
+          and haplotype block visualization, and performed variant calling for discovering markers associated
+          with an agronomic trait of interest. [link](https://github.com/jamonterotena/Haplotype-based-Pangenome-Wheat-Analysis)
       - degree: "MD in Secondary Education Teacher’s Training"
         university: "University of Extremadura"
         time: "Oct 2017 – Jun 2018"
@@ -73,8 +75,9 @@ education:
         university: "University of Sevilla"
         time: "Sep 2013 – Jul 2017"
         details: |
-          Completed Bachelor’s thesis on Biochemical and physiological effects of ozone on *Capsicum annuum*
-          under the supervision of Dr. Juan Parrado-Rubio.
+          Bachelor’s thesis on biochemical and physiological effects of ozone on *Capsicum annuum*
+          under the supervision of Dr. Juan Parrado-Rubio. The practical work involved greenhouse cultivation
+          of plants, exposure of plants to ozone and biochemical lab tecniques like spectrophotometry or ROS assays.
 
 experiences:
     title: Professional Experience
@@ -83,20 +86,26 @@ experiences:
         time: "March 2022 – Present"
         company: "Justus Liebig University"
         details: |
-          I participated actively in several national and international conferences in the fields of bioinformatics,
+          I developed my coding and analytical skills in genomics through my project-related work and collaborated with
+          fellow researchers.
+          Developed software for extracting useful information on genetic recombination from large populational genomics data. 
+          Conducted machine learning tasks to analyze multi-omics data with recombination data.
+          Actively participated in several national and international conferences in the fields of bioinformatics,
           genomics and plant breeding by presenting talks or posters about my scientific contributions and attending
-          workshops. I also assisted in teaching of modules related with bioinformatics.
+          workshops.
+          Also, I assisted in teaching of several modules related with bioinformatics.
       - role: "Lab Intern"
         time: "March 2021 – April 2021"
         company: "Deutsche Saatveredelung (DSV)"
         details: |
           Assistance in molecular biology laboratory routine as part of the genetic selection efforts of plant
-          breeding programs.
+          breeding programs. Side project based on the development of KASP markers for detection of gene sequences,
+          retrieved with BLAST.
       - role: "Science Classroom teacher"
         time: "Sep 2018 – Jul 2019"
         company: "Holmer Green Senior School"
         details: |
-           Taught Physics, Chemistry and Biology to year 9-10 school students. I was the main instructor of theoretical
+           I instructed Physics, Chemistry and Biology to year 9-10 school students as the main teacher for theoretical
            and practical lessons, in which students conducted supervised scientific experiments and prepared scientific
            protocols.
       - role: "Volunteer Assistant"
@@ -108,6 +117,8 @@ experiences:
 publications:
     title: Publications
     papers:
+      - title: "Uncovering the rules governing recombination positioning in oilseed rape using multi-omics data and machine learning"
+        authors: "IN PREPARATION"
       - title: "haploMAGIC: accurate phasing and detection of recombination in multiparental populations despite
       genotyping errors"
         authors: "Montero-Tena JA, Abdollahi Sisi N, Kox T, Abbadi A, Snowdon RJ, Golicz AA"
@@ -202,5 +213,7 @@ skills:
         level: 70%
       - name: "git"
         level: 60%
+      - name: "Machine Learning with Tidymodels"
+        level: 0%
       - name: "OMOP Common Data Model (CDM)"
         level: 0%
