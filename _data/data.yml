@@ -56,10 +56,10 @@ education:
         university: "Justus Liebig University"
         time: "Oct 2019 – Oct 2021"
         details: |
-          Master’s thesis on haplotype-based pangenome diversity analysis in wheat under the supervision
+          [Master’s thesis on haplotype-based pangenome diversity analysis in wheat under the supervision
           of Dr. Christian Obermeier and Prof. Dr. Rodney Snowdon. I wrote code for analyzing large genomics data
           and haplotype block visualization, and performed variant calling for discovering markers associated
-          with an agronomic trait of interest. [link](https://github.com/jamonterotena/Haplotype-based-Pangenome-Wheat-Analysis)
+          with an agronomic trait of interest.](https://github.com/jamonterotena/Haplotype-based-Pangenome-Wheat-Analysis)
       - degree: "MD in Secondary Education Teacher’s Training"
         university: "University of Extremadura"
         time: "Oct 2017 – Jun 2018"
@@ -75,9 +75,9 @@ education:
         university: "University of Sevilla"
         time: "Sep 2013 – Jul 2017"
         details: |
-          Bachelor’s thesis on biochemical and physiological effects of ozone on *Capsicum annuum*
+          [Bachelor’s thesis on biochemical and physiological effects of ozone on *Capsicum annuum*
           under the supervision of Dr. Juan Parrado-Rubio. The practical work involved greenhouse cultivation
-          of plants, exposure of plants to ozone and biochemical lab tecniques like spectrophotometry or ROS assays.
+          of plants, exposure of plants to ozone and biochemical lab tecniques like spectrophotometry or ROS assays.](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0)
 
 experiences:
     title: Professional Experience
@@ -86,14 +86,12 @@ experiences:
         time: "March 2022 – Present"
         company: "Justus Liebig University"
         details: |
-          I developed my coding and analytical skills in genomics through my project-related work and collaborated with
-          fellow researchers.
           Developed software for extracting useful information on genetic recombination from large populational genomics data. 
           Conducted machine learning tasks to analyze multi-omics data with recombination data.
           Actively participated in several national and international conferences in the fields of bioinformatics,
           genomics and plant breeding by presenting talks or posters about my scientific contributions and attending
-          workshops.
-          Also, I assisted in teaching of several modules related with bioinformatics.
+          workshops. Furthermore, I assisted in teaching of several modules related with bioinformatics and collaborated as part
+          of a team of bioinformatics scientists in genomics.
       - role: "Lab Intern"
         time: "March 2021 – April 2021"
         company: "Deutsche Saatveredelung (DSV)"
@@ -203,17 +201,17 @@ skills:
         level: 100%
       - name: "Linux Terminal"
         level: 100%
+      - name: "git"
+        level: 80%
       - name: "Python"
         level: 80%
       - name: "Next Generation Sequencing Analysis"
         level: 80% 
       - name: "High Performance Computing (HPC)"
         level: "80%"
-      - name: "MarkDown"
-        level: 70%
-      - name: "git"
-        level: 60%
+      - name: "MarkDown/Quarto"
+        level: 80%
       - name: "Machine Learning with Tidymodels"
-        level: 0%
+        level: 60%
       - name: "OMOP Common Data Model (CDM)"
         level: 0%
