@@ -31,6 +31,7 @@ sidebar:
           level: Conversational
     languages:
       title: Certificates
+      info:
         - idiom: [DataCamp](www.datacamp.com/portfolio/jamonterotena?view=true)
     interests:
       title: Interests
