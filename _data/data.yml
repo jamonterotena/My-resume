@@ -29,10 +29,10 @@ sidebar:
           level: Fluent
         - idiom: Italian
           level: Conversational
-    languages:
+    interests:
       title: Certificates
       info:
-        - idiom: [DataCamp](www.datacamp.com/portfolio/jamonterotena?view=true)
+        - item: DataCamp
     interests:
       title: Interests
       info:
