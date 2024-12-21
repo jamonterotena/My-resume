@@ -56,10 +56,10 @@ education:
         university: "Justus Liebig University"
         time: "Oct 2019 – Oct 2021"
         details: |
-          [Master’s thesis on haplotype-based pangenome diversity analysis in wheat under the supervision
+          Master’s thesis on haplotype-based pangenome diversity analysis in wheat under the supervision
           of Dr. Christian Obermeier and Prof. Dr. Rodney Snowdon. I wrote code for analyzing large genomics data
           and haplotype block visualization, and performed variant calling for discovering markers associated
-          with an agronomic trait of interest.](https://github.com/jamonterotena/Haplotype-based-Pangenome-Wheat-Analysis)
+          with an agronomic trait of interest ([See manuscript](https://github.com/jamonterotena/Haplotype-based-Pangenome-Wheat-Analysis)). 
       - degree: "MD in Secondary Education Teacher’s Training"
         university: "University of Extremadura"
         time: "Oct 2017 – Jun 2018"
@@ -75,9 +75,9 @@ education:
         university: "University of Sevilla"
         time: "Sep 2013 – Jul 2017"
         details: |
-          [Bachelor’s thesis on biochemical and physiological effects of ozone on *Capsicum annuum*
+          Bachelor’s thesis on biochemical and physiological effects of ozone on *Capsicum annuum*
           under the supervision of Dr. Juan Parrado-Rubio. The practical work involved greenhouse cultivation
-          of plants, exposure of plants to ozone and biochemical lab tecniques like spectrophotometry or ROS assays.](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0)
+          of plants, exposure of plants to ozone and biochemical lab tecniques like spectrophotometry or ROS assays ([See manuscript](https://github.com/jamonterotena/Haplotype-based-Pangenome-Wheat-Analysis)).
 
 experiences:
     title: Professional Experience
