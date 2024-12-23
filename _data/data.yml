@@ -212,12 +212,18 @@ skills:
       - name: "Next Generation Sequencing Analysis"
         level: 80% 
       - name: "High Performance Computing (HPC)"
-        level: "80%"
+        level: 80%
       - name: "MarkDown/Quarto"
+        level: 80%
+      - name: "Shiny apps"
         level: 80%
       - name: "Machine Learning with Tidymodels"
         level: 60%
       - name: "ChatGPT (Premium Member) for Productivity"
         level: 60%
+      - name: "Microsoft Azure Datalake"
+        level: 50%
+      - name: "Azure Data Factory"
+        level: 50%
       - name: "OMOP Common Data Model (CDM)"
         level: 0%
