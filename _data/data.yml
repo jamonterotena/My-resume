@@ -213,6 +213,8 @@ skills:
         level: 80% 
       - name: "High Performance Computing (HPC)"
         level: "80%"
+      - name: "SLURM"
+        level: "80%"
       - name: "MarkDown/Quarto"
         level: 80%
       - name: "Machine Learning with Tidymodels"
