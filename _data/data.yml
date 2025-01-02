@@ -2,7 +2,7 @@ sidebar:
     position: left # position of the sidebar : left or right
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
-    
+     
     # Profile information
     name: Jose A. Montero-Tena
     tagline: Bioinformatics Scientist
@@ -212,9 +212,9 @@ skills:
       - name: "Next Generation Sequencing Analysis"
         level: 80% 
       - name: "High Performance Computing (HPC)"
-        level: "80%"
+        level: 80%
       - name: "SLURM"
-        level: "80%"
+        level: 80%
       - name: "MarkDown/Quarto"
         level: 80%
       - name: "Machine Learning with Tidymodels"
