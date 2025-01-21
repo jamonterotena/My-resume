@@ -60,9 +60,10 @@ education:
         university: "Justus Liebig University"
         time: "Oct 2019 – Oct 2021"
         details: |
+          Several subjects in biostatistical analysis in R.
           Master’s thesis on haplotype-based pangenome diversity analysis in wheat under the supervision
-          of Dr. Christian Obermeier and Prof. Dr. Rodney Snowdon. I wrote code for analyzing large genomics data
-          and haplotype block visualization, and performed variant calling for discovering markers associated
+          of Dr. Christian Obermeier and Prof. Dr. Rodney Snowdon. Code writing for analyzing large genomics data
+          and haplotype block visualization and  variant calling for discovering markers associated
           with an agronomic trait of interest ([See manuscript](https://github.com/jamonterotena/Haplotype-based-Pangenome-Wheat-Analysis)). 
       - degree: "MD in Secondary Education Teacher’s Training"
         university: "University of Extremadura"
@@ -81,7 +82,7 @@ education:
         details: |
           Bachelor’s thesis on biochemical and physiological effects of ozone on *Capsicum annuum*
           under the supervision of Dr. Juan Parrado-Rubio. The practical work involved greenhouse cultivation
-          of plants, exposure of plants to ozone and biochemical lab tecniques like spectrophotometry or ROS assays ([See manuscript](https://github.com/jamonterotena/Haplotype-based-Pangenome-Wheat-Analysis)).
+          of plants, exposure of plants to ozone and biochemical lab tecniques like spectrophotometry or ROS assays ([See manuscript](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0)).
 
 experiences:
     title: Professional Experience
@@ -90,12 +91,18 @@ experiences:
         time: "March 2022 – Present"
         company: "Justus Liebig University"
         details: |
-          Developed software for extracting useful information on genetic recombination from large populational genomics data. 
-          Conducted machine learning tasks to analyze multi-omics data with recombination data.
-          Actively participated in several national and international conferences in the fields of bioinformatics,
+          Software development for analyzing genetic recombination from large populational genomics data.
+          
+          Machine learning tasks for leveraging multi-omics data to predict recombination patterns in rapeseed.
+          
+          Active participation in several national and international conferences in the fields of bioinformatics,
           genomics and plant breeding by presenting talks or posters about my scientific contributions and attending
-          workshops. Furthermore, I assisted in teaching of several modules related with bioinformatics and collaborated as part
-          of a team of bioinformatics scientists in genomics.
+          workshops.
+          
+          Assistance in several subjects related with bioinformatics.
+          
+          Collaboration as part of a team of bioinformatics scientists in genomics.
+          
       - role: "Lab Intern"
         time: "March 2021 – April 2021"
         company: "Deutsche Saatveredelung (DSV)"
@@ -107,14 +114,14 @@ experiences:
         time: "Sep 2018 – Jul 2019"
         company: "Holmer Green Senior School"
         details: |
-           I instructed Physics, Chemistry and Biology to year 9-10 school students as the main teacher for theoretical
-           and practical lessons, in which students conducted supervised scientific experiments and prepared scientific
-           protocols.
+           Instruction of the Science subject (Physics, Chemistry and Biology) to year 9-11 school students as the
+           main classroom teacher. Supervision of practical scientific lectures. Evaluation of assignments and examinations.
+           Regular communication with parents of students and teaching staff.
       - role: "Volunteer Assistant"
         time: "Aug 2016 - Sep 2016"
         company: "Hostelling Scotland"
         details: |
-            Assistance in reception, catering and roomkeeping in Glasgow Youth Hostel while I practiced English and travelled around Scotland
+            Assistance in reception, catering and roomkeeping in Glasgow Youth Hostel. Great way to practice English while travelling around Scotland
 
 publications:
     title: Publications
@@ -127,11 +134,11 @@ publications:
         journal: "G3 (Bethesda)"
         date: "Aug 2024"
         link: https://academic.oup.com/g3journal/article/14/8/jkae109/7684607 #"[https://doi.org/10.1093/g3journal/jkae109](https://academic.oup.com/g3journal/article/14/8/jkae109/7684607)"
-      - title: "Poster: Defining the Genome-wide Recombination Landscape of *Brassica napus*"
+      - title: "Poster: Defining the Genome-wide Recombination Landscape of Brassica napus"
         authors: "Montero-Tena JA"
         journal: "GCB German Conference of Bioinformatics, Bielefeld, Germany"
         date: "30 Sep – 2 Oct 2024"
-      - title: "Oral Presentation: haploMAGIC: Phasing and Detecting Recombination in Multiparental Populations (Awarded Prize to Best Oral Presentation)"
+      - title: "Oral Presentation (CLICK TO WATCH VIDEO): "haploMAGIC: Phasing and Detecting Recombination in Multiparental Populations (Awarded Prize to Best Oral Presentation)""
         authors: "Montero-Tena JA"
         journal: "IRC International Rapeseed Congress, Sydney, Australia"
         date: "24 – 27 Sep 2023"
@@ -214,6 +221,8 @@ skills:
       - name: "High Performance Computing (HPC)"
         level: 80%
       - name: "SLURM"
+        level: 80%
+      - name: "Version control systems"
         level: 80%
       - name: "MarkDown/Quarto"
         level: 80%
