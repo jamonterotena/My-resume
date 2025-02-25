@@ -36,16 +36,17 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Languages
-        - item: Guitar
+        - item: Classical Guitar
         - item: Mountain Bike
+        - item: Languages
 
 career-profile:
     title: Career Profile
     summary: |
         PhD candidate in Bioinformatics with strong programming skills and a methodical approach to 
-        research. Multilingual and adaptable, with a positive attitude and experience working across 
-        diverse fields. Passionate about leveraging computational techniques for scientific advancement.
+        research. Great communication skills, multilingual and adaptable, with a positive attitude
+        and experience working across diverse fields. Passionate about leveraging computational
+        techniques for scientific advancement.
       
 education:
     title: Education
@@ -54,35 +55,32 @@ education:
         university: "Justus Liebig University"
         time: "March 2022 – Present"
         details: |
-          Research focus on genome-wide recombination in *Brassica napus* under the supervision of Prof.
-          Dr. Agnieszka Golicz and Prof. Dr. Rodney Snowdon.
+          - Research focus on recombination in *Brassica napus*
+          - Supervised by Prof. Dr. Agnieszka Golicz ([See recommedation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
       - degree: "MSc in Agrobiotechnology"
         university: "Justus Liebig University"
         time: "Oct 2019 – Oct 2021"
         details: |
-          Several subjects in biostatistical analysis in R.
-          Master’s thesis on haplotype-based pangenome diversity analysis in wheat under the supervision
-          of Dr. Christian Obermeier and Prof. Dr. Rodney Snowdon. Code writing for analyzing large genomics data
-          and haplotype block visualization and  variant calling for discovering markers associated
-          with an agronomic trait of interest ([See manuscript](https://github.com/jamonterotena/Haplotype-based-Pangenome-Wheat-Analysis)). 
+          - Several subjects in biostatistical analysis in R.
+          - Thesis: haplotype-based pangenome diversity analysis in wheat (R coding, R/ggplot graphs, NGS-based variant discovery) ([See manuscript](https://github.com/jamonterotena/Haplotype-based-Pangenome-Wheat-Analysis)). 
       - degree: "MD in Secondary Education Teacher’s Training"
         university: "University of Extremadura"
         time: "Oct 2017 – Jun 2018"
         details: |
-          Specialized in science education methodologies and practical teaching experience.
+          - Teaching methods for Science education
       - degree: "Student assistant: Biochemistry of natural antioxidants"
         university: "University of Extremadura"
         time: "June 2014"
         details: |
-          Training in molecular biology lab techniques in the context of research on natural antioxidants
-          under the supervision of Prof. Pedro Macias-Laso.
+          - Molecular biology lab techniques
+          - Supervised by Prof. Pedro Macias-Laso ([See recommedation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
       - degree: "BSc in Biochemistry"
         university: "University of Sevilla"
         time: "Sep 2013 – Jul 2017"
         details: |
-          Subjects in programming and statistical analysis with R. Regular lab practicals. Bachelor’s thesis on biochemical and physiological effects of ozone on *Capsicum annuum*
-          under the supervision of Dr. Juan Parrado-Rubio. The practical work involved greenhouse cultivation
-          of plants, exposure of plants to ozone and biochemical lab tecniques like spectrophotometry or ROS assays ([See manuscript](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0)).
+          - Subjects in programming and statistical analysis with R
+          - Regular lab practicals
+          - Thesis: Biochemical and physiological effects of ozone on *Capsicum annuum* (greenhouse cultivation, spectrophotometry, ROS assays) ([See manuscript](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0)).
 
 experiences:
     title: Professional Experience
@@ -91,37 +89,32 @@ experiences:
         time: "March 2022 – Present"
         company: "Justus Liebig University"
         details: |
-          Software development for analyzing genetic recombination from large populational genomics data.
-          
-          Machine learning tasks for leveraging multi-omics data to predict recombination patterns in rapeseed.
-          
-          Active participation in several national and international conferences in the fields of bioinformatics,
-          genomics and plant breeding by presenting talks or posters about my scientific contributions and attending
-          workshops.
-          
-          Assistance in several subjects related with bioinformatics.
-          
-          Collaboration as part of a team of bioinformatics scientists in genomics.
-          
+          - Development of technical skills (
+          [coding for genomic data and multi-omic data analysis](https://github.com/GoliczGenomeLab/haploMAGIC),
+          [machine learning](https://github.com/jamonterotena/ML-reports),
+          static/dynamic reports - click for examples)
+          - Participation in international conferences in the fields of bioinformatics, genomics and plant breeding by presenting talks or posters about my scientific contributions and attending workshops.
+          - Assistance in teaching
+          - Teamwork as part of a big multidisciplinary team
       - role: "Lab Intern"
         time: "March 2021 – April 2021"
         company: "Deutsche Saatveredelung (DSV)"
         details: |
-          Assistance in molecular biology laboratory routine as part of the genetic selection efforts of plant
-          breeding programs. Side project based on the development of KASP markers for detection of gene sequences,
-          retrieved with BLAST.
+          - Molecular breeding lab tasks
+          - Development of KASP markers of genes using BLAST
       - role: "Science Classroom teacher"
         time: "Sep 2018 – Jul 2019"
         company: "Holmer Green Senior School"
         details: |
-           Instruction of the Science subject (Physics, Chemistry and Biology) to year 9-11 school students as the
-           main classroom teacher. Supervision of practical scientific lectures. Evaluation of assignments and examinations.
-           Regular communication with parents of students and teaching staff.
+           - Instruction of Science (Physics, Chemistry and Biology) to year 9-11 school students
+           - Supervision of practical scientific lectures
+           - Evaluation of assignments and examinations
+           - Regular communication with progenitors and colleagues
       - role: "Volunteer Assistant"
         time: "Aug 2016 - Sep 2016"
         company: "Hostelling Scotland"
         details: |
-            Assistance in reception, catering and roomkeeping in Glasgow Youth Hostel. Great way to practice English while travelling around Scotland
+            - Assistance with work activities (roomkeeping, catering, reception)
 
 publications:
     title: Publications
@@ -138,7 +131,7 @@ publications:
         authors: "Montero-Tena JA"
         journal: "GCB German Conference of Bioinformatics, Bielefeld, Germany"
         date: "30 Sep – 2 Oct 2024"
-      - title: "Oral Presentation (CLICK TO WATCH VIDEO): haploMAGIC: Phasing and Detecting Recombination in Multiparental Populations (Awarded Prize to Best Oral Presentation)"
+      - title: "Oral Presentation (watch video): haploMAGIC: Phasing and Detecting Recombination in Multiparental Populations (Awarded Prize to Best Oral Presentation)"
         authors: "Montero-Tena JA"
         journal: "IRC International Rapeseed Congress, Sydney, Australia"
         date: "24 – 27 Sep 2023"
@@ -205,30 +198,32 @@ skills:
     title: "Skills & Proficiency"
     toolset:
       - name: "R"
-        level: 100%
-      - name: "Typing"
-        level: 100%        
+        level: 100%     
       - name: "Bash"
         level: 100%
       - name: "Linux Terminal"
         level: 100%
-      - name: "git"
-        level: 80%
-      - name: "Python"
-        level: 80%
       - name: "Next Generation Sequencing Analysis"
-        level: 80% 
-      - name: "High Performance Computing (HPC)"
-        level: 80%
-      - name: "SLURM"
-        level: 80%
-      - name: "Version control systems"
-        level: 80%
+        level: 100%
+      - name: "Fast Typing"
+        level: 100%
       - name: "MarkDown/Quarto"
         level: 80%
       - name: "Machine Learning with Tidymodels"
-        level: 60%
+        level: 80%
+      - name: "Python"
+        level: 70%
+      - name: "git"
+        level: 70%
+      - name: "High Performance Computing (HPC)"
+        level: 70%
+      - name: "SLURM"
+        level: 50%
+      - name: "Version control"
+        level: 50%
+      - name: "SQL"
+        level: 50% 
       - name: "ChatGPT (Premium Member) for Productivity"
         level: 60%
       - name: "OMOP Common Data Model (CDM)"
-        level: 0%
+        level: 0% 
