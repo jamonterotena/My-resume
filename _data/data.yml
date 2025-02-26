@@ -48,10 +48,11 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: "Ph. D. in Agrobioinformatics: Defining the global recombination landscape in *Brassica napus*"
+      - degree: "Ph. D. in Agrobioinformatics"
         university: "Justus Liebig University"
         time: "March 2022 – Present"
         details: |
+          - Topic: Defining the global recombination landscape in *Brassica napus* (See *Experience* for more info)
       - degree: "M. Sc. in Agrobiotechnology"
         university: "Justus Liebig University"
         time: "Oct 2019 – Oct 2021"
