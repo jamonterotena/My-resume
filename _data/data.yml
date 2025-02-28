@@ -6,7 +6,7 @@ sidebar:
     # Profile information
     name: Jose A. Montero-Tena
     tagline: Bioinformatics Scientist
-    avatar: profile.png  # Make sure this image is available in the /assets/images/ folder
+    avatar: agrobioinformatics.jpg #profile.png  # Make sure this image is available in the /assets/images/ folder
     
     # Sidebar links
     citizenship: Spanish
