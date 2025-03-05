@@ -200,16 +200,6 @@ certifications:
           credentialname: link
           details: |
 
-recommendations:
-  title: Recommendations
-  list:
-  - person: Prof. Dr. Agnieszka A Golicz
-    email: Agnieszka.Golicz@agrar.uni-giessen.de 
-    phone: +496419937432
-    role: Professor for Agrobioinformatics at Justus Liebig University
-    recommendation: |
-      "Jose has shown a genuine ability to work well in diverse settings and contribute to a supportive environment" ([See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
-
 skills:
     title: "Skills & Proficiency"
     toolset:
@@ -242,4 +232,14 @@ skills:
       - name: "ChatGPT (Premium Member) for Productivity"
         level: 30%
       - name: "OMOP Common Data Model (CDM)"
-        level: 0% 
+        level: 0%
+
+recommendations:
+  title: Recommendations
+  list:
+  - person: Prof. Dr. Agnieszka A Golicz
+    email: Agnieszka.Golicz@agrar.uni-giessen.de 
+    phone: +496419937432
+    role: Professor for Agrobioinformatics at Justus Liebig University
+    recommendation: |
+      Jose has shown a genuine ability to work well in diverse settings and contribute to a supportive environment
