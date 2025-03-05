@@ -4,11 +4,12 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
      
     # Profile information
-    name: Jose A. Montero-Tena
+    name: Jose Montero
     tagline: Bioinformatics Scientist
     avatar: agrobioinformatics.jpg #profile.png  # Make sure this image is available in the /assets/images/ folder
     
     # Sidebar links
+    fullname: Montero Tena, Jose Antonio
     citizenship: Spanish
     timezone: Europe/Berlin
     email: jmonterotena@gmail.com
