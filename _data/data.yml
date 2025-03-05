@@ -42,9 +42,11 @@ sidebar:
         - item: Languages
 
 career-profile:
-    title: Career Profile
+    title: ABOUT ME
     summary: |
-        Ph. D. candidate in Bioinformatics with strong programming skills and a methodical approach to  research. Great communication skills in different languages, adaptable, with a positive attitude and experience working across diverse fields. Passionate about leveraging computational techniques for scientific advancement in collaborative environments.      
+        Ph. D. candidate in Bioinformatics with strong programming skills and a methodical approach to  research.\
+        Great communication skills in different languages, adaptable, with a positive attitude and experience working across diverse fields.\
+        Passionate about leveraging computational techniques for scientific advancement in collaborative environments.      
         
 education:
     title: Education
