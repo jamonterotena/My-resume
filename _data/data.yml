@@ -34,6 +34,25 @@ sidebar:
       title: Certificates
       info:
         - item: DataCamp
+    skills_sidebar:
+      title: Skills
+      info:
+      - item: "R"
+      - item: "Bash"
+      - item: "Linux Terminal"
+      - item: "Next Generation Sequencing Analysis"
+      - item: "Fast Typing"
+      - item: "MarkDown/Quarto"
+      - item: "Machine Learning with Tidymodels"
+      - item: "Python"
+      - item: "git"
+      - item: "High Performance Computing (HPC)"
+      - item: "SLURM"
+      - item: "Version control"
+      - item: "SQL"
+      - item: "Amazon Web Services (AWS) S3"
+      - item: "ChatGPT (Premium Member) for Productivity"
+      - item: "OMOP Common Data Model (CDM)"
     interests:
       title: Interests
       info:
@@ -41,6 +60,7 @@ sidebar:
         - item: Mountain Bike
         - item: Languages
 
+        
 career-profile:
     title: ABOUT ME
     summary: |
@@ -228,6 +248,8 @@ skills:
       - name: "Version control"
         level: 50%
       - name: "SQL"
+        level: 50% 
+      - name: "Amazon Web Services (AWS) S3"
         level: 50% 
       - name: "ChatGPT (Premium Member) for Productivity"
         level: 30%
