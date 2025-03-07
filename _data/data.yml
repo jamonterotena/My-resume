@@ -30,10 +30,6 @@ sidebar:
           level: ****
         - idiom: Italian
           level: **
-    interests:
-      title: Certificates
-      info:
-        - item: DataCamp
     skills_sidebar:
       title: Skills
       info:
@@ -75,7 +71,6 @@ sidebar:
         - item: Classical Guitar
         - item: Mountain Bike
         - item: Languages
-
         
 career-profile:
     title: ABOUT ME
