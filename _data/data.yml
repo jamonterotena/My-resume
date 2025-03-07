@@ -23,48 +23,48 @@ sidebar:
       title: Languages
       info:
         - idiom: Spanish
-          level: *****
+          level: +++++
         - idiom: English
-          level: *****
+          level: +++++
         - idiom: German
-          level: ****
+          level: ++++
         - idiom: Italian
-          level: **
+          level: ++
     skills_sidebar:
       title: Skills
       info:
         - idiom: Amazon S3
-          level: *
+          level: +
         - idiom: Bash
-          level: *****
+          level: +++++
         - idiom: ChatGPT (Premium Member) for Productivity
-          level: ***
+          level: +++
         - idiom: Fast Typing
-          level: *****
+          level: +++++
         - idiom: Git
-          level: *****
+          level: +++++
         - idiom: High Performance Computing
-          level: *****
+          level: +++++
         - idiom: Linux Terminal
-          level: ****
+          level: ++++
         - idiom: Tidymodels (Machine Learning)
-          level: *****
+          level: +++++
         - idiom: MarkDown/Quarto
-          level: *****
+          level: +++++
         - idiom: Next Generation Sequencing
-          level: *****
+          level: +++++
         - idiom: OMOP Common Data Model
-          level: *
+          level: +
         - idiom: Python
-          level: ***
+          level: +++
         - idiom: R
-          level: *****
+          level: +++++
         - idiom: SLURM
-          level: *****
+          level: +++++
         - idiom: SQL
-          level: **
+          level: ++
         - idiom: Version Control
-          level: ***
+          level: +++
     interests:
       title: Interests
       info:
