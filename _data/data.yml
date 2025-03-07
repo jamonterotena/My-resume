@@ -33,37 +33,37 @@ sidebar:
     skills_sidebar:
       title: Skills
       info:
-        - idiom: "Amazon S3"
+        - idiom: Amazon S3
           level: *
-        - idiom: "Bash"
+        - idiom: Bash
           level: *****
-        - idiom: "ChatGPT (Premium Member) for Productivity"
+        - idiom: ChatGPT (Premium Member) for Productivity
           level: ***
-        - idiom: "Fast Typing"
+        - idiom: Fast Typing
           level: *****
-        - idiom: "Git"
+        - idiom: Git
           level: *****
-        - idiom: "High Performance Computing"
+        - idiom: High Performance Computing
           level: *****
-        - idiom: "Linux Terminal"
+        - idiom: Linux Terminal
           level: ****
-        - idiom: "Tidymodels (Machine Learning)"
+        - idiom: Tidymodels (Machine Learning)
           level: *****
-        - idiom: "MarkDown/Quarto"
+        - idiom: MarkDown/Quarto
           level: *****
-        - idiom: "Next Generation Sequencing"
+        - idiom: Next Generation Sequencing
           level: *****
-        - idiom: "OMOP Common Data Model"
+        - idiom: OMOP Common Data Model
           level: *
-        - idiom: "Python"
+        - idiom: Python
           level: ***
-        - idiom: "R"
+        - idiom: R
           level: *****
-        - idiom: "SLURM"
+        - idiom: SLURM
           level: *****
-        - idiom: "SQL"
+        - idiom: SQL
           level: **
-        - idiom: "Version Control"
+        - idiom: Version Control
           level: ***
     interests:
       title: Interests
