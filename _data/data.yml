@@ -23,13 +23,13 @@ sidebar:
       title: Languages
       info:
         - idiom: Spanish
-          level: Native
+          level: *****
         - idiom: English
-          level: Fluent
+          level: *****
         - idiom: German
-          level: Fluent
+          level: ****
         - idiom: Italian
-          level: Conversational
+          level: **
     interests:
       title: Certificates
       info:
@@ -37,22 +37,38 @@ sidebar:
     skills_sidebar:
       title: Skills
       info:
-        - item: "R"
-        - item: "Bash"
-        - item: "Linux Terminal"
-        - item: "Next Generation Sequencing Analysis"
-        - item: "Fast Typing"
-        - item: "MarkDown/Quarto"
-        - item: "Machine Learning with Tidymodels"
-        - item: "Python"
-        - item: "git"
-        - item: "High Performance Computing (HPC)"
-        - item: "SLURM"
-        - item: "Version control"
-        - item: "SQL"
-        - item: "Amazon Web Services (AWS) S3"
-        - item: "ChatGPT (Premium Member) for Productivity"
-        - item: "OMOP Common Data Model (CDM)"
+        - idiom: "Amazon S3"
+          level: *
+        - idiom: "Bash"
+          level: *****
+        - idiom: "ChatGPT (Premium Member) for Productivity"
+          level: ***
+        - idiom: "Fast Typing"
+          level: *****
+        - idiom: "Git"
+          level: *****
+        - idiom: "High Performance Computing"
+          level: *****
+        - idiom: "Linux Terminal"
+          level: ****
+        - idiom: "Tidymodels (Machine Learning)"
+          level: *****
+        - idiom: "MarkDown/Quarto"
+          level: *****
+        - idiom: "Next Generation Sequencing"
+          level: *****
+        - idiom: "OMOP Common Data Model"
+          level: *
+        - idiom: "Python"
+          level: ***
+        - idiom: "R"
+          level: *****
+        - idiom: "SLURM"
+          level: *****
+        - idiom: "SQL"
+          level: **
+        - idiom: "Version Control"
+          level: ***
     interests:
       title: Interests
       info:
