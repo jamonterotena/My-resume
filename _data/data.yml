@@ -9,14 +9,13 @@ sidebar:
     avatar: agrobioinformatics.jpg #profile.png  # Make sure this image is available in the /assets/images/ folder
     
     # Sidebar links
-    fullname: "   Montero Tena, José Antonio"
+    fullname: "Montero Tena, José Antonio"
     citizenship: Spanish
     timezone: Europe/Berlin
     email: jmonterotena@gmail.com
     linkedin: joseantoniomonterotena
     github: jamonterotena
     phone: +34 603 769 969
-    pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
     certificates: https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0
     
     languages:
@@ -80,7 +79,7 @@ sidebar:
         - item: Mountain Bike
         - item: Languages
          
- career-profile:
+career-profile:
     title: ABOUT ME
     summary: |
         Ph.D. candidate in plant breeding with expertise in computational biology, machine learning and high-throughput data analysis\
