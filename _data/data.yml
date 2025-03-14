@@ -5,7 +5,7 @@ sidebar:
      
     # Profile information
     name: Jose Montero
-    tagline: Bioinformatics Scientist
+    tagline: Bioinformatics & Data Science in Breeding
     avatar: agrobioinformatics.jpg #profile.png  # Make sure this image is available in the /assets/images/ folder
     
     # Sidebar links
@@ -37,18 +37,24 @@ sidebar:
           level: +
         - idiom: Bash
           level: +++++
-        - idiom: ChatGPT (Premium Member) for Productivity
+        - idiom: ChatGPT for Productivity
           level: +++
         - idiom: Fast Typing
           level: +++++
+        - idiom: Genomic imputation
+          level: ++++
+        - idiom: Genomic simulation
+          level: ++++
         - idiom: Git
           level: +++++
         - idiom: High Performance Computing
           level: +++++
         - idiom: Linux Terminal
           level: ++++
-        - idiom: Tidymodels (Machine Learning)
+        - idiom: ML with tidymodels
           level: +++++
+        - idiom: Multi-omics analysis
+          level: +++
         - idiom: MarkDown/Quarto
           level: +++++
         - idiom: Next Generation Sequencing
@@ -62,9 +68,11 @@ sidebar:
         - idiom: SLURM
           level: +++++
         - idiom: SQL
-          level: ++
+          level: +++
         - idiom: Version Control
           level: +++
+        - idiom: XGBoost
+          level: +
     interests:
       title: Interests
       info:
@@ -75,9 +83,12 @@ sidebar:
 career-profile:
     title: ABOUT ME
     summary: |
-        Ph. D. candidate in Bioinformatics with strong programming skills and a methodical approach to  research.\
-        Great communication skills in different languages, adaptable, with a positive attitude and experience working across diverse fields.\
-        Passionate about leveraging computational techniques for scientific advancement in collaborative environments.      
+        - Ph.D. candidate in plant breeding with expertise in computational biology, machine learning and high-throughput data analysis
+        - Passionate about data science, quantitative genetics, and bioinformatics
+        - Experienced in machine learning models and multi-omics data integration
+        - Skilled in R, Python, SQL, AWS and workflow automation
+        - Proven ability to work in multidisciplinary, dynamic teams alongside breeders, bioinformaticians, and data scientists
+        - Strong problem-solving mindset, innovative, adaptable, and driven to optimize breeding strategies through computational approaches
         
 education:
     title: Education
@@ -92,7 +103,9 @@ education:
         time: "Oct 2019 – Oct 2021"
         details: |
           - Several subjects in biostatistical analysis in R.
-          - Thesis: haplotype-based pangenome diversity analysis in wheat (R coding, R/ggplot graphs, NGS-based variant discovery) ([See manuscript](https://github.com/jamonterotena/Haplotype-based-Pangenome-Wheat-Analysis)). 
+          - Thesis: haplotype-based pangenome diversity analysis in wheat (R coding, R/ggplot graphs, NGS-based variant discovery) ([See manuscript](https://github.com/jamonterotena/Haplotype-based-Pangenome-Wheat-Analysis)).
+          - Quantitative genetics topics: genomic prediction, genomic selection, GWAS, QTL mapping
+          - Practical module in plant tissue culture and genetic transformation ([See certificate](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
       - degree: "M. D. in Secondary Education Teacher’s Training"
         university: "University of Extremadura (UEx)"
         time: "Oct 2017 – Jun 2018"
@@ -113,26 +126,20 @@ experiences:
         time: "March 2022 – Feb 2025"
         company: "Justus Liebig University (JLU)"
         details: |
-          - Research focus on recombination in *Brassica napus*
-          - Development of technical skills ([coding for genomic data and multi-omic data analysis](https://github.com/GoliczGenomeLab/haploMAGIC),
-          [machine learning](https://jamonterotena.github.io/ML-reports/),
-          [static](https://jamonterotena.github.io/haploRILs-benchmarking-results/)/[dynamic](https://jamontero.shinyapps.io/VCF_parameters/) reports - click for examples)
-          - Participation in international conferences in the fields of bioinformatics, genomics and plant breeding by [presenting talks](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s) or [posters](https://www.linkedin.com/posts/joseantoniomonterotena_between-12-14-september-i-attended-the-main-activity-6977525461027332097-nXFh?utm_source=share&utm_medium=member_desktop) about my scientific contributions and attending workshops.
-          - Assistance in teaching
-          - Teamwork in a [big multidisciplinary team](https://www.irtg2843.de/about)
-          - Supervised by Prof. Dr. Agnieszka Golicz ([See verification](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
+          - **Developed [novel bioinformatics tools](https://github.com/GoliczGenomeLab/haploMAGIC)** for genomic recombination analysis, leading to [high-impact publications](https://academic.oup.com/g3journal/article/14/8/jkae109/7684607)
+          - **Built and optimized pipelines for [multi-omics data analysis](https://jamonterotena.github.io/ML-reports/)**
+	        - Presented research at leading conferences, earning **[Best Student Presentation at IRC 2023](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)**
+          - Collaborated with a [big multidisciplinary team](https://www.irtg2843.de/about) of breeders, data scientists and bioinformaticians
       - role: "Graduate Student Assistant"
         time: "Dec 2021 - Feb 2022"
         company: "Justus Liebig University (JLU)"
         details: |
-              - Building genome annotation (collaboration in the *Faba bean* genome assembly project)
-              - Computational work in functional genomics (gene ortholog identification, gene sequence alignment, RNA-seq)
-              - Supervised by Prof. Dr. Agnieszka Golicz
+          - **Built bioinformatics pipelines** in collaboration of the faba bean pangenome consortium (gene ortholog identification, gene sequence alignment, RNA-seq)
       - role: "Industry Intern"
         time: "March 2021 – April 2021"
         company: "Deutsche Saatveredelung (DSV)"
         details: |
-          - Molecular breeding lab tasks
+          - Working in a team of molecular plant breeders
           - Development of KASP markers for resistance-related genes using BLAST  ([See verification](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
       - role: "Science Classroom Teacher"
         time: "Sep 2018 – Jul 2019"
@@ -146,9 +153,7 @@ experiences:
         company: "University of Extremadura"
         time: "June 2014 - June 2014"
         details: |
-          - Biochemistry of natural antioxidants
           - Molecular biology lab techniques 
-          - Supervised by Prof. Pedro Macias-Laso ([See verification](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
       - role: "Volunteer Assistant"
         time: "Aug 2016 - Sep 2016"
         company: "Hostelling Scotland (SYHA)"
