@@ -87,7 +87,7 @@ career-profile:
         - Passionate about data science, quantitative genetics, and bioinformatics
         - Experienced in machine learning models and multi-omics data integration
         - Skilled in R, Python, SQL, AWS and workflow automation
-        - Proven ability to work in multidisciplinary, dynamic teams alongside breeders, bioinformaticians, and data scientists
+	- Proven ability to work in multidisciplinary, dynamic teams alongside breeders, bioinformaticians, and data scientists
         - Strong problem-solving mindset, innovative, adaptable, and driven to optimize breeding strategies through computational approaches
         
 education:
@@ -102,7 +102,7 @@ education:
         university: "Justus Liebig University (JLU)"
         time: "Oct 2019 – Oct 2021"
         details: |
-          - Several subjects in biostatistical analysis in R.
+        - Several subjects in biostatistical analysis in R.
           - Thesis: haplotype-based pangenome diversity analysis in wheat (R coding, R/ggplot graphs, NGS-based variant discovery) ([See manuscript](https://github.com/jamonterotena/Haplotype-based-Pangenome-Wheat-Analysis)).
           - Quantitative genetics topics: genomic prediction, genomic selection, GWAS, QTL mapping
           - Practical module in plant tissue culture and genetic transformation ([See certificate](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
@@ -128,7 +128,7 @@ experiences:
         details: |
           - Developed [novel bioinformatics tools](https://github.com/GoliczGenomeLab/haploMAGIC) for genomic recombination analysis, leading to [high-impact publications](https://academic.oup.com/g3journal/article/14/8/jkae109/7684607)
           - Built and optimized pipelines for [multi-omics data analysis](https://jamonterotena.github.io/ML-reports/)
-	  - Presented research at leading conferences, earning **[Best Student Presentation at IRC 2023](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)
+          - Presented research at leading conferences, earning **[Best Student Presentation at IRC 2023](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)
           - Collaborated with a [big multidisciplinary team](https://www.irtg2843.de/about) of breeders, data scientists and bioinformaticians
       - role: "Graduate Student Assistant"
         time: "Dec 2021 - Feb 2022"
