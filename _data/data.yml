@@ -79,17 +79,17 @@ sidebar:
         - item: Classical Guitar
         - item: Mountain Bike
         - item: Languages
- 
+         
  career-profile:
     title: ABOUT ME
     summary: |
-        - Ph.D. candidate in plant breeding with expertise in computational biology, machine learning and high-throughput data analysis
-        - Passionate about data science, quantitative genetics, and bioinformatics
-        - Experienced in machine learning models and multi-omics data integration
-        - Skilled in R, Python, SQL, AWS and workflow automation
-        - Proven ability to work in multidisciplinary, dynamic teams alongside breeders, bioinformaticians, and data scientists
-        - Strong problem-solving mindset, innovative, adaptable, and driven to optimize breeding strategies through computational approaches
-
+        Ph.D. candidate in plant breeding with expertise in computational biology, machine learning and high-throughput data analysis\
+        Passionate about data science, quantitative genetics, and bioinformatics\
+        Experienced in machine learning models and multi-omics data integration\
+        Skilled in R, Python, SQL, AWS and workflow automation\
+        Proven ability to work in multidisciplinary, dynamic teams alongside breeders, bioinformaticians, and data scientists\
+        Strong problem-solving mindset, innovative, adaptable, and driven to optimize breeding strategies through computational approaches\
+         
 education:
     title: Education
     info:
@@ -134,13 +134,13 @@ experiences:
         time: "Dec 2021 - Feb 2022"
         company: "Justus Liebig University (JLU)"
         details: |
-          - Built bioinformatics pipelines** in collaboration of the faba bean pangenome consortium (gene ortholog identification, gene sequence alignment, RNA-seq)
+          - Built bioinformatics pipelines in collaboration of the faba bean pangenome consortium (gene ortholog identification, gene sequence alignment, RNA-seq)
       - role: "Industry Intern"
         time: "March 2021 – April 2021"
         company: "Deutsche Saatveredelung (DSV)"
         details: |
           - Working in a team of molecular plant breeders
-          - Development of KASP markers for resistance-related genes using BLAST  ([See verification](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
+          - Development of KASP markers for resistance-related genes using BLAST  ([See verification](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0)
       - role: "Science Classroom Teacher"
         time: "Sep 2018 – Jul 2019"
         company: "Holmer Green Senior School (HGSS)"
