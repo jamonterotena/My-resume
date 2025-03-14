@@ -126,21 +126,21 @@ experiences:
         time: "March 2022 – Feb 2025"
         company: "Justus Liebig University (JLU)"
         details: |
-          - **Developed [novel bioinformatics tools](https://github.com/GoliczGenomeLab/haploMAGIC)** for genomic recombination analysis, leading to [high-impact publications](https://academic.oup.com/g3journal/article/14/8/jkae109/7684607)
-          - **Built and optimized pipelines for [multi-omics data analysis](https://jamonterotena.github.io/ML-reports/)**
-	        - Presented research at leading conferences, earning **[Best Student Presentation at IRC 2023](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)**
+          - Developed [novel bioinformatics tools](https://github.com/GoliczGenomeLab/haploMAGIC) for genomic recombination analysis, leading to [high-impact publications](https://academic.oup.com/g3journal/article/14/8/jkae109/7684607)
+          - Built and optimized pipelines for [multi-omics data analysis](https://jamonterotena.github.io/ML-reports/)
+	  - Presented research at leading conferences, earning **[Best Student Presentation at IRC 2023](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)
           - Collaborated with a [big multidisciplinary team](https://www.irtg2843.de/about) of breeders, data scientists and bioinformaticians
       - role: "Graduate Student Assistant"
         time: "Dec 2021 - Feb 2022"
         company: "Justus Liebig University (JLU)"
         details: |
-          - **Built bioinformatics pipelines** in collaboration of the faba bean pangenome consortium (gene ortholog identification, gene sequence alignment, RNA-seq)
+          - Built bioinformatics pipelines in collaboration of the faba bean pangenome consortium (gene ortholog identification, gene sequence alignment, RNA-seq)
       - role: "Industry Intern"
         time: "March 2021 – April 2021"
         company: "Deutsche Saatveredelung (DSV)"
         details: |
           - Working in a team of molecular plant breeders
-          - Development of KASP markers for resistance-related genes using BLAST  ([See verification](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
+          - Development of KASP markers for resistance-related genes using [BLAST](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
       - role: "Science Classroom Teacher"
         time: "Sep 2018 – Jul 2019"
         company: "Holmer Green Senior School (HGSS)"
