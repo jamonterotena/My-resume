@@ -32,6 +32,8 @@ sidebar:
     skills_sidebar:
       title: Skills
       info:
+        - idiom: AlphaSimR
+          level: +++++
         - idiom: Amazon S3
           level: +
         - idiom: Bash
@@ -82,6 +84,7 @@ career-profile:
     summary: |
         Highly motivated challenge-driven Ph. D. candidate in plant breeding thrilled to support the product design pipeline by developing and optimizing innovative strategies.
         Technical skills for high-throughput genomic data analysis and machine learning for solving complex biological questions: R, Python, SQL, AWS.
+        Excellent communications skills, showcased with the [best student presentation award in an international conference](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s) and teaching experience.
         Multilingual and with diverse experience working in dynamic, multidisciplinary teams in different countries.
          
 education:
@@ -96,21 +99,18 @@ education:
         university: "Justus Liebig University (JLU)"
         time: "Oct 2019 – Oct 2021"
         details: |
-          - Several subjects in biostatistical analysis in R.
-          - Thesis: haplotype-based pangenome diversity analysis in wheat (R coding, R/ggplot graphs, NGS-based variant discovery) ([See manuscript](https://github.com/jamonterotena/Haplotype-based-Pangenome-Wheat-Analysis)).
-          - Quantitative genetics topics: genomic prediction, genomic selection, GWAS, QTL mapping
+          - Practical experience with R coding and NGS-based variant discovery ([See thesis manuscript](https://github.com/jamonterotena/Haplotype-based-Pangenome-Wheat-Analysis)).
+          - Quantitative genetics-related topics: biostatistics, genomic prediction, genomic selection, GWAS, QTL mapping
           - Practical module in plant tissue culture and genetic transformation ([See certificate](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
       - degree: "M. D. in Secondary Education Teacher’s Training"
         university: "University of Extremadura (UEx)"
         time: "Oct 2017 – Jun 2018"
-        details: |
-          - Teaching methods for Science education
+        details:
       - degree: "B. Sc. in Biochemistry"
         university: "University of Sevilla (US)"
         time: "Sep 2013 – Jul 2017"
         details: |
-          - Regular lab practicals
-          - Subjects in programming and statistical analysis with R
+          - Regular participation in diverse lab practicals 
           - Thesis: Biochemical and physiological effects of ozone on *Capsicum annuum* (greenhouse cultivation, spectrophotometry, ROS assays) ([See manuscript](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0)).
 
 experiences:
@@ -133,8 +133,8 @@ experiences:
         time: "March 2021 – April 2021"
         company: "Deutsche Saatveredelung (DSV)"
         details: |
-          - Working in a team of molecular plant breeders
-          - Development of KASP markers for resistance-related genes using BLAST  ([See verification](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0)
+          - Collaborated in molecular breeding lab work
+          - Development of KASP markers for resistance-related genes using BLAST
       - role: "Science Classroom Teacher"
         time: "Sep 2018 – Jul 2019"
         company: "Holmer Green Senior School (HGSS)"
@@ -146,13 +146,11 @@ experiences:
       - role: "Undergraduate Student Assistant"
         company: "University of Extremadura"
         time: "June 2014 - June 2014"
-        details: |
-          - Molecular biology lab techniques 
+        details:
       - role: "Volunteer Assistant"
         time: "Aug 2016 - Sep 2016"
         company: "Hostelling Scotland (SYHA)"
-        details: |
-          - Assistance with work activities (roomkeeping, catering, reception)
+        details:
 
 publications:
     title: Communications
