@@ -5,7 +5,7 @@ sidebar:
      
     # Profile information
     name: Jose Montero
-    tagline: Bioinformatics and Data Science in Breeding
+    tagline: PhD candidate
     avatar: agrobioinformatics.jpg #profile.png  # Make sure this image is available in the /assets/images/ folder
     
     # Sidebar links
@@ -58,8 +58,6 @@ sidebar:
           level: +++++
         - idiom: Next Generation Sequencing
           level: +++++
-        - idiom: OMOP Common Data Model
-          level: +
         - idiom: Python
           level: +++
         - idiom: R
@@ -82,12 +80,9 @@ sidebar:
 career-profile:
     title: ABOUT ME
     summary: |
-        Ph.D. candidate in plant breeding with expertise in computational biology, machine learning and high-throughput data analysis\
-        Passionate about data science, quantitative genetics, and bioinformatics\
-        Experienced in machine learning models and multi-omics data integration\
-        Skilled in R, Python, SQL, AWS and workflow automation\
-        Proven ability to work in multidisciplinary, dynamic teams alongside breeders, bioinformaticians, and data scientists\
-        Strong problem-solving mindset, innovative, adaptable, and driven to optimize breeding strategies through computational approaches\
+        Highly motivated challenge-driven Ph. D. candidate in plant breeding thrilled to support the product design pipeline by developing and optimizing innovative strategies.
+        Technical skills for high-throughput genomic data analysis and machine learning for solving complex biological questions: R, Python, SQL, AWS.
+        Multilingual and with diverse experience working in dynamic, multidisciplinary teams in different countries.
          
 education:
     title: Education
@@ -268,8 +263,6 @@ skills:
         level: 50% 
       - name: "ChatGPT (Premium Member) for Productivity"
         level: 30%
-      - name: "OMOP Common Data Model (CDM)"
-        level: 0%
 
 recommendations:
   title: Recommendations
