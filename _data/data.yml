@@ -5,7 +5,7 @@ sidebar:
      
     # Profile information
     name: Jose Montero
-    tagline: PhD candidate
+    tagline: Breeding | Bioinformatics | Data Science
     avatar: agrobioinformatics.jpg #profile.png  # Make sure this image is available in the /assets/images/ folder
     
     # Sidebar links
@@ -84,7 +84,7 @@ career-profile:
     summary: |
         Highly motivated challenge-driven Ph. D. candidate in plant breeding thrilled to support the product design pipeline by developing and optimizing innovative strategies.
         Technical skills for high-throughput genomic data analysis and machine learning for solving complex biological questions: R, Python, SQL, AWS.
-        Excellent communications skills, showcased with the [best student presentation award in an international conference](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s) and teaching experience.
+        [Award-winning communication skills](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s).
         Multilingual and with diverse experience working in dynamic, multidisciplinary teams in different countries.
          
 education:
@@ -123,12 +123,12 @@ experiences:
           - Developed [novel bioinformatics tools](https://github.com/GoliczGenomeLab/haploMAGIC) for genomic recombination analysis, leading to [high-impact publications](https://academic.oup.com/g3journal/article/14/8/jkae109/7684607)
           - Built and optimized pipelines for **[multi-omics data analysis](https://jamonterotena.github.io/ML-reports/)**
           - Presented research at leading conferences, earning **[Best Student Presentation at IRC 2023](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)**
-          - Collaborated with a [big multidisciplinary team](https://www.irtg2843.de/about) of breeders, data scientists and bioinformaticians
+          - Collaborated with a **[big multidisciplinary team](https://www.irtg2843.de/about)** of breeders, data scientists and bioinformaticians
       - role: "Graduate Student Assistant"
         time: "Dec 2021 - Feb 2022"
         company: "Justus Liebig University (JLU)"
         details: |
-          - Built bioinformatics pipelines in collaboration of the faba bean pangenome consortium (gene ortholog identification, gene sequence alignment, RNA-seq)
+          - Built **bioinformatics pipelines** in collaboration of the faba bean pangenome consortium (gene ortholog identification, gene sequence alignment, RNA-seq)
       - role: "Industry Intern"
         time: "March 2021 – April 2021"
         company: "Deutsche Saatveredelung (DSV)"
@@ -142,7 +142,7 @@ experiences:
           - Instruction of Science (Physics, Chemistry and Biology) to year 9-11 school students
           - Supervision of practical scientific lectures
           - Evaluation of assignments and examinations
-          - Regular communication with progenitors and colleagues
+          - **Regular communication with parents and colleagues**
       - role: "Undergraduate Student Assistant"
         company: "University of Extremadura"
         time: "June 2014 - June 2014"
