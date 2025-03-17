@@ -9,8 +9,7 @@
   <ul class="list-unstyled interests-list">
     {% for skill_sidebar in skills_sidebar.info %}
     <li>
-      {{ skill_sidebar.idiom }}
-      <span class="lang-desc">  {{ skill_sidebar.level }}</span>
+      <span class="lang-desc">{{ skill_sidebar.level }}</span>&nbsp;&nbsp;&nbsp;&nbsp;{{ skill_sidebar.idiom }}
     </li>
     {% endfor %}
   </ul>
