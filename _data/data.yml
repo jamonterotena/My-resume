@@ -88,9 +88,9 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: 🎸 Classical Guitar
-        - item: 🚵 Mountain Bike
-        - item: 🗣️ Languages
+        - item:  "  🎸  Classical Guitar"
+        - item:  "  🚵  Mountain Bike"
+        - item:  "  🗣️  Languages"
          
 career-profile:
     title: ABOUT ME
