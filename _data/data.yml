@@ -5,7 +5,7 @@ sidebar:
      
     # Profile information
     name: Jose Montero
-    tagline: Breeding | Bioinformatics | Data Science
+    tagline: Plant Breeding | Bioinformatics | Data Science
     avatar: agrobioinformatics.jpg #profile.png  # Make sure this image is available in the /assets/images/ folder
     
     # Sidebar links
@@ -88,9 +88,9 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item:  "  🎸  Classical Guitar"
-        - item:  "  🚵  Mountain Bike"
-        - item:  "  🗣️  Languages"
+        - item:  "🎸 Classical Guitar"
+        - item:  "🚵 Mountain Bike"
+        - item:  "🗣️ Languages"
          
 career-profile:
     title: ABOUT ME
