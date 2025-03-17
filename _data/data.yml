@@ -32,7 +32,7 @@ sidebar:
     skills_sidebar:
       title: Skills
       categories:
-        - title: Programming & Scripting
+        - title: 💻 Programming & Scripting
           info:
             - idiom: Bash
               level: ★★★★★
@@ -44,7 +44,7 @@ sidebar:
               level: ★★★☆☆
             - idiom: SQL
               level: ★★★☆☆
-        - title: Bioinformatics & Genomics
+        - title: 🧬 Bioinformatics & Genomics
           info:
             - idiom: Next Generation Sequencing
               level: ★★★★★
@@ -54,15 +54,15 @@ sidebar:
               level: ★★★★☆
             - idiom: Multi-omics Analysis
               level: ★★★☆☆
-        - title: Machine Learning & Data Science
+        - title: 📊 Machine Learning & Data Science
           info:
-            - idiom: tidymodels
+            - idiom: ML with tidymodels
               level: ★★★★★
             - idiom: XGBoost
               level: ★☆☆☆☆
-        - title: Software & Tools
+        - title: 🛠️ Software & Tools
           info:
-            - idiom: Git/GitHub
+            - idiom: Git (Version Control)
               level: ★★★★★
             - idiom: MarkDown/Quarto
               level: ★★★★★
@@ -70,7 +70,7 @@ sidebar:
               level: ★★★☆☆
             - idiom: Amazon S3
               level: ★☆☆☆☆
-        - title: Computing & Infrastructure
+        - title: 🖥️ Computing & Infrastructure
           info:
             - idiom: AlphaSimR
               level: ★★★★★
@@ -78,7 +78,7 @@ sidebar:
               level: ★★★★★
             - idiom: Linux Terminal
               level: ★★★★☆
-        - title: Productivity & Other Skills
+        - title: 🎯 Productivity & Other Skills
           info:
             - idiom: Fast Typing
               level: ★★★★★
