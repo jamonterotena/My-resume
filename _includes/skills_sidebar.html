@@ -3,14 +3,14 @@
 <div class="skills_sidebar-container container-block">
 
   <!-- Print main skills title -->
-  <h2 class="container-block-title">
+  <h3 class="container-block-title">
     {{ skills_sidebar.title }}
-  </h2>
+  </h3>
 
   {% for category in skills_sidebar.categories %}
-  <h3 class="container-block-subtitle">
+  <h2 class="container-block-subtitle">
     {{ category.title }}
-  </h3>
+  </h2>
 
   <ul class="list-unstyled interests-list">
     {% for skill in category.info %}
