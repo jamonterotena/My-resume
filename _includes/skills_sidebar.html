@@ -2,17 +2,24 @@
 {% if skills_sidebar %}
 <div class="skills_sidebar-container container-block">
 
+  <!-- Print main skills title -->
   <h2 class="container-block-title">
     {{ skills_sidebar.title }}
   </h2>
 
+  {% for category in skills_sidebar %}
+  <h3 class="container-block-subtitle">
+    {{ category.title }}
+  </h3>
+
   <ul class="list-unstyled interests-list">
-    {% for skill_sidebar in skills_sidebar.info %}
+    {% for skill in category.info %}
     <li>
-      <span class="lang-desc">{{ skill_sidebar.level }}</span>&nbsp;&nbsp;&nbsp;&nbsp;{{ skill_sidebar.idiom }}
+      <span class="lang-desc">{{ skill.level }}</span>&nbsp;&nbsp;&nbsp;&nbsp;{{ skill.idiom }}
     </li>
     {% endfor %}
   </ul>
+  {% endfor %}
 
-</div><!--//interests-->
+</div><!--//skills-->
 {% endif %}
