@@ -8,9 +8,9 @@
   </h2>
 
   {% for category in skills_sidebar %}
-  <h2 class="container-block-subtitle">
+  <h3 class="container-block-subtitle">
     {{ category.title }}
-  </h2>
+  </h3>
 
   <ul class="list-unstyled interests-list">
     {% for skill in category.info %}
@@ -19,7 +19,6 @@
     </li>
     {% endfor %}
   </ul>
-  {% endfor %}
 
 </div><!--//skills-->
 {% endif %}
