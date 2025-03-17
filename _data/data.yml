@@ -33,45 +33,45 @@ sidebar:
       title: Skills
       info:
         - idiom: AlphaSimR
-          level: +++++
+          level: ★★★★★
         - idiom: Amazon S3
-          level: +
+          level: ★☆☆☆☆
         - idiom: Bash
-          level: +++++
+          level: ★★★★★
         - idiom: ChatGPT for Productivity
-          level: +++
+          level: ★★★☆☆
         - idiom: Fast Typing
-          level: +++++
+          level: ★★★★★
         - idiom: Genomic imputation
-          level: ++++
+          level: ★★★★☆
         - idiom: Genomic simulation
-          level: ++++
+          level: ★★★★☆
         - idiom: Git
-          level: +++++
+          level: ★★★★★
         - idiom: High Performance Computing
-          level: +++++
+          level: ★★★★★
         - idiom: Linux Terminal
-          level: ++++
+          level: ★★★★☆
         - idiom: ML with tidymodels
-          level: +++++
+          level: ★★★★★
         - idiom: Multi-omics analysis
-          level: +++
+          level: ★★★☆☆
         - idiom: MarkDown/Quarto
-          level: +++++
+          level: ★★★★★
         - idiom: Next Generation Sequencing
-          level: +++++
+          level: ★★★★★
         - idiom: Python
-          level: +++
+          level: ★★★☆☆
         - idiom: R
-          level: +++++
+          level: ★★★★★
         - idiom: SLURM
-          level: +++++
+          level: ★★★★★
         - idiom: SQL
-          level: +++
+          level: ★★★☆☆
         - idiom: Version Control
-          level: +++
+          level: ★★★☆☆
         - idiom: XGBoost
-          level: +
+          level: ★☆☆☆☆
     interests:
       title: Interests
       info:
