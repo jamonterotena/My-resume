@@ -56,7 +56,7 @@ sidebar:
               level: ★★★☆☆
         - title: 📊 Machine Learning & Data Science
           info:
-            - idiom: ML with tidymodels
+            - idiom: tidymodels
               level: ★★★★★
             - idiom: XGBoost
               level: ★☆☆☆☆
