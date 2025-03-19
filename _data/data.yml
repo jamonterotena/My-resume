@@ -5,7 +5,7 @@ sidebar:
      
     # Profile information
     name: Jose Montero
-    tagline: Plant Breeding | Bioinformatics | Data Science
+    tagline: Bioinformatics Specialist
     avatar: agrobioinformatics.jpg #profile.png  # Make sure this image is available in the /assets/images/ folder
     
     # Sidebar links
@@ -95,7 +95,7 @@ sidebar:
 career-profile:
     title: ABOUT ME
     summary: |
-        Highly motivated challenge-driven **Ph. D. candidate** in plant breeding thrilled to support the product design pipeline by **developing and optimizing innovative strategies**.
+        Highly motivated challenge-driven **Ph. D. candidate** in bioinformatics specialized in genomics.
         Technical skills for **high-throughput genomic data analysis** and **machine learning** for solving complex biological questions: **R, Python, SQL, AWS**.
         **[Award-winning communication skills](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s).**
         **Multilingual** and with diverse experience working in **dynamic, multidisciplinary teams** in different countries.
