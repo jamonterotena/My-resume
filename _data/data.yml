@@ -5,7 +5,7 @@ sidebar:
      
     # Profile information
     name: Jose Montero
-    tagline: Bioinformatics Specialist
+    tagline: Bioinformatician
     avatar: agrobioinformatics.jpg #profile.png  # Make sure this image is available in the /assets/images/ folder
     
     # Sidebar links
@@ -95,10 +95,8 @@ sidebar:
 career-profile:
     title: ABOUT ME
     summary: |
-        Highly motivated challenge-driven **Ph. D. candidate** in bioinformatics specialized in genomics.
-        Technical skills for **high-throughput genomic data analysis** and **machine learning** for solving complex biological questions: **R, Python, SQL, AWS**.
-        **[Award-winning communication skills](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s).**
-        **Multilingual** and with diverse experience working in **dynamic, multidisciplinary teams** in different countries.
+        - PhD candidate with **coding and NGS analysis expertise** gained through international, multidisciplinary collaborations.
+        - **[Award-winning multilingual communicator](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)** with a passion for **technical support** and **[peer mentorship](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0)**.
          
 education:
     title: Education
@@ -113,8 +111,8 @@ education:
         time: "Oct 2019 – Oct 2021"
         details: |
           - Practical experience with R coding and NGS-based variant discovery ([See thesis manuscript](https://github.com/jamonterotena/Haplotype-based-Pangenome-Wheat-Analysis)).
-          - Quantitative genetics-related topics: biostatistics, genomic prediction, genomic selection, GWAS, QTL mapping
-          - Practical module in plant tissue culture and genetic transformation ([See certificate](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
+          #- Quantitative genetics-related topics: biostatistics, genomic prediction, genomic selection, GWAS, QTL mapping
+          #- Practical module in plant tissue culture and genetic transformation ([See certificate](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
       - degree: "M. D. in Secondary Education Teacher’s Training"
         university: "University of Extremadura (UEx)"
         time: "Oct 2017 – Jun 2018"
@@ -133,6 +131,8 @@ experiences:
         time: "March 2022 – Feb 2025"
         company: "Justus Liebig University (JLU)"
         details: |
+          - Mentorship of a master thesis student with positive feedback ([See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
+          - Delivered workshop for introducing version control systems to peers, specifically git 
           - Developed **[novel bioinformatics tools](https://github.com/GoliczGenomeLab/haploMAGIC)** for genomic recombination analysis, leading to **[high-impact publications](https://academic.oup.com/g3journal/article/14/8/jkae109/7684607)**
           - Built and optimized pipelines for **[multi-omics data analysis](https://jamonterotena.github.io/ML-reports/)**
           - Presented research at leading conferences, earning **[Best Student Presentation at IRC 2023](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)**
@@ -147,7 +147,7 @@ experiences:
         company: "Deutsche Saatveredelung (DSV)"
         details: |
           - Collaborated in molecular breeding lab work
-          - Development of KASP markers for resistance-related genes using BLAST
+          #- Development of KASP markers for resistance-related genes using BLAST
       - role: "Science Classroom Teacher"
         time: "Sep 2018 – Jul 2019"
         company: "Holmer Green Senior School (HGSS)"
