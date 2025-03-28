@@ -131,7 +131,7 @@ experiences:
         time: "March 2022 – Feb 2025"
         company: "Justus Liebig University (JLU)"
         details: |
-          #- Mentorship of a master thesis student with positive feedback ([See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
+#          - Mentorship of a master thesis student with positive feedback ([See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
           - Developed **[novel bioinformatics tools](https://github.com/GoliczGenomeLab/haploMAGIC)** for genomic recombination analysis, leading to **[high-impact publications](https://academic.oup.com/g3journal/article/14/8/jkae109/7684607)**
           - Built and optimized pipelines for **[multi-omics data analysis](https://jamonterotena.github.io/ML-reports/)**
           - Delivered workshop for introducing version control systems to peers, specifically git 
