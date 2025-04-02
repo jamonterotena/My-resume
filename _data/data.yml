@@ -73,24 +73,24 @@ publications:
     papers:
       - title: "CpG methylation, gene count and telomeric proximity are the main predictors of meiotic crossovers in rapeseed (SUBMITTED)"
         authors: "Montero-Tena JA, Zanini SF, Yildiz Gozde, Kox T, Abbadi A, Snowdon RJ, Golicz AA"
-        conference: "The Plant Journal (accepted)"
+        conference: "Under Review"
       - title: "haploMAGIC: accurate phasing and detection of recombination in multiparental populations despite
       genotyping errors"
         authors: "Montero-Tena JA, Abdollahi Sisi N, Kox T, Abbadi A, Snowdon RJ, Golicz AA"
         conference: "G3 (Bethesda) (2024)"
-        link: https://academic.oup.com/g3journal/article/14/8/jkae109/7684607 #"[https://doi.org/10.1093/g3journal/jkae109](https://academic.oup.com/g3journal/article/14/8/jkae109/7684607)"
+        link: https://academic.oup.com/g3journal/article/14/8/jkae109/7684607
 #      - title: "Poster: Defining the Genome-wide Recombination Landscape of Brassica napus"
 #        authors: "Montero-Tena JA"
 #        conference: "GCB German Conference of Bioinformatics, Bielefeld, Germany (30 Sep – 2 Oct 2024)"
       - title: "Oral presentation (watch video): haploMAGIC: Phasing and detecting recombination in multiparental populations (awarded prize to best oral presentation)"
         authors: "Montero-Tena JA"
         conference: "IRC International Rapeseed Congress, Sydney, Australia (24 – 27 Sep 2023)"
-        link: https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s #"[Oral Presentation: haploMAGIC: Phasing and Detecting Recombination in Multiparental Populations (Awarded Prize to Best Oral Presentation)](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)"
+        link: https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s
       - title: "Poster: Generating genome-wide recombination maps using SNP genotyping"
         authors: "Montero-Tena JA"
         journal: "GPZ German Plant Breeding Conference, Düsseldorf, Germany"
         date: "12 – 14 Sep 2022"
-        link: https://www.linkedin.com/posts/joseantoniomonterotena_between-12-14-september-i-attended-the-main-activity-6977525461027332097-nXFh?utm_source=share&utm_medium=member_desktop #"[Generating Genome-Wide Recombination Maps Using SNP Genotyping](https://www.linkedin.com/posts/joseantoniomonterotena_between-12-14-september-i-attended-the-main-activity-6977525461027332097-nXFh?utm_source=share&utm_medium=member_desktop)"
+        link: https://www.linkedin.com/posts/joseantoniomonterotena_between-12-14-september-i-attended-the-main-activity-6977525461027332097-nXFh?utm_source=share&utm_medium=member_desktop
 recommendations:
   title: Recommendations
   list:
