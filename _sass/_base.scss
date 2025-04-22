@@ -106,18 +106,18 @@ p {
     font-size: 20px;
     font-weight: 700;
     margin-top: 0;
-    margin-bottom: 2px; // reduced from 15px
+    margin-bottom: 4px; // reduced from 15px
   }
 
   .degree {
     font-size: 14px;
     margin-top: 0;
-    margin-bottom: 2px; // reduced from 5px
+    margin-bottom: 4px; // reduced from 5px
   }
 
   .education-container {
     .item {
-      margin-bottom: 2px; // reduced from 15px
+      margin-bottom: 4px; // reduced from 15px
       &:last-child {
         margin-bottom: 0;
       }
@@ -132,7 +132,7 @@ p {
   .languages-list, .interests-list {
     margin-bottom: 0;
     li {
-      margin-bottom: 2px; // reduced from 10px
+      margin-bottom: 4px; // reduced from 10px
       &:last-child {
         margin-bottom: 0;
       }
@@ -161,14 +161,14 @@ p {
   }
 
   .section {
-    margin-bottom: 2px; // reduced from 60px
+    margin-bottom: 4px; // reduced from 60px
   }
 
   .experiences-section,
   .recommendations-section,
   .educations-section {
     .item {
-      margin-bottom: 2px; // reduced from 30px
+      margin-bottom: 4px; // reduced from 30px
     }
   }
 
@@ -176,7 +176,7 @@ p {
   .second-upper-row {
     position: relative;
     overflow: hidden;
-    margin-bottom: 2px;
+    margin-bottom: 4px;
     display: flex;
   }
 
@@ -203,7 +203,7 @@ p {
   .company,
   .university,
   .cert-org {
-    margin-bottom: 2px; // reduced from 10px
+    margin-bottom: 4px; // reduced from 10px
     color: $text-grey;
   }
 
@@ -211,7 +211,7 @@ p {
     font-size: 16px;
     font-weight: 400;
     margin-top: 0;
-    margin-bottom: 2px; // reduced from 5px
+    margin-bottom: 4px; // reduced from 5px
     color: darken($theme-color, 15%);
   }
 
@@ -219,11 +219,11 @@ p {
   .oss-section,
   .publications-section {
     .intro {
-      margin-bottom: 2px; // reduced from 30px
+      margin-bottom: 4px; // reduced from 30px
     }
 
     .item {
-      margin-bottom: 2px; // reduced from 15px
+      margin-bottom: 4px; // reduced from 15px
     }
   }
 
@@ -231,26 +231,26 @@ p {
     font-size: 16px;
     font-weight: 400;
     color: $text-color;
-    margin-bottom: 2px;
+    margin-bottom: 4px;
   }
 
   .publication-authors {
     font-style: italic;
     color: $text-grey;
-    margin-bottom: 2px;
+    margin-bottom: 4px;
   }
 }
 
 .skillset {
   .item {
-    margin-bottom: 2px; // reduced from 15px
+    margin-bottom: 4px; // reduced from 15px
     overflow: hidden;
   }
 
   .level-title {
     font-size: 16px;
     margin-top: 0;
-    margin-bottom: 2px; // reduced from 12px
+    margin-bottom: 4px; // reduced from 12px
   }
 
   .level-bar,
