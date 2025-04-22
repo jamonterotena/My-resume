@@ -6,7 +6,7 @@ body {
   font-size: 12px; // reduced from 14px
   margin-right: 4px;
   margin-right: 4px;
-  padding: 0px;
+  padding: 4px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -45,15 +45,16 @@ p {
   order: $sidebar-order;
   background: $theme-color;
   color: #fff;
-  margin-right: 4px;
-  margin-left: 4px;
+  margin-right: 0px;
+  margin-left: 0px;
+  padding: 4px;
 
   a {
     color: #fff;
   }
 
   .profile-container {
-    padding: 0px; // reduced from 30px
+    padding: 4px; // reduced from 30px
     background: rgba(0, 0, 0, 0.2);
     text-align: center;
     color: #fff;
@@ -64,7 +65,7 @@ p {
     font-weight: 900;
     margin-top: 0;
     margin-bottom: 0px; // reduced from 10px
-    margin-right: 4px;
+    margin-right: 0px;
 
   }
 
@@ -74,13 +75,13 @@ p {
     font-weight: 400;
     margin-top: 0;
     margin-bottom: 0;
-    margin-right: 4px;
+    margin-right: 0px;
 
   }
 
   .profile {
-    margin-bottom: 0px; // reduced from 15px
-    margin-right: 4px;
+    margin-bottom: 4px; // reduced from 15px
+    margin-right: 0px;
   }
 
   .avatar {
@@ -109,7 +110,7 @@ p {
 
   .container-block .container-block:last-child {
     padding: 0px;
-    margin-right: 2px;
+    margin-right: 0px;
     margin-bottom: 4px;
   }
 
@@ -161,8 +162,8 @@ p {
   order: $resume-order;
   background: #fff;
   padding: 0px;
-  margin-right: 4px;
-  margin-left: 4px;
+  margin-right: 0px;
+  margin-left: 0px;
 
   .section-title {
     text-transform: uppercase;
