@@ -44,6 +44,8 @@ p {
   order: $sidebar-order;
   background: $theme-color;
   color: #fff;
+  margin-right: 4px;
+  margin-left: 4px;
 
   a {
     color: #fff;
@@ -152,6 +154,8 @@ p {
   order: $resume-order;
   background: #fff;
   padding: 60px;
+  margin-right: 4px;
+  margin-left: 4px;
 
   .section-title {
     text-transform: uppercase;
