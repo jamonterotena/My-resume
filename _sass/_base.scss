@@ -3,7 +3,7 @@ body {
   font-family: "Roboto", sans-serif;
   color: $text-color-secondary;
   background: $smoky-white;
-  font-size: 10px; // reduced from 14px
+  font-size: 12px; // reduced from 14px
   padding: 14px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -103,7 +103,7 @@ p {
 
   .container-block-title {
     text-transform: uppercase;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 700;
     margin-top: 0;
     margin-bottom: 2px; // reduced from 15px
@@ -152,12 +152,12 @@ p {
 
   .section-title {
     text-transform: uppercase;
-    font-size: 20px;
+    font-size: 16px;
     font-weight: 500;
     color: darken($theme-color, 15%);
     position: relative;
     margin-top: 0;
-    margin-bottom: 0px; // reduced from 20px
+    margin-bottom: 1px; // reduced from 20px
   }
 
   .section {
@@ -247,7 +247,7 @@ p {
   }
 
   .level-title {
-    font-size: 14px;
+    font-size: 16px;
     margin-top: 0;
     margin-bottom: 2px; // reduced from 12px
   }
