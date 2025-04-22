@@ -4,7 +4,8 @@ body {
   color: $text-color-secondary;
   background: $smoky-white;
   font-size: 12px; // reduced from 14px
-  margin-right: 2px;
+  margin-right: 4px;
+  margin-right: 4px;
   padding: 14px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -15,7 +16,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-  color: darken($theme-color, 15%);
+  color: darken($theme-color, 30%);
   &:hover {
     text-decoration: underline;
     color: darken($theme-color, 30%);
