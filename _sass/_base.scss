@@ -39,7 +39,7 @@ p {
 }
 
 .sidebar-wrapper {
-  grid-column: span 3;
+  grid-column: span 4; // increased from 3
   order: $sidebar-order;
   background: $theme-color;
   color: #fff;
@@ -71,11 +71,11 @@ p {
   }
 
   .profile {
-    margin-bottom: 10px; // reduced from 15px
+    margin-bottom: 0px; // reduced from 15px
   }
 
   .avatar {
-    max-width: 100px;
+    max-width: 120px;
     margin-bottom: 0px; // reduced from 15px
     border: 0px solid #fff;
     border-radius: 100%;
@@ -84,7 +84,7 @@ p {
 
   .contact-list {
     .fas, .fab, .far {
-      margin-right: 5px;
+      margin-right: 0px;
       font-size: 18px;
       vertical-align: middle;
     }
