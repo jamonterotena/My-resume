@@ -4,7 +4,7 @@ body {
   color: $text-color-secondary;
   background: $smoky-white;
   font-size: 14px;
-  padding: 15px;
+  padding: 14px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -25,7 +25,7 @@ a {
 }
 
 p {
-  line-height: 1.5;
+  line-height: 1.0; // reduced from 1.5px
 }
 
 .wrapper {
@@ -59,7 +59,7 @@ p {
     font-size: 32px;
     font-weight: 900;
     margin-top: 0;
-    margin-bottom: 8px; // reduced from 10px
+    margin-bottom: 0px; // reduced from 10px
   }
 
   .tagline {
@@ -76,7 +76,7 @@ p {
 
   .avatar {
     max-width: 100px;
-    margin-bottom: 10px; // reduced from 15px
+    margin-bottom: 0px; // reduced from 15px
     border: 0px solid #fff;
     border-radius: 100%;
     box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
@@ -90,7 +90,7 @@ p {
     }
 
     li {
-      margin-bottom: 10px; // reduced from 15px
+      margin-bottom: 0px; // reduced from 15px
       &:last-child {
         margin-bottom: 0;
       }
@@ -103,21 +103,21 @@ p {
 
   .container-block-title {
     text-transform: uppercase;
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 700;
     margin-top: 0;
-    margin-bottom: 10px; // reduced from 15px
+    margin-bottom: 0px; // reduced from 15px
   }
 
   .degree {
     font-size: 14px;
     margin-top: 0;
-    margin-bottom: 4px; // reduced from 5px
+    margin-bottom: 0px; // reduced from 5px
   }
 
   .education-container {
     .item {
-      margin-bottom: 10px; // reduced from 15px
+      margin-bottom: 0px; // reduced from 15px
       &:last-child {
         margin-bottom: 0;
       }
@@ -132,7 +132,7 @@ p {
   .languages-list, .interests-list {
     margin-bottom: 0;
     li {
-      margin-bottom: 8px; // reduced from 10px
+      margin-bottom: 0px; // reduced from 10px
       &:last-child {
         margin-bottom: 0;
       }
@@ -157,17 +157,17 @@ p {
     color: darken($theme-color, 15%);
     position: relative;
     margin-top: 0;
-    margin-bottom: 15px; // reduced from 20px
+    margin-bottom: 0px; // reduced from 20px
   }
 
   .section {
-    margin-bottom: 30px; // reduced from 60px
+    margin-bottom: 0px; // reduced from 60px
   }
 
   .experiences-section,
   .educations-section {
     .item {
-      margin-bottom: 15px; // reduced from 30px
+      margin-bottom: 0px; // reduced from 30px
     }
   }
 
@@ -175,7 +175,7 @@ p {
   .second-upper-row {
     position: relative;
     overflow: hidden;
-    margin-bottom: 2px;
+    margin-bottom: 0px;
     display: flex;
   }
 
@@ -202,7 +202,7 @@ p {
   .company,
   .university,
   .cert-org {
-    margin-bottom: 8px; // reduced from 10px
+    margin-bottom: 0px; // reduced from 10px
     color: $text-grey;
   }
 
@@ -210,7 +210,7 @@ p {
     font-size: 16px;
     font-weight: 400;
     margin-top: 0;
-    margin-bottom: 4px; // reduced from 5px
+    margin-bottom: 0px; // reduced from 5px
     color: darken($theme-color, 15%);
   }
 
@@ -218,11 +218,11 @@ p {
   .oss-section,
   .publications-section {
     .intro {
-      margin-bottom: 20px; // reduced from 30px
+      margin-bottom: 0px; // reduced from 30px
     }
 
     .item {
-      margin-bottom: 10px; // reduced from 15px
+      margin-bottom: 0px; // reduced from 15px
     }
   }
 
@@ -230,26 +230,26 @@ p {
     font-size: 16px;
     font-weight: 400;
     color: $text-color;
-    margin-bottom: 1px;
+    margin-bottom: 0px;
   }
 
   .publication-authors {
     font-style: italic;
     color: $text-grey;
-    margin-bottom: 1px;
+    margin-bottom: 0px;
   }
 }
 
 .skillset {
   .item {
-    margin-bottom: 10px; // reduced from 15px
+    margin-bottom: 0px; // reduced from 15px
     overflow: hidden;
   }
 
   .level-title {
     font-size: 14px;
     margin-top: 0;
-    margin-bottom: 10px; // reduced from 12px
+    margin-bottom: 0px; // reduced from 12px
   }
 
   .level-bar,
