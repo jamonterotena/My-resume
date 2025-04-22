@@ -4,7 +4,7 @@ body {
   color: $text-color-secondary;
   background: $smoky-white;
   font-size: 8px; //14px
-  padding: 15px; // reduced from 30px
+  padding: 30px; //30px
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -52,7 +52,8 @@ p {
     color: #fff;
   }
   .profile-container {
-    padding: 15px; // reduced from 30px
+    padding: 30px;
+    //background: darken($theme-color, 10%);
     background: rgba(0, 0, 0, 0.2);
     text-align: center;
     color: #fff;
@@ -75,13 +76,13 @@ p {
   }
 
   .avatar {
+    //used for profile image
     max-width: 100px;
     margin-bottom: 15px;
     border: 0px solid #fff;
     border-radius: 100%;
     box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
   }
-
   .contact-list {
     .fas,
     .fab,
@@ -97,11 +98,9 @@ p {
       }
     }
   }
-
   .container-block {
-    padding: 15px; // reduced from 30px
+    padding: 30px;
   }
-
   .container-block-title {
     text-transform: uppercase;
     font-size: 16px;
@@ -109,13 +108,11 @@ p {
     margin-top: 0;
     margin-bottom: 15px;
   }
-
   .degree {
     font-size: 14px;
     margin-top: 0;
     margin-bottom: 5px;
   }
-
   .education-container {
     .item {
       margin-bottom: 15px;
@@ -135,7 +132,6 @@ p {
       margin-bottom: 0px;
     }
   }
-
   .languages-container {
     .lang-desc {
       color: rgba(256, 256, 256, 0.6);
@@ -167,7 +163,7 @@ p {
   grid-column: span 7;
   order: $resume-order;
   background: #fff;
-  padding: 30px 20px; // reduced from 60px
+  padding: 60px;
   .section-title {
     text-transform: uppercase;
     font-size: 20px;
@@ -177,7 +173,6 @@ p {
     margin-top: 0;
     margin-bottom: 20px;
   }
-
   .section {
     margin-bottom: 60px;
   }
@@ -188,7 +183,6 @@ p {
       margin-bottom: 30px;
     }
   }
-
   .upper-row,
   .second-upper-row {
     position: relative;
@@ -196,10 +190,9 @@ p {
     margin-bottom: 2px;
     display: flex;
   }
-
   .job-title,
   .degree,
-  .cert-title {
+  .cert-title{
     color: $text-color;
     font-size: 16px;
     margin-top: 0;
@@ -207,7 +200,6 @@ p {
     font-weight: 500;
     flex: 75%;
   }
-
   .time,
   .cert-url {
     position: absolute;
@@ -216,7 +208,6 @@ p {
     color: $text-grey;
     flex: 25%;
   }
-
   .company,
   .university,
   .cert-org {
@@ -231,7 +222,6 @@ p {
     margin-bottom: 5px;
     color: darken($theme-color, 15%);
   }
-
   .projects-section {
     .intro {
       margin-bottom: 30px;
@@ -240,7 +230,6 @@ p {
       margin-bottom: 15px;
     }
   }
-
   .oss-section {
     .intro {
       margin-bottom: 30px;
@@ -256,13 +245,11 @@ p {
     color: $text-color;
     margin-bottom: 1px;
   }
-
   .publication-authors {
     font-style: italic;
     color: $text-grey;
     margin-bottom: 1px;
   }
-
   .publications-section {
     .intro {
       margin-bottom: 30px;
@@ -278,18 +265,15 @@ p {
     margin-bottom: 15px;
     overflow: hidden;
   }
-
   .level-title {
     font-size: 14px;
     margin-top: 0;
     margin-bottom: 12px;
   }
-
   .level-bar {
     height: 12px;
     background: $smoky-white;
   }
-
   .level-bar-inner {
     height: 12px;
     background: lighten($theme-color, 15%);
