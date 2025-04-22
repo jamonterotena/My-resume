@@ -97,8 +97,9 @@ p {
     }
   }
 
-  .container-block {
+  .container-block .container-block:last-child {
     padding: 30px;
+    margin-bottom: 0;
   }
 
   .container-block-title {
