@@ -39,7 +39,7 @@ p {
 }
 
 .sidebar-wrapper {
-  grid-column: span 4; // increased from 3
+  grid-column: span 3;
   order: $sidebar-order;
   background: $theme-color;
   color: #fff;
@@ -75,7 +75,7 @@ p {
   }
 
   .avatar {
-    max-width: 120px;
+    max-width: 100px;
     margin-bottom: 0px; // reduced from 15px
     border: 0px solid #fff;
     border-radius: 100%;
