@@ -1,8 +1,12 @@
 career-profile:
     title: ABOUT ME
     summary: |
-        - PhD candidate specialised in **coding writing** for **NGS and multi-omics data analysis** gained through international, multidisciplinary collaborations
-        - **[Award-winning multilingual communicator](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)** with a passion for **technical support** and **[peer mentorship](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0)**
+#        - PhD candidate specialised in **coding writing** for **NGS and multi-omics data analysis** gained through international, multidisciplinary collaborations
+         - PhD candidate in Agrobioinformatics
+         - Passionate about discovering biological insights in Plant Science by applying **statistical and machine learning methods** for advancing agriculture
+         - Trained in developing **optimized workflows** for extracting **highly curated genomic data**
+         - **[Award-winning multilingual communicator](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)** (ENG/GER/SPA)
+#        - **[Award-winning multilingual communicator](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)** with a passion for **technical support** and **[peer mentorship](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0)**
 experiences:
     title: Experience
     info:
@@ -10,12 +14,14 @@ experiences:
         time: "March 2022 – Feb 2025"
         company: "Justus Liebig University (JLU)"
         details: |
+          - Applied **(advanced Machine Learning algorithms](https://jamonterotena.github.io/ML-reports/)** to solve a highly complex biological question, the recombination landscape in *Brassica napus*
           - Developed **[novel bioinformatics tools](https://github.com/GoliczGenomeLab/haploMAGIC)** for genomic recombination analysis, leading to **[high-impact publications](https://academic.oup.com/g3journal/article/14/8/jkae109/7684607)**
-          - Built and optimized pipelines for **[multi-omics data analysis](https://jamonterotena.github.io/ML-reports/)**
-          - Delivered workshop for introducing version control systems to peers, specifically git 
+          - Developed **NGS analysis workflows** for variant calling
+#         - Built and optimized pipelines for **[multi-omics data analysis](https://jamonterotena.github.io/ML-reports/)**
+#         - Delivered workshop for introducing version control systems to peers, specifically git 
           - Presented research at leading conferences, earning **[Best Student Presentation at IRC 2023](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)**
-#          - Mentorship of a master thesis student with positive feedback ([See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
-#          - Collaborated with a **[big multidisciplinary team](https://www.irtg2843.de/about)** of breeders, data scientists and bioinformaticians
+          - Mentorship of a master thesis student with positive feedback ([See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
+          - Collaborated with a **[big multidisciplinary team](https://www.irtg2843.de/about)** of breeders, data scientists and bioinformaticians
       - role: "Graduate Student Assistant"
         time: "Dec 2021 - Feb 2022"
         company: "Justus Liebig University (JLU)"
@@ -158,7 +164,7 @@ sidebar:
      
     # Profile information
     name: Jose Montero
-    tagline: Bioinformatician
+    tagline: Data Science | Plant Genomics
     avatar: agrobioinformatics.jpg #profile.png  # Make sure this image is available in the /assets/images/ folder
     
     # Sidebar links
