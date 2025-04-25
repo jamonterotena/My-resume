@@ -51,6 +51,7 @@ p {
   }
   .profile-container {
     padding: 30px; // reduced from 30px
+    //background: darken($theme-color, 10%);
     background: rgba(0, 0, 0, 0.2);
     text-align: center;
     color: #fff;
@@ -59,7 +60,7 @@ p {
     font-size: 32px;
     font-weight: 900;
     margin-top: 0;
-    margin-bottom: 0px; // reduced from 10px
+    margin-bottom: 10px; // reduced from 10px
   }
   .tagline {
     color: rgba(256, 256, 256, 0.6);
@@ -67,15 +68,12 @@ p {
     font-weight: 400;
     margin-top: 0;
     margin-bottom: 0;
-    margin-right: 0px;
-
   }
-
   .profile {
     margin-bottom: 4px; // reduced from 15px
     margin-right: 0px;
   }
-
+  
   .avatar {
     max-width: 100px;
     margin-bottom: 0px; // reduced from 15px
@@ -84,14 +82,12 @@ p {
     box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
     margin-right: 0px;
   }
-
   .contact-list {
     .fas, .fab, .far {
       margin-right: 0px;
       font-size: 18px;
       vertical-align: middle;
     }
-
     li {
       margin-bottom: 0px; // reduced from 15px
       &:last-child {
@@ -99,13 +95,11 @@ p {
       }
     }
   }
-
   .container-block .container-block:last-child {
     padding: 0px;
     margin-right: 0px;
     margin-bottom: 4px;
   }
-
   .container-block-title {
     text-transform: uppercase;
     font-size: 20px;
@@ -113,13 +107,11 @@ p {
     margin-top: 0;
     margin-bottom: 4px; // reduced from 15px
   }
-
   .degree {
     font-size: 14px;
     margin-top: 0;
     margin-bottom: 4px; // reduced from 5px
   }
-
   .education-container {
     .item {
       margin-bottom: 4px; // reduced from 15px
@@ -127,13 +119,11 @@ p {
         margin-bottom: 0;
       }
     }
-
     .meta, .time {
       margin-bottom: 0;
       margin-top: 0;
     }
   }
-
   .languages-list, .interests-list {
     margin-bottom: 0;
     li {
@@ -143,7 +133,7 @@ p {
       }
     }
   }
-
+  
   .languages-container .lang-desc {
     color: rgba(256, 256, 256, 0.6);
   }
