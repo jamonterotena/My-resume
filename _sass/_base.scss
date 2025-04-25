@@ -46,27 +46,21 @@ p {
   margin-right: 0px;
   margin-left: 0px;
   padding: 4px;
-
   a {
     color: #fff;
   }
-
   .profile-container {
-    padding: 4px; // reduced from 30px
+    padding: 30px; // reduced from 30px
     background: rgba(0, 0, 0, 0.2);
     text-align: center;
     color: #fff;
   }
-
   .name {
     font-size: 32px;
     font-weight: 900;
     margin-top: 0;
     margin-bottom: 0px; // reduced from 10px
-    margin-right: 0px;
-
   }
-
   .tagline {
     color: rgba(256, 256, 256, 0.6);
     font-size: 18px; // reduced from 16px
