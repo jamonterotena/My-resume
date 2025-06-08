@@ -1,12 +1,10 @@
 career-profile:
     title: ABOUT ME
     summary: |
-          - **PhD candidate in Agrobioinformatics**
-          - Passionate about discovering biological insights in Plant Science by applying **statistical and machine learning methods** for advancing agriculture
-          - Trained in developing **optimized workflows** for extracting **highly curated genomic data**
-          - **[Award-winning multilingual communicator](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)**
-#         - PhD candidate specialised in **coding writing** for **NGS and multi-omics data analysis** gained through international, multidisciplinary collaborations
-#         - **[Award-winning multilingual communicator](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)** with a passion for **technical support** and **[peer mentorship](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0)**
+          - Fully available for fast onboarding
+          - Expert in developing pipelines and software for NGS data analysis.
+          - Confident use of version control and high performance computing.
+          - **PhD candidate in Bioinformatics** with **[Award-winning communication skills](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)**.
 experiences:
     title: Experience
     info:
@@ -14,7 +12,6 @@ experiences:
         time: "March 2022 – Feb 2025"
         company: "Justus Liebig University (JLU)"
         details: |
-          - Applied **[advanced Machine Learning algorithms](https://jamonterotena.github.io/ML-reports/)** to solve a highly complex biological question, the recombination landscape in *Brassica napus*
           - Developed **[novel bioinformatics tools](https://github.com/GoliczGenomeLab/haploMAGIC)** for genomic recombination analysis, leading to **[high-impact publications](https://academic.oup.com/g3journal/article/14/8/jkae109/7684607)**
           - Developed **NGS analysis workflows** for variant calling
           - Presented research at leading conferences, earning **[Best Student Presentation at IRC 2023](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)**
@@ -31,7 +28,7 @@ experiences:
         time: "March 2021 – April 2021"
         company: "Deutsche Saatveredelung (DSV)"
         details: |
-          - Collaborated in molecular breeding lab work
+          - Insightful experience in ambitious corporative environment
 #          - Development of KASP markers for resistance-related genes using BLAST
       - role: "Science Classroom Teacher"
         time: "Sep 2018 – Jul 2019"
@@ -186,8 +183,6 @@ sidebar:
           level: ★★★★★
         - idiom: German
           level: ★★★☆☆
-        - idiom: Italian
-          level: ★★☆☆☆
     skills_sidebar:
       title: Skills
       categories:
@@ -211,14 +206,6 @@ sidebar:
               level: ★★★★☆
             - idiom: Genomic Simulation
               level: ★★★★☆
-            - idiom: Multi-omics Analysis
-              level: ★★★☆☆
-        - title: 📊 Machine Learning & Data Science
-          info:
-            - idiom: tidymodels
-              level: ★★★★★
-            - idiom: XGBoost
-              level: ★☆☆☆☆
         - title: 🛠️ Software & Tools
           info:
             - idiom: Git (Version Control)
@@ -227,12 +214,8 @@ sidebar:
               level: ★★★★★
             - idiom: ChatGPT for Productivity
               level: ★★★☆☆
-            - idiom: Amazon S3
-              level: ★☆☆☆☆
         - title: 🖥️ Computing & Infrastructure
           info:
-            - idiom: AlphaSimR
-              level: ★★★★★
             - idiom: High-Performance Computing
               level: ★★★★★
             - idiom: Linux Terminal
