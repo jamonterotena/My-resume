@@ -1,10 +1,11 @@
 career-profile:
     title: ABOUT ME
     summary: |
-          - Fully available for fast onboarding
-          - Expert in developing pipelines and software for NGS data analysis.
-          - Confident use of version control and high performance computing.
-          - **PhD candidate in Bioinformatics** with **[Award-winning communication skills](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)**.
+          - Developed automated [pipelines](https://github.com/GoliczGenomeLab/haploMAGIC) for [large-scale omics data analysis](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html) in R and Linux environments
+          - Provided bioinformatics support to interdisciplinary research teams
+          - Familiar with compound screening for drug discovery
+          - Excellent visual communication skills with experience in Shiny [—check out this personal project](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/)
+          - [Award-winning oral communication](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)**
 experiences:
     title: WORK EXPERIENCE
     info:
@@ -13,10 +14,11 @@ experiences:
         company: "Justus Liebig University (JLU)"
         details: |
           - Developed **[novel bioinformatics tools](https://github.com/GoliczGenomeLab/haploMAGIC)** for genomic recombination analysis, leading to **[high-impact publications](https://academic.oup.com/g3journal/article/14/8/jkae109/7684607)**
-          - Developed **NGS analysis workflows** for variant calling
+          - Developed pipelines for omics data processing and analysis in R and bash
           - Presented research at leading conferences, earning **[Best Student Presentation at IRC 2023](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)**
           - Mentorship of a master thesis student with positive feedback ([See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
-          - Collaborated with a **[big multidisciplinary team](https://www.irtg2843.de/about)** of breeders, data scientists and bioinformaticians
+          - Teamwork as part of an **[large, multicultural, interdisciplinary team](https://www.irtg2843.de/about)** of breeders, data scientists and bioinformaticians
+#         - Developed **NGS analysis workflows** for variant calling          
 #         - Built and optimized pipelines for **[multi-omics data analysis](https://jamonterotena.github.io/ML-reports/)**
 #         - Delivered workshop for introducing version control systems to peers, specifically git 
       - role: "Graduate Student Assistant"
@@ -161,7 +163,7 @@ sidebar:
      
     # Profile information
     name: Jose Montero
-    tagline: Data Science | Plant Genomics
+    tagline: PhD Candidate
     avatar: agrobioinformatics.jpg #profile.png  # Make sure this image is available in the /assets/images/ folder
     
     # Sidebar links
@@ -188,26 +190,38 @@ sidebar:
       categories:
         - title: 💻 Programming & Scripting
           info:
-            - idiom: Bash
-              level: ★★★★★
             - idiom: R
               level: ★★★★★
-            - idiom: SLURM
+            - idiom: Shiny
               level: ★★★★★
+            - idiom: Bash
+              level: ★★★★★              
             - idiom: Python
               level: ★★★☆☆
-            - idiom: SQL
-              level: ★★★☆☆
+#           - idiom: SQL
+#             level: ★★★☆☆
+#           - idiom: SLURM
+#             level: ★★★★★
         - title: 🧬 Bioinformatics & Genomics
           info:
-            - idiom: Next Generation Sequencing
+            - idiom: Bioinformatics Software Development
               level: ★★★★★
-            - idiom: Genomic Imputation
-              level: ★★★★☆
-            - idiom: Genomic Simulation
-              level: ★★★★☆
+            - idiom: Workflow Automation
+              level: ★★★★★
+            - idiom: Pipeline construction
+              level: ★★★★★              
+            - idiom: Omics Data Analysis
+              level: ★★★★★              
+#           - idiom: Next Generation Sequencing
+#             level: ★★★★★
+#           - idiom: Genomic Imputation
+#             level: ★★★★☆
+#           - idiom: Genomic Simulation
+#             level: ★★★★☆
         - title: 🛠️ Software & Tools
           info:
+            - idiom: Shiny apps
+              level: ★★★★★
             - idiom: Git (Version Control)
               level: ★★★★★
             - idiom: MarkDown/Quarto
@@ -237,4 +251,5 @@ sidebar:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
 
