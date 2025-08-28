@@ -6,7 +6,7 @@ career-profile:
           - Confident use of version control and high performance computing.
           - **PhD candidate in Bioinformatics** with **[Award-winning communication skills](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)**.
 experiences:
-    title: Experience
+    title: WORK EXPERIENCE
     info:
       - role: "Scientific Researcher (Ph. D. candidate)"
         time: "March 2022 – Feb 2025"
@@ -72,7 +72,7 @@ education:
           - Regular participation in diverse lab practicals 
           - Thesis: Biochemical and physiological effects of ozone on *Capsicum annuum* (greenhouse cultivation, spectrophotometry, ROS assays) ([See manuscript](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0)).
 publications:
-    title: Communications
+    title: Communications / Articles
     papers:
       - title: "CpG methylation, gene count and telomeric proximity are the main predictors of meiotic crossovers in rapeseed (SUBMITTED)"
         authors: "Montero-Tena JA, Zanini SF, Yildiz Gozde, Kox T, Abbadi A, Snowdon RJ, Golicz AA"
@@ -237,3 +237,4 @@ sidebar:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
