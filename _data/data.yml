@@ -1,11 +1,11 @@
 career-profile:
     title: ABOUT ME
     summary: |
-          - Developed automated [pipelines](https://github.com/GoliczGenomeLab/haploMAGIC) for [large-scale omics data analysis](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html) in R and Linux environments
-          - Provided bioinformatics support to interdisciplinary research teams
-          - Familiar with compound screening for drug discovery
-          - Excellent visual communication skills with experience in Shiny [—check out this personal project](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/)
-          - [Award-winning oral communication](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)**
+          - Developed automated [**pipelines**](https://github.com/GoliczGenomeLab/haploMAGIC) for [large-scale **omics** data analysis](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html) in R and Linux environments
+          - Provided bioinformatics support to **interdisciplinary** research teams
+          - Familiar with compound **screening** for drug discovery
+          - Excellent visual communication skills with experience in **Shiny** [—check out this personal project](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/)
+          - [Award-winning oral **communication**](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)
 experiences:
     title: WORK EXPERIENCE
     info:
@@ -251,5 +251,6 @@ sidebar:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
 
 
