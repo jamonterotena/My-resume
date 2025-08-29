@@ -3,8 +3,8 @@ body {
   font-family: "Roboto", sans-serif;
   color: $text-color-secondary;
   background: $smoky-white;
-  font-size: 12px; // reduced from 14px
-  padding: 30px;
+  font-size: 12px;
+  padding: 0px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -45,7 +45,7 @@ p {
   color: #fff;
   margin-right: 0px;
   margin-left: 0px;
-  padding: 4px;
+  padding: 0px;
   a {
     color: #fff;
   }
