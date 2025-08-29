@@ -42,12 +42,12 @@ p {
   grid-column: span 3;
   order: $sidebar-order;
   background: $theme-color;
-  color: #fff;
+  color: $theme-color;
   margin-right: 0px;
   margin-left: 0px;
   padding: 0px;
   a {
-    color: #fff;
+    color: $theme-color;
   }
   .profile-container {
     padding: 30px; // reduced from 30px
@@ -95,8 +95,10 @@ p {
     }
   }
   .container-block .container-block:last-child {
-    padding: 0px;
-    margin-right: 0px;
+    padding: 4px;
+    margin-right: 4px;
+    margin-left: 4px;
+    margin-top: 4px;
     margin-bottom: 4px;
   }
   .container-block-title {
@@ -142,9 +144,11 @@ p {
   grid-column: span 7;
   order: $resume-order;
   background: #fff;
-  padding: 0px;
+  padding: 4px;
   margin-right: 4px;
-  margin-left: 0px;
+  margin-left: 4px;
+  margin-top: 4px;
+  margin-bottom: 4px
   
   .section-title {
     text-transform: uppercase;
