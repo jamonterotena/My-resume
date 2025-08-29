@@ -76,7 +76,7 @@ education:
 publications:
     title: Communications / Articles
     papers:
-      - title: "CpG methylation, gene count and telomeric proximity are the main predictors of meiotic crossovers in rapeseed (SUBMITTED)"
+      - title: "Machine learning and multi-omic analysis reveal contrasting recombination landscape of A and C subgenomes of winter oilseed rape (SUBMITTED)"
         authors: "Montero-Tena JA, Zanini SF, Yildiz Gozde, Kox T, Abbadi A, Snowdon RJ, Golicz AA"
         conference: "Under Review"
       - title: "haploMAGIC: accurate phasing and detection of recombination in multiparental populations despite
@@ -184,7 +184,7 @@ sidebar:
         - idiom: English
           level: ★★★★★
         - idiom: German
-          level: ★★★☆☆
+          level: ★★★★★
     skills_sidebar:
       title: Skills
       categories:
@@ -251,6 +251,7 @@ sidebar:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
 
 
 
