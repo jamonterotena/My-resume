@@ -43,7 +43,7 @@ p {
   order: $sidebar-order;
   background: $theme-color;
   color: #fff;
-  margin-right: 4px;
+  margin-right: 0px;
   margin-left: 0px;
   padding: 4px;
   a {
@@ -51,7 +51,7 @@ p {
   }
   .profile-container {
     padding: 30px; // reduced from 30px
-    //background: darken($theme-color, 10%);
+    //background: darken($theme-color, 0%);
     background: rgba(0, 0, 0, 0.2);
     text-align: center;
     color: #fff;
