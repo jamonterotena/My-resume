@@ -297,26 +297,61 @@ p {
   }
 }
 
-// === Custom variable for scaling whitespace ===
-$spacing-scale: 0.25; // 25% of the original spacing
+// === Custom variables ===
+$padding-scale: 0.25; // contract paddings to 25%
+$margin-scale: 0.4;   // contract margins to 40%
 
-// === Override paddings using scale ===
+// === Paddings ===
 body {
-  padding: 5px * $spacing-scale;
+  padding: 5px * $padding-scale;
 }
 
 .sidebar-wrapper .profile-container {
-  padding: 30px * $spacing-scale;
+  padding: 30px * $padding-scale;
 }
 
 .sidebar-wrapper .container-block {
-  padding: 30px * $spacing-scale;
+  padding: 30px * $padding-scale;
 }
 
 .main-wrapper {
-  padding: 60px * $spacing-scale;
+  padding: 60px * $padding-scale;
 }
 
 .footer {
-  padding-top: 30px * $spacing-scale;
+  padding-top: 30px * $padding-scale;
+}
+
+// === Margins ===
+.section {
+  margin-bottom: 60px * $margin-scale;
+}
+
+.experiences-section .item,
+.recommendations-section .item,
+.educations-section .item {
+  margin-bottom: 30px * $margin-scale;
+}
+
+.projects-section .item,
+.oss-section .item,
+.publications-section .item {
+  margin-bottom: 15px * $margin-scale;
+}
+
+.sidebar-wrapper .education-container .item {
+  margin-bottom: 15px * $margin-scale;
+}
+
+.sidebar-wrapper .languages-list li,
+.sidebar-wrapper .interests-list li {
+  margin-bottom: 10px * $margin-scale;
+}
+
+.sidebar-wrapper .contact-list li {
+  margin-bottom: 15px * $margin-scale;
+}
+
+.skillset .item {
+  margin-bottom: 15px * $margin-scale;
 }
