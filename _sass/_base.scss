@@ -4,7 +4,7 @@ body {
   color: $text-color-secondary;
   background: $smoky-white;
   font-size: 14px;
-  padding: 5px;
+  padding: 30px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -295,4 +295,28 @@ p {
   .fa-heart {
     color: $heart;
   }
+}
+
+// === Custom variable for scaling whitespace ===
+$spacing-scale: 0.25; // 25% of the original spacing
+
+// === Override paddings using scale ===
+body {
+  padding: 5px * $spacing-scale;
+}
+
+.sidebar-wrapper .profile-container {
+  padding: 30px * $spacing-scale;
+}
+
+.sidebar-wrapper .container-block {
+  padding: 30px * $spacing-scale;
+}
+
+.main-wrapper {
+  padding: 60px * $spacing-scale;
+}
+
+.footer {
+  padding-top: 30px * $spacing-scale;
 }
