@@ -1,10 +1,10 @@
 career-profile:
     title: ABOUT ME
     summary: |
-          - Developed automated [**pipelines**](https://github.com/GoliczGenomeLab/haploMAGIC) for [large-scale **omics** data analysis](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html) in R and Linux environments
-          - Provided bioinformatics support to **interdisciplinary** research teams
+          - Developed automated [**pipelines**](https://github.com/GoliczGenomeLab/haploMAGIC) for [large-scale **omics** data analysis (genomics, proteomics, transcriptomics)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html) in R and Linux environments
+          - Strong record in workflow development and interactive **Shiny** apps for [complex biological data visualization](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/)
+          - Provided bioinformatics support and leadership to **interdisciplinary** research teams
           - Familiar with compound **screening** for drug discovery
-          - Excellent visual communication skills with experience in **Shiny** [—check out this personal project](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/)
           - [Award-winning oral **communication**](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)
 experiences:
     title: WORK EXPERIENCE
@@ -14,10 +14,12 @@ experiences:
         company: "Justus Liebig University (JLU)"
         details: |
           - Developed **[novel bioinformatics tools](https://github.com/GoliczGenomeLab/haploMAGIC)** for genomic recombination analysis, leading to **[high-impact publications](https://academic.oup.com/g3journal/article/14/8/jkae109/7684607)**
-          - Developed pipelines for omics data processing and analysis in R and bash
-          - Presented research at leading conferences, earning **[Best Student Presentation at IRC 2023](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)**
           - Mentorship of a master thesis student with positive feedback ([See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
-          - Teamwork as part of an **[large, multicultural, interdisciplinary team](https://www.irtg2843.de/about)** of breeders, data scientists and bioinformaticians
+          - Developed pipelines for omics data processing and analysis in R and bash
+          - Extensive experience integrating transcriptomics and proteomics data with genomic datasets
+          - Created interactive [Shiny applications](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/) and [Markdown reports](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html) for summarization and data exploration, supporting interdisciplinary collaborations.
+          - Activelly collaborated with a [big team of external and internal scientists](https://www.irtg2843.de/about)** of breeders, data scientists and bioinformaticians
+          - Presented research at leading conferences, earning **[Best Student Presentation at IRC 2023](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)**
 #         - Developed **NGS analysis workflows** for variant calling          
 #         - Built and optimized pipelines for **[multi-omics data analysis](https://jamonterotena.github.io/ML-reports/)**
 #         - Delivered workshop for introducing version control systems to peers, specifically git 
@@ -202,7 +204,7 @@ sidebar:
 #             level: ★★★☆☆
 #           - idiom: SLURM
 #             level: ★★★★★
-        - title: 🧬 Bioinformatics & Genomics
+        - title: 🧬 Bioinformatics & Omics
           info:
             - idiom: Bioinformatics Software Development
               level: ★★★★★
@@ -210,8 +212,10 @@ sidebar:
               level: ★★★★★
             - idiom: Pipeline construction
               level: ★★★★★              
-            - idiom: Omics Data Analysis
-              level: ★★★★★              
+            - idiom: Transcriptomics Data Analysis
+              level: ★★★★☆              
+            - idiom: Proteomics Data Analysis
+              level: ★★★☆☆                            
 #           - idiom: Next Generation Sequencing
 #             level: ★★★★★
 #           - idiom: Genomic Imputation
@@ -251,6 +255,7 @@ sidebar:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
 
 
 
