@@ -209,10 +209,10 @@ sidebar:
               level: ★★★★★
             - idiom: Bash
               level: ★★★★★              
-            - idiom: Python
-              level: ★★★☆☆
             - idiom: SLURM for HPC
               level: ★★★★★
+            - idiom: Python
+              level: ★★★☆☆
             - idiom: SQL
               level: ★★★☆☆
         - title: 🧬 Bioinformatics & Omics
@@ -269,6 +269,7 @@ sidebar:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
 
 
 
