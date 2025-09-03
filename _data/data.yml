@@ -7,6 +7,7 @@ career-profile:
           - Ability with **cloud computing** and infrastructure management skills (AWS, HPC, version control, etc.)
           - I performed **data processing** in R, applied **linear regression**, **result interpretation**, and documented everything with Quarto for my PhD project, as you can [SEE CLICKING HERE](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
           - [Excellent, award-winning **communication** skills in English](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)
+          - Acquainted and motivated to work in pharma industry
 #          - Developed automated [**pipelines**](https://github.com/GoliczGenomeLab/haploMAGIC) for [large-scale **omics** data analysis (genomics, proteomics, transcriptomics)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html) in R and Linux environments
 #          - Strong record in workflow development and interactive **Shiny** apps for [complex biological data visualization](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/)
 #          - Provided bioinformatics support and leadership to **interdisciplinary** research teams
@@ -19,13 +20,15 @@ experiences:
         time: "March 2022 – Feb 2025"
         company: "Justus Liebig University (JLU)"
         details: |
+          - I performed **data processing** in R, applied **linear regression**, **result interpretation**, and documented everything with Quarto for my PhD project, as you can [SEE CLICKING HERE](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
           - Developed **[novel bioinformatics tools](https://github.com/GoliczGenomeLab/haploMAGIC)** for genomic recombination analysis, leading to **[high-impact publications](https://academic.oup.com/g3journal/article/14/8/jkae109/7684607)**
-          - Mentorship of a master thesis student with positive feedback ([See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
-          - Developed pipelines for omics data processing and analysis in R and bash
+          - Trained colleagues on the use of Git and mentored a master thesis student with positive feedback ([See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
+          - Work in HPC environments using SLURM and Git version control
+          - Developed pipelines for OMICS data processing and analysis in R and bash
           - Extensive experience integrating transcriptomics and proteomics data with genomic datasets
           - Created interactive [Shiny applications](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/) and [Markdown reports](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html) for summarization and data exploration, supporting interdisciplinary collaborations.
-          - Activelly collaborated with a [big team of external and internal scientists](https://www.irtg2843.de/about)** of breeders, data scientists and bioinformaticians
           - Presented research at leading conferences, earning **[Best Student Presentation at IRC 2023](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)**
+          - Activelly collaborated with a [big team of external and internal scientists](https://www.irtg2843.de/about)** of breeders, data scientists and bioinformaticians
 #         - Developed **NGS analysis workflows** for variant calling          
 #         - Built and optimized pipelines for **[multi-omics data analysis](https://jamonterotena.github.io/ML-reports/)**
 #         - Delivered workshop for introducing version control systems to peers, specifically git 
@@ -208,10 +211,10 @@ sidebar:
               level: ★★★★★              
             - idiom: Python
               level: ★★★☆☆
-           - idiom: SLURM for HPC
-             level: ★★★★★
-           - idiom: SQL
-             level: ★★★☆☆
+            - idiom: SLURM for HPC
+              level: ★★★★★
+            - idiom: SQL
+              level: ★★★☆☆
         - title: 🧬 Bioinformatics & Omics
           info:
             - idiom: Bioinformatics Software Development
@@ -224,12 +227,12 @@ sidebar:
 #              level: ★★★★★
 #            - idiom: Proteomics Data Analysis
 #              level: ★★★☆☆                            
-#           - idiom: Next Generation Sequencing
-#             level: ★★★★★
-#           - idiom: Genomic Imputation
-#             level: ★★★★☆
-#           - idiom: Genomic Simulation
-#             level: ★★★★☆
+#            - idiom: Next Generation Sequencing
+#              level: ★★★★★
+#            - idiom: Genomic Imputation
+#              level: ★★★★☆
+#            - idiom: Genomic Simulation
+#              level: ★★★★☆
         - title: 🛠️ Software & Tools
           info:
             - idiom: Shiny apps
@@ -260,10 +263,10 @@ sidebar:
               level: ★★★★★  
 #            - idiom: Category B Driving License
 #              level: ★★★★★
-
     interests:
       title: Interests
       info:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
