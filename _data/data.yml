@@ -115,7 +115,7 @@ recommendations:
     phone: +496419937432
     role: Professor for Agrobioinformatics at Justus Liebig University
     recommendation: |
-      *"Jose has shown a genuine ability to work well in diverse settings and contribute to a supportive environment"* ([See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
+      *"Jose has very strong technical skills, including proficiency in R, bash scripting, version control, and highperformance computing. In our group, he has become a contact point for various programming and technical questions. He has a very strong commitment to open source programming, the implementation of good programming practices, and has been a dedicated git user. As a result, he has also helped train others in the group on version control with git."* ([See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0)) 
 certifications:
       title: Certifications
       list:
@@ -269,6 +269,7 @@ sidebar:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
 
 
 
