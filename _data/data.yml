@@ -222,8 +222,8 @@ sidebar:
               level: ★★★★★
             - idiom: OMICS Pipeline construction
               level: ★★★★★              
-            - idiom: Transcriptomics Data Analysis (RNAseq)
-              level: ★★★★☆              
+            - idiom: Next Generation Sequencing
+              level: ★★★★★              
 #            - idiom: Workflow Automation
 #              level: ★★★★★
 #            - idiom: Proteomics Data Analysis
@@ -258,18 +258,18 @@ sidebar:
               level: ★★★☆☆
         - title: 🚗 Other Skills
           info:
-            - idiom: Teaching & Training
-              level: ★★★★★
             - idiom: Oral & Written Communication
               level: ★★★★★  
-#            - idiom: Category B Driving License
-#              level: ★★★★★
-    interests:
+            - idiom: Category B Driving License
+              level: ★★★★★
+#            - idiom: Teaching & Training
+#              level: ★★★★★    interests:
       title: Interests
       info:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
 
 
 
