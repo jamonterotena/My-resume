@@ -1,11 +1,11 @@
 career-profile:
     title: ABOUT ME
     summary: |
-          - Proven record designing, building, documenting, and maintaining [**OMICS workflows**](genomics, proteomics, transcriptomics)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html) for scientific projects, including RNAseq
-          - Experience developing **front-end** tools with **Shiny** for [complex biological data visualization](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/)
-          - Proven record **teaching**, mentoring students, helping colleagues **fix bugs**, and **training** colleagues on bioinformatic tools (for example *Git*, [See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
+          - I performed **data processing**, including RNAseq in R, applied **linear regression**, **result interpretation**, and documented everything with Quarto for my PhD project [IN THIS REPORT](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
+          - Development of **front-end** tools with **Shiny** for [complex biological data visualization](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/)
           - Ability with **cloud computing** and infrastructure management skills (AWS, HPC, version control, etc.)
-          - I performed **data processing** in R, applied **linear regression**, **result interpretation**, and documented everything with Quarto for my PhD project, as you can [SEE CLICKING HERE](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
+          - Proven record **teaching**, mentoring students, helping colleagues **fix bugs**, and **training** colleagues on bioinformatic tools (for example *Git*, [See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
+          - Experience designing, building, documenting, and maintaining [**OMICS workflows**]https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html) for scientific projects, including RNAseq
           - [Excellent, award-winning **communication** skills in English](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)
           - Acquainted and motivated to work in pharma industry
 #          - Developed automated [**pipelines**](https://github.com/GoliczGenomeLab/haploMAGIC) for [large-scale **omics** data analysis (genomics, proteomics, transcriptomics)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html) in R and Linux environments
@@ -269,4 +269,5 @@ sidebar:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
 
