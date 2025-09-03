@@ -175,7 +175,7 @@ sidebar:
      
     # Profile information
     name: Jose Montero
-    tagline: Team-Oriented, Skilled Bioinformatician with Passion for Multi-Omics
+    tagline: Team-Oriented, Detail-Focused Bioinformatician with Passion for Multi-Omics
     avatar: agrobioinformatics.jpg #profile.png  # Make sure this image is available in the /assets/images/ folder
     
     # Sidebar links
@@ -270,6 +270,7 @@ sidebar:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
 
 
 
