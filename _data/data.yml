@@ -4,7 +4,7 @@ career-profile:
           - I designed **workflows** in R for **data processing**, including RNAseq, applied **linear regression**, **result interpretation**, and documented everything with Quarto for my PhD project [IN THIS REPORT](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
           - Development of **front-end** tools with **Shiny** for [complex biological data visualization](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/)
           - Ability with **cloud computing** and infrastructure management skills (AWS, HPC, version control, etc.)
-          - Proven record **teaching**, mentoring students, helping colleagues **fix bugs**, and **training** colleagues on bioinformatic tools (for example *Git*, [See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
+          - Proven record in **teaching**, mentoring students, helping colleagues **fix bugs**, and **training** colleagues on bioinformatic tools (for example *Git*, [See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
           - Experience designing, building, documenting, and maintaining [**OMICS workflows**](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html) for scientific projects, including RNAseq
           - [Excellent, award-winning **communication** skills in English](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)
           - Acquainted and motivated to work in pharma industry
@@ -16,7 +16,7 @@ career-profile:
 experiences:
     title: WORK EXPERIENCE
     info:
-      - role: "Scientific Researcher (Ph. D. candidate)"
+      - role: "Scientific Researcher (Ph. D.)"
         time: "March 2022 – Feb 2025"
         company: "Justus Liebig University (JLU)"
         details: |
@@ -174,7 +174,7 @@ sidebar:
      
     # Profile information
     name: Jose Montero
-    tagline: PhD Candidate
+    tagline: team-oriented, problem-solving Bioinformatician
     avatar: agrobioinformatics.jpg #profile.png  # Make sure this image is available in the /assets/images/ folder
     
     # Sidebar links
@@ -269,6 +269,7 @@ sidebar:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
 
 
 
