@@ -174,7 +174,7 @@ sidebar:
      
     # Profile information
     name: Jose Montero
-    tagline: team-oriented, problem-solving Bioinformatician
+    tagline: Team-Oriented, Problem-Solving Bioinformatician
     avatar: agrobioinformatics.jpg #profile.png  # Make sure this image is available in the /assets/images/ folder
     
     # Sidebar links
@@ -269,6 +269,7 @@ sidebar:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
 
 
 
