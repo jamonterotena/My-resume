@@ -1,7 +1,7 @@
 career-profile:
     title: ABOUT ME
     summary: |
-          - I performed **data processing**, including RNAseq in R, applied **linear regression**, **result interpretation**, and documented everything with Quarto for my PhD project [IN THIS REPORT](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
+          - I designed **workflows** for **data processing**, including RNAseq in R, applied **linear regression**, **result interpretation**, and documented everything with Quarto for my PhD project [IN THIS REPORT](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
           - Development of **front-end** tools with **Shiny** for [complex biological data visualization](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/)
           - Ability with **cloud computing** and infrastructure management skills (AWS, HPC, version control, etc.)
           - Proven record **teaching**, mentoring students, helping colleagues **fix bugs**, and **training** colleagues on bioinformatic tools (for example *Git*, [See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
@@ -269,5 +269,6 @@ sidebar:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
 
 
