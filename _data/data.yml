@@ -20,7 +20,7 @@ experiences:
         time: "March 2022 – Feb 2025"
         company: "Justus Liebig University (JLU)"
         details: |
-          - I performed **data processing** in R, applied **linear regression**, **result interpretation**, and documented everything with Quarto for my PhD project, as you can [SEE CLICKING HERE](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
+          - I designed **workflows** in R for **data processing**, including RNAseq, applied **linear regression**, **result interpretation**, and documented everything with Quarto for my PhD project [IN THIS REPORT](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
           - Developed **[novel bioinformatics tools](https://github.com/GoliczGenomeLab/haploMAGIC)** for genomic recombination analysis, leading to **[high-impact publications](https://academic.oup.com/g3journal/article/14/8/jkae109/7684607)**
           - Trained colleagues on the use of Git and mentored a master thesis student with positive feedback ([See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
           - Work in HPC environments using SLURM and Git version control
@@ -269,6 +269,7 @@ sidebar:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
 
 
 
