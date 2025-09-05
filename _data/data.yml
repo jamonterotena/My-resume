@@ -1,11 +1,16 @@
 career-profile:
     title: ABOUT ME
     summary: |
-          - Strong background in **molecular genetics** (NGS analysis) and multi-omics
-          - Experience designing, building, documenting, and maintaining [**OMICS workflows**](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html) for scientific projects
-          - Proven record in teaching, mentoring students, **helping** colleagues fix bugs, and training colleagues on bioinformatic tools (for example *Git*, [See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
-          - [Award-winning oral **communication**](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)
-          - Technically gifted (**R, python, bash, HPC**)
+          - [I planned the research strategy, designed **workflows** in R for **integrating, clearning, analyzing and interpreting** **RNAseq** and other heterogeneous **OMIC data** **via machine learning (ML)** and documented everything with Quarto for my PhD project (LINK)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
+          - Experience managing large-scale **Next Generation Sequencing (NGS) genomic data** for variant calling using highly-efficient pipelines operated via SLURM in **High-Performance Computing (HPC)** clusters
+          - Expert **R** user, [**developed pipelines for analyzing complex genomic data**](https://github.com/GoliczGenomeLab/haploMAGIC) and proficient in python
+          - AWS, SQL, PCA
+          - TIme-management, proactive mindset, project-management skills, team player, [award-winning communication skills](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)
+#          - Strong background in **molecular genetics** (NGS analysis) and multi-omics
+#          - Experience designing, building, documenting, and maintaining [**OMICS workflows**](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html) for scientific projects
+#          - Proven record in teaching, mentoring students, **helping** colleagues fix bugs, and training colleagues on bioinformatic tools (for example *Git*, [See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
+#          
+#          - Technically gifted (**R, python, bash, HPC**)
 #          - I designed **workflows** in R for **data processing**, **result interpretation**, and documented everything with Quarto for my PhD project [IN THIS REPORT](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
 #          - Development of **front-end** tools with **Shiny** for [complex biological data visualization](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/)
 #          - Ability with **cloud computing** and infrastructure management skills (AWS, HPC, version control, etc.)#          - Acquainted and motivated to work in pharma industry
@@ -21,14 +26,14 @@ experiences:
         time: "March 2022 – Feb 2025"
         company: "Justus Liebig University (JLU)"
         details: |
-          - I designed **workflows** in R for **data processing** and **result interpretation**, and documented everything with Quarto for my PhD project [IN THIS REPORT](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
+          - [I planned the research strategy, designed **workflows** in R for **integrating, clearning, analyzing and interpreting** **RNAseq** and other heterogeneous **OMIC data** **via machine learning (ML)** and documented everything with Quarto for my PhD project (LINK)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
           - Developed **[novel bioinformatics tools](https://github.com/GoliczGenomeLab/haploMAGIC)** for genomic recombination analysis, leading to **[high-impact publications](https://academic.oup.com/g3journal/article/14/8/jkae109/7684607)**
-          - Trained colleagues on the use of Git and mentored a master thesis student with positive feedback ([See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
           - Work in HPC environments using SLURM and Git version control
           - Developed pipelines for OMICS data processing and analysis in R and bash
           - Created interactive [Shiny applications](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/) and [Markdown reports](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html) for summarization and data exploration, supporting interdisciplinary collaborations.
-          - Presented research at leading conferences, earning **[Best Student Presentation at IRC 2023](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)**
-          - Activelly collaborated with a [big team of external and internal scientists](https://www.irtg2843.de/about)** of breeders, data scientists and bioinformaticians
+          - Trained colleagues on the use of Git and mentored a master thesis student with positive feedback ([See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
+#          - Presented research at leading conferences, earning **[Best Student Presentation at IRC 2023](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)**
+#          - Activelly collaborated with a [big team of external and internal scientists](https://www.irtg2843.de/about)** of breeders, data scientists and bioinformaticians
 #         - Extensive experience integrating transcriptomics and proteomics data with genomic datasets
 #         - Developed **NGS analysis workflows** for variant calling          
 #         - Built and optimized pipelines for **[multi-omics data analysis](https://jamonterotena.github.io/ML-reports/)**
@@ -48,9 +53,10 @@ experiences:
         time: "Sep 2018 – Jul 2019"
         company: "Holmer Green Senior School (HGSS)"
         details: |
+          - Time management and team work demanding
           - Instruction of Science (Physics, Chemistry and Biology) to year 9-11 school students
-          - Supervision of practical scientific lectures
-          - Evaluation of assignments and examinations
+#          - Supervision of practical scientific lectures
+#          - Evaluation of assignments and examinations
           - **Regular communication with parents and colleagues**
       - role: "Undergraduate Student Assistant"
         company: "University of Extremadura"
@@ -175,7 +181,7 @@ sidebar:
      
     # Profile information
     name: Jose Montero
-    tagline: Team-Oriented, Detail-Focused Bioinformatician with Passion for Multi-Omics
+    tagline: Self-Reliant, Skilled Bioinformatician
     avatar: agrobioinformatics.jpg #profile.png  # Make sure this image is available in the /assets/images/ folder
     
     # Sidebar links
@@ -206,24 +212,26 @@ sidebar:
           info:
             - idiom: R
               level: ★★★★★
-            - idiom: Shiny
-              level: ★★★★★
+            - idiom: Python
+              level: ★★★☆☆
             - idiom: Bash
               level: ★★★★★              
             - idiom: SLURM for HPC
               level: ★★★★★
-            - idiom: Python
-              level: ★★★☆☆
-            - idiom: SQL
-              level: ★★★☆☆
+#            - idiom: SQL
+#              level: ★★★☆☆
+#            - idiom: Shiny
+#              level: ★★★★★              
         - title: 🧬 Bioinformatics & Omics
           info:
             - idiom: Bioinformatics Software Development
               level: ★★★★★
             - idiom: OMICS Pipeline construction
               level: ★★★★★              
-            - idiom: Next Generation Sequencing
-              level: ★★★★★              
+            - idiom: Next Generation Sequencing (NGS)
+              level: ★★★★★
+            - idiom: Transcriptomic Data Analysis (RNAseq)
+              level: ★★★★★                         
 #            - idiom: Workflow Automation
 #              level: ★★★★★
 #            - idiom: Proteomics Data Analysis
@@ -236,14 +244,16 @@ sidebar:
 #              level: ★★★★☆
         - title: 🛠️ Software & Tools
           info:
-            - idiom: Shiny apps
-              level: ★★★★★
             - idiom: Git (Version Control)
               level: ★★★★★
-            - idiom: MarkDown/Quarto
-              level: ★★★★★
             - idiom: Amazon Web Services (AWS)
+              level: ★★★★★
+            - idiom: Machine Learning
+              level: ★★★★★
+            - idiom: MarkDown/Quarto
               level: ★★★★☆
+#            - idiom: Shiny apps
+#              level: ★★★★★
         - title: 🖥️ Computing & Infrastructure
           info:
             - idiom: High-Performance Computing
@@ -269,15 +279,3 @@ sidebar:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
-
-
-
-
-
-
-
-
-
-
-
-
