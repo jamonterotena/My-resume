@@ -1,13 +1,14 @@
 career-profile:
     title: ABOUT ME
     summary: |
-          - Multilingual, self-confident conversationist with [award-winning presentation skills](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s) and experience in teaching in a British senior school
-          - Experience managing large-scale **Next Generation Sequencing (NGS) genomic data** for variant calling using highly-efficient pipelines operated via SLURM in **Linux**-based **High-Performance Computing (HPC)** clusters
-          - Excellent bioinformatics skills as an [expert **R** user](https://github.com/GoliczGenomeLab/haploMAGIC) and proficient in python
+          - [I planned the research strategy, designed **workflows** in R for **integrating, clearning, analyzing and interpreting** **OMIC data** **via machine learning (ML)** and documented everything with Quarto for my PhD project (LINK)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
+          - Experience managing large-scale **Next Generation Sequencing (NGS) genomic data** for variant calling using optimized pipelines operated via SLURM in **Linux**-based **High-Performance Computing (HPC)** clusters
+          - Strong record in workflow development and interactive **Shiny** apps for [complex biological data visualization](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/)
+          - Excellent bioinformatics skills as an [expert **R** user, developing homemade tools for analyzing complex genomic data](https://github.com/GoliczGenomeLab/haploMAGIC), and proficient in python
           - Support and mentorship in bioinformatics team provided [- See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0)
-          - [I planned the research strategy, designed **workflows** in R for **integrating, clearning, analyzing and interpreting** **RNAseq** and other heterogeneous **OMIC data** **via machine learning (ML)** and documented everything with Quarto for my PhD project (LINK)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
-          - Development of **front-end** tools with **Shiny** for [complex biological data visualization](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/)
-
+          - [award-winning communication skills](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)
+#          - Development of **front-end** tools with **Shiny** for [complex biological data visualization](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/)
+#          - Multilingual, self-confident conversationist with [award-winning presentation skills](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s) and experience in teaching in a British senior school
 #          - Experience with Amazon Web Services (AWS) Cloud Computing, SQL, BLAST and Ensembl
 #          - Time-management, proactive mindset, project-management skills, team player, [award-winning communication skills](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)
 #          - Strong background in **molecular genetics** (NGS analysis) and multi-omics
@@ -125,7 +126,7 @@ recommendations:
     phone: +496419937432
     role: Professor for Agrobioinformatics at Justus Liebig University
     recommendation: |
-      *"Jose’s willingness to share his expertise has made him an important member of the group. Apart from day to day interaction with group members, he took on the supervision of a student assistant, who later reported a very positive experience. He also served as an instructor in our Master level practical bioinformatics course. Jose has shown a genuine ability to work well in diverse settings and contribute to a supportive environment. He has very good communication skills and his fluency in Spanish, English, and German is a big asset in an international setting."* ([See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
+      *"Jose has very strong technical skills, including proficiency in R, bash scripting, version control, and highperformance computing. In our group, he has become a contact point for various programming and technical questions. He has a very strong commitment to open source programming, the implementation of good programming practices, and has been a dedicated git user. As a result, he has also helped train others in the group on version control with git."* ([See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
 certifications:
       title: Certifications
       list:
@@ -184,7 +185,7 @@ sidebar:
      
     # Profile information
     name: Jose Montero
-    tagline: Customer-Oriented Bioinformatician with NGS background
+    tagline: Passionate, Team-Oriented Bioinformatician with Expertise in Multi-Omics
     avatar: agrobioinformatics.jpg #profile.png  # Make sure this image is available in the /assets/images/ folder
     
     # Sidebar links
@@ -288,6 +289,7 @@ sidebar:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
 
 
 
