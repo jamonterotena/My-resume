@@ -214,16 +214,16 @@ sidebar:
           info:
             - idiom: R
               level: ★★★★★
-            - idiom: Python
-              level: ★★★☆☆
             - idiom: Bash
               level: ★★★★★              
             - idiom: SLURM for HPC
               level: ★★★★★
+            - idiom: Shiny
+              level: ★★★★★              
+            - idiom: Python
+              level: ★★★☆☆
 #            - idiom: SQL
 #              level: ★★★☆☆
-#            - idiom: Shiny
-#              level: ★★★★★              
         - title: 🧬 Bioinformatics & Omics
           info:
             - idiom: Bioinformatics Software Development
@@ -281,6 +281,7 @@ sidebar:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
 
 
 
