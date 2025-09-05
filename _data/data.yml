@@ -222,10 +222,10 @@ sidebar:
               level: ★★★★★              
             - idiom: Shiny
               level: ★★★★★  
-#            - idiom: SLURM for HPC
-#              level: ★★★★★
-#            - idiom: SQL
-#              level: ★★★☆☆          
+            - idiom: SLURM for HPC
+              level: ★★★★★
+            - idiom: SQL
+              level: ★★★☆☆          
         - title: 🧬 Bioinformatics & Omics
           info:
             - idiom: Bioinformatics Software Development
@@ -234,8 +234,8 @@ sidebar:
               level: ★★★★★
             - idiom: OMICS Pipeline construction
               level: ★★★★★              
-#            - idiom: Next Generation Sequencing (NGS)
-#              level: ★★★★★
+            - idiom: Next Generation Sequencing (NGS)
+              level: ★★★★★
 #            - idiom: BLAST
 #              level: ★★★★★
 #            - idiom: Ensemble
@@ -262,8 +262,8 @@ sidebar:
               level: ★★★★★
             - idiom: MarkDown/Quarto
               level: ★★★★☆
-#            - idiom: Machine Learning (tidyverse, scikitlearn)
-#              level: ★★★★★
+            - idiom: Machine Learning (tidyverse, scikitlearn)
+              level: ★★★★★
         - title: 🖥️ Computing & Infrastructure
           info:
             - idiom: High-Performance Computing
@@ -282,13 +282,14 @@ sidebar:
               level: ★★★★★  
             - idiom: Category B Driving License
               level: ★★★★★
-#            - idiom: Teaching & Training
-#              level: ★★★★★    interests:
+            - idiom: Teaching & Training
+              level: ★★★★★    interests:
       title: Interests
       info:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
 
 
 
