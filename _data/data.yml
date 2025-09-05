@@ -3,7 +3,7 @@ career-profile:
     summary: |
           - **Goal: Reflect my work in patients' care**
           - [I planned the research strategy, designed **workflows** in R for **integrating, clearning, analyzing and interpreting** **NGS data** with heterogeneous **OMIC data** **via machine learning (ML)** and documented everything with Quarto for my PhD project (LINK)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
-          - Besides static reports, I develop interactive web apps using **Shiny** apps for [sharing complex biological data (link)](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/) with colleagues
+          - Besides static reports, I develop  **interactive web apps** using Shiny apps for [sharing complex biological data (link)](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/) with colleagues
           - Experience managing large-scale **Next Generation Sequencing (NGS) genomic data** for variant calling using highly-efficient pipelines operated via SLURM in **High-Performance Computing (HPC)** clusters and controlled with version control methods (Git)
           - Expert **R** user, [**developed pipelines for analyzing complex genomic data**](https://github.com/GoliczGenomeLab/haploMAGIC) and proficient in python
           - Goal-oriented, team player
@@ -281,6 +281,7 @@ sidebar:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
 
 
 
