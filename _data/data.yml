@@ -229,7 +229,7 @@ sidebar:
           info:
             - idiom: Bioinformatics Software Development
               level: ★★★★★
-            - idiom: Next Generation Sequencing (NGS): VCFtools, bowtie, GATK...
+            - idiom: Next Generation Sequencing (NGS) VCFtools, bowtie, GATK, etc
               level: ★★★★★
             - idiom: OMICS Pipeline construction
               level: ★★★★★              
@@ -288,6 +288,7 @@ sidebar:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
 
 
 
