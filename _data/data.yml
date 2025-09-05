@@ -283,12 +283,14 @@ sidebar:
             - idiom: Category B Driving License
               level: ★★★★★
             - idiom: Teaching & Training
-              level: ★★★★★    interests:
+              level: 
+    interests:
       title: Interests
       info:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
 
 
 
