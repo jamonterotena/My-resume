@@ -2,7 +2,7 @@ career-profile:
     title: ABOUT ME
     summary: |
            - [I planned the research strategy, designed **workflows** in R for **integrating, clearning, analyzing and interpreting** **OMIC data** **via machine learning (ML)** and documented everything with Quarto for my PhD project (LINK)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
-          - Experience managing large-scale **Next Generation Sequencing (NGS) genomic data** for variant calling using optimized pipelines operated via SLURM in **Linux**-based **High-Performance Computing (HPC)** clusters
+           - Experience managing large-scale **Next Generation Sequencing (NGS) genomic data** for variant calling using optimized pipelines operated via SLURM in **Linux**-based **High-Performance Computing (HPC)** clusters
 #          - Strong record in workflow development and interactive **Shiny** apps for [complex biological data visualization](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/)
 #          - Excellent bioinformatics skills as an [expert **R** user, developing homemade tools for analyzing complex genomic data](https://github.com/GoliczGenomeLab/haploMAGIC), and proficient in python
 #          - Support and mentorship in bioinformatics team provided [- See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0)
@@ -290,6 +290,7 @@ sidebar:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
 
 
 
