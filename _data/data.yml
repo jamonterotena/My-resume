@@ -1,12 +1,12 @@
 career-profile:
     title: ABOUT ME
     summary: |
-           - [I planned the research strategy, designed **workflows** in R for **integrating, clearning, analyzing and interpreting** **OMIC data** **via machine learning (ML)** and documented everything with Quarto for my PhD project (LINK)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
-           - Experience managing large-scale **Next Generation Sequencing (NGS) genomic data** for variant calling using optimized pipelines operated via SLURM in **Linux**-based **High-Performance Computing (HPC)** clusters
-#          - Strong record in workflow development and interactive **Shiny** apps for [complex biological data visualization](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/)
-#          - Excellent bioinformatics skills as an [expert **R** user, developing homemade tools for analyzing complex genomic data](https://github.com/GoliczGenomeLab/haploMAGIC), and proficient in python
-#          - Support and mentorship in bioinformatics team provided [- See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0)
- #         - [award-winning communication skills](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)
+          - [I planned the research strategy, designed **workflows** in R for **integrating, clearning, analyzing and interpreting** **OMIC data** **via machine learning (ML)** and documented everything with Quarto for my PhD project (LINK)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
+          - Experience managing large-scale **Next Generation Sequencing (NGS) genomic data** for variant calling using optimized pipelines operated via SLURM in **Linux**-based **High-Performance Computing (HPC)** clusters
+          - Strong record in workflow development and interactive **Shiny** apps for [complex biological data visualization](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/)
+          - Excellent bioinformatics skills as an [expert **R** user, developing homemade tools for analyzing complex genomic data](https://github.com/GoliczGenomeLab/haploMAGIC), and proficient in python
+          - Support and mentorship in bioinformatics team provided [- See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0)
+          - [award-winning communication skills](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)
 #          - Development of **front-end** tools with **Shiny** for [complex biological data visualization](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/)
 #          - Multilingual, self-confident conversationist with [award-winning presentation skills](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s) and experience in teaching in a British senior school
 #          - Experience with Amazon Web Services (AWS) Cloud Computing, SQL, BLAST and Ensembl
@@ -185,7 +185,7 @@ sidebar:
      
     # Profile information
     name: Jose Montero
-    tagline: ML-Trained, Detail-focused, Team-Oriented Bioinformatician
+    tagline: Passionate, Team-Oriented Bioinformatician with Expertise in Multi-Omics
     avatar: agrobioinformatics.jpg #profile.png  # Make sure this image is available in the /assets/images/ folder
     
     # Sidebar links
@@ -217,7 +217,7 @@ sidebar:
             - idiom: R
               level: ★★★★★
             - idiom: Python
-              level: ★★★★★
+              level: ★★★☆☆
             - idiom: Bash
               level: ★★★★★              
             - idiom: Shiny
@@ -290,20 +290,4 @@ sidebar:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
