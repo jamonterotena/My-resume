@@ -1,14 +1,13 @@
 career-profile:
     title: ABOUT ME
     summary: |
-          - [I planned the research strategy, designed **workflows** in R for **integrating, clearning, analyzing and interpreting** **Next Generation Sequencing (NGS) and OMIC data** with advanced **ggplot2** plots and documented everything with Quarto for my PhD project (LINK)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
-          - Experience managing large-scale **Next Generation Sequencing (NGS) genomic data** for variant calling using optimized pipelines operated via SLURM in **Linux**-based **High-Performance Computing (HPC)** clusters
-          - Strong record in workflow development and interactive **Shiny** apps for [complex biological data visualization with ggplot2](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/)
-          - Excellent bioinformatics skills as an [expert **R** user, developing homemade tools for analyzing complex genomic data](https://github.com/GoliczGenomeLab/haploMAGIC), and proficient in python
-          - Attended the **2024 Posit Conference** in Seattle
-          - 1 year experience in teaching at a senior school, preparing presentation materials on a daily basis, and delivering lectures on their content
-          - Support and mentorship in bioinformatics team provided [- See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0)
-          - [award-winning communication skills](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)
+           - Technically sound skills in **R, bash and python** developed in Linux HPC environments coding acquired during **PhD work in Bioinformatics**
+           - **Great communication skills**, creating **[interactive reports](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/) and [static reports](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)** and **delivering detail-precise presentations** ([*See my award-winning presentation at an international conference by clicking here*](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)).
+           - **Collaboration skills** proved with [scientific collaboration in academic papers](https://academic.oup.com/g3journal/article/14/8/jkae109/7684607), mentoring duties, training of colleagues on bioinformatics affairs ([See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
+           - Interdisciplinary, up-to-date bioinformatics skills, I like to research about computational methods and choose the best after benchmarking
+           - Proactive, flexible and adaptable
+           - Understanding of various topics in life sciences, acquired during my educational training (bachelor's degree in Biochemistry)
+           - [Experience in **Machine Learning** for analyzing complex multiomics data sets](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
 #          - Development of **front-end** tools with **Shiny** for [complex biological data visualization](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/)
 #          - Multilingual, self-confident conversationist with [award-winning presentation skills](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s) and experience in teaching in a British senior school
 #          - Experience with Amazon Web Services (AWS) Cloud Computing, SQL, BLAST and Ensembl
@@ -23,8 +22,6 @@ career-profile:
 #          - Ability with **cloud computing** and infrastructure management skills (AWS, HPC, version control, etc.)#          - Acquainted and motivated to work in pharma industry
 #          - Developed automated [**pipelines**](https://github.com/GoliczGenomeLab/haploMAGIC) for [large-scale **omics** data analysis (genomics, proteomics, transcriptomics)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html) in R and Linux environments
 #          - Strong record in workflow development and interactive **Shiny** apps for [complex biological data visualization](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/)
-#          - Provided bioinformatics support and leadership to **interdisciplinary** research teams
-#          - Familiar with compound **screening** for drug discovery
 experiences:
     title: WORK EXPERIENCE
     info:
@@ -187,7 +184,7 @@ sidebar:
      
     # Profile information
     name: Jose Montero
-    tagline: Passionate, Team-Oriented Bioinformatician with Expertise in Multi-Omics
+    tagline: Technically-Skilled, Team-oriented Bioinformatician
     avatar: agrobioinformatics.jpg #profile.png  # Make sure this image is available in the /assets/images/ folder
     
     # Sidebar links
@@ -222,12 +219,12 @@ sidebar:
               level: ★★★★★              
             - idiom: Shiny
               level: ★★★★★  
-            - idiom: SLURM for HPC
-              level: ★★★★★
-            - idiom: SQL
-              level: ★★★☆☆          
             - idiom: Python
-              level: ★★★☆☆
+              level: ★★★★☆
+#            - idiom: SLURM for HPC
+#              level: ★★★★★
+#            - idiom: SQL
+#              level: ★★★☆☆          
         - title: 🧬 Bioinformatics & Omics
           info:
             - idiom: Bioinformatics Software Development
@@ -258,20 +255,20 @@ sidebar:
           info:
             - idiom: Git (Version Control)
               level: ★★★★★
-            - idiom: Amazon Web Services (AWS)
-              level: ★★★★★
             - idiom: Shiny apps
               level: ★★★★★
-            - idiom: MarkDown/Quarto
-              level: ★★★★☆
             - idiom: Machine Learning (tidyverse, scikitlearn)
               level: ★★★★★
+            - idiom: MarkDown/Quarto for report crafting
+              level: ★★★★★
+#            - idiom: Amazon Web Services (AWS)
+#              level: ★★★★☆
         - title: 🖥️ Computing & Infrastructure
           info:
             - idiom: High-Performance Computing
               level: ★★★★★
             - idiom: Linux Terminal
-              level: ★★★★☆
+              level: ★★★★★
         - title: 🎯 Productivity
           info:
             - idiom: Fast Typing
@@ -280,10 +277,12 @@ sidebar:
               level: ★★★☆☆
         - title: 🚗 Other Skills
           info:
+            - idiom: Team Work and Collaboration
+              level: ★★★★★          
             - idiom: Oral & Written Communication
               level: ★★★★★  
-            - idiom: Teaching & Training
-              level: 
+            - idiom: Teaching/Training/Mentorship
+              level: ★★★★★
 #            - idiom: Category B Driving License
 #              level: ★★★★★
     interests:
@@ -292,5 +291,6 @@ sidebar:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
 
 
