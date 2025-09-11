@@ -1,10 +1,12 @@
 career-profile:
     title: ABOUT ME
     summary: |
-          - [I planned the research strategy, designed **workflows** in R for **integrating, clearning, analyzing and interpreting** **OMIC data** **via machine learning (ML)** and documented everything with Quarto for my PhD project (LINK)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
+          - [I planned the research strategy, designed **workflows** in R for **integrating, clearning, analyzing and interpreting** **Next Generation Sequencing (NGS) and OMIC data** with advanced **ggplot2** plots and documented everything with Quarto for my PhD project (LINK)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
           - Experience managing large-scale **Next Generation Sequencing (NGS) genomic data** for variant calling using optimized pipelines operated via SLURM in **Linux**-based **High-Performance Computing (HPC)** clusters
-          - Strong record in workflow development and interactive **Shiny** apps for [complex biological data visualization](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/)
+          - Strong record in workflow development and interactive **Shiny** apps for [complex biological data visualization with ggplot2](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/)
           - Excellent bioinformatics skills as an [expert **R** user, developing homemade tools for analyzing complex genomic data](https://github.com/GoliczGenomeLab/haploMAGIC), and proficient in python
+          - Attended the **2024 Posit Conference** in Seattle
+          - 1 year experience in teaching at a senior school, preparing presentation materials on a daily basis, and delivering lectures on their content
           - Support and mentorship in bioinformatics team provided [- See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0)
           - [award-winning communication skills](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)
 #          - Development of **front-end** tools with **Shiny** for [complex biological data visualization](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/)
@@ -32,10 +34,10 @@ experiences:
         details: |
           - [I planned the research strategy, designed **workflows** in R for **integrating, clearning, analyzing and interpreting** **RNAseq** and other heterogeneous **OMIC data** **via machine learning (ML)** and documented everything with Quarto for my PhD project (LINK)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
           - Developed **[novel bioinformatics tools](https://github.com/GoliczGenomeLab/haploMAGIC)** for genomic recombination analysis, leading to **[high-impact publications](https://academic.oup.com/g3journal/article/14/8/jkae109/7684607)**
-          - Work in HPC environments using SLURM and Git version control
-          - Developed pipelines for OMICS data processing and analysis in R and bash
+          - Work in Linux HPC environments using SLURM and Git version control
           - Created interactive [Shiny applications](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/) and [Markdown reports](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html) for summarization and data exploration, supporting interdisciplinary collaborations.
           - Trained colleagues on the use of Git and mentored a master thesis student with positive feedback ([See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
+#          - Developed pipelines for OMICS data processing and analysis in R and bash
 #          - Presented research at leading conferences, earning **[Best Student Presentation at IRC 2023](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)**
 #          - Activelly collaborated with a [big team of external and internal scientists](https://www.irtg2843.de/about)** of breeders, data scientists and bioinformaticians
 #          - Extensive experience integrating transcriptomics and proteomics data with genomic datasets
@@ -214,10 +216,8 @@ sidebar:
       categories:
         - title: 💻 Programming & Scripting
           info:
-            - idiom: R
+            - idiom: R (including ggplot2)
               level: ★★★★★
-            - idiom: Python
-              level: ★★★☆☆
             - idiom: Bash
               level: ★★★★★              
             - idiom: Shiny
@@ -226,6 +226,8 @@ sidebar:
               level: ★★★★★
             - idiom: SQL
               level: ★★★☆☆          
+            - idiom: Python
+              level: ★★★☆☆
         - title: 🧬 Bioinformatics & Omics
           info:
             - idiom: Bioinformatics Software Development
@@ -280,14 +282,15 @@ sidebar:
           info:
             - idiom: Oral & Written Communication
               level: ★★★★★  
-            - idiom: Category B Driving License
-              level: ★★★★★
             - idiom: Teaching & Training
               level: 
+#            - idiom: Category B Driving License
+#              level: ★★★★★
     interests:
       title: Interests
       info:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
 
