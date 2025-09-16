@@ -1,21 +1,23 @@
 career-profile:
     title: ABOUT ME
     summary: |
+           - [I planned the research strategy, designed **workflows in R** for **integrating, clearning, analyzing and interpreting** **RNAseq, WGS** and other heterogeneous **OMIC data** **via machine learning (ML)** and documented everything with Quarto for my PhD project (LINK)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
            - Technically sound skills in **R, bash and python** developed in Linux HPC environments coding acquired during **PhD work in Bioinformatics**
-           - **Great communication skills**, creating **[interactive reports](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/) and [static reports](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)** and **delivering detail-precise presentations** ([*See my award-winning presentation at an international conference by clicking here*](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)).
-           - **Collaboration skills** proved with [scientific collaboration in academic papers](https://academic.oup.com/g3journal/article/14/8/jkae109/7684607), mentoring duties, training of colleagues on bioinformatics affairs ([See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
-           - Interdisciplinary, up-to-date bioinformatics skills, I like to research about computational methods and choose the best after benchmarking
-           - Proactive, flexible and adaptable
-           - Understanding of various topics in life sciences, acquired during my educational training (bachelor's degree in Biochemistry)
-           - [Experience in **Machine Learning** for analyzing complex multiomics data sets](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
+           - [**Award-winning communication skills**](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)
+           - **Excellent presentation skills** using **[interactive reports](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/) and [static reports](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)** and **delivering detail-precise presentations** ([*See my award-winning presentation at an international conference by clicking here*](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)).
+           - Familiar with clinical trials
+           - Great focus, Time-management, proactive mindset, project-management skills, team player       
+#           - **Collaboration skills** proved with [scientific collaboration in academic papers](https://academic.oup.com/g3journal/article/14/8/jkae109/7684607), mentoring duties, training of colleagues on bioinformatics affairs ([See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
+#           - Interdisciplinary, up-to-date bioinformatics skills, I like to research about computational methods and choose the best after benchmarking
+#           - Proactive, flexible and adaptable
+#           - Understanding of various topics in life sciences, acquired during my educational training (bachelor's degree in Biochemistry)
+#           - [Experience in **Machine Learning** for analyzing complex multiomics data sets](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
 #          - Development of **front-end** tools with **Shiny** for [complex biological data visualization](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/)
 #          - Multilingual, self-confident conversationist with [award-winning presentation skills](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s) and experience in teaching in a British senior school
 #          - Experience with Amazon Web Services (AWS) Cloud Computing, SQL, BLAST and Ensembl
-#          - Time-management, proactive mindset, project-management skills, team player, [award-winning communication skills](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)
 #          - Strong background in **molecular genetics** (NGS analysis) and multi-omics
 #          - Experience designing, building, documenting, and maintaining [**OMICS workflows**](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html) for scientific projects
 #          - Proven record in teaching, mentoring students, **helping** colleagues fix bugs, and training colleagues on bioinformatic tools (for example *Git*, [See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
-#          - [I planned the research strategy, designed **workflows** in R for **integrating, clearning, analyzing and interpreting** **RNAseq** and other heterogeneous **OMIC data** **via machine learning (ML)** and documented everything with Quarto for my PhD project (LINK)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
 #          - Technically gifted (**R, python, bash, HPC**)
 #          - I designed **workflows** in R for **data processing**, **result interpretation**, and documented everything with Quarto for my PhD project [IN THIS REPORT](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
 #          - Development of **front-end** tools with **Shiny** for [complex biological data visualization](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/)
@@ -184,7 +186,7 @@ sidebar:
      
     # Profile information
     name: Jose Montero
-    tagline: Technically-Skilled, Team-Oriented Bioinformatician
+    tagline: Team-Oriented Bioinformatician
     avatar: agrobioinformatics.jpg #profile.png  # Make sure this image is available in the /assets/images/ folder
     
     # Sidebar links
@@ -213,7 +215,7 @@ sidebar:
       categories:
         - title: 💻 Programming & Scripting
           info:
-            - idiom: R (including ggplot2)
+            - idiom: R
               level: ★★★★★
             - idiom: Bash
               level: ★★★★★              
@@ -229,18 +231,20 @@ sidebar:
           info:
             - idiom: Bioinformatics Software Development
               level: ★★★★★
+            - idiom: Transcriptomic Data Analysis (RNAseq)
+              level: ★★★★★
             - idiom: Next Generation Sequencing (NGS) VCFtools, bowtie, GATK, etc
               level: ★★★★★
             - idiom: OMICS Pipeline construction
-              level: ★★★★★              
-            - idiom: Next Generation Sequencing (NGS)
               level: ★★★★★
+            - idiom: Proteomics Data Analysis (RNAseq)
+              level: ★★☆☆☆              
+            - idiom: Clinical Databases (TCGA, ClinVar, etc.)
+              level: ★★☆☆☆              
 #            - idiom: BLAST
 #              level: ★★★★★
 #            - idiom: Ensemble
-#              level: ★★★★☆
-#            - idiom: Transcriptomic Data Analysis (RNAseq)
-#              level: ★★★★★                         
+#              level: ★★★★☆                     
 #            - idiom: Workflow Automation
 #              level: ★★★★★
 #            - idiom: Proteomics Data Analysis
@@ -283,14 +287,11 @@ sidebar:
               level: ★★★★★  
             - idiom: Teaching/Training/Mentorship
               level: ★★★★★
-#            - idiom: Category B Driving License
-#              level: ★★★★★
+            - idiom: Category B Driving License
+              level: ★★★★★
     interests:
       title: Interests
       info:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
-
-
-
