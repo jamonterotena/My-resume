@@ -4,7 +4,7 @@ career-profile:
            - [I planned the research strategy, designed **workflows in R** for **integrating, clearning, analyzing and interpreting** **high-dimentional multi-omics data (genomics, transcriptomics, proteomics, epigenomics)** **via predictive modelling with machine learning (ML)** to solve a daunting biological question and documented everything with Quarto for my PhD project (LINK)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
            - [**Watch my presentation at an international conference about a bionformatics methods I developed in R, haploMAGIC, for extracting recombination data from populational genomic data**](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)
            - Bachelor-level training in microbial biotechnology and bioengineering, learning concepts such as fermentors, population growth models and microbial metabolism...
-           - My communication skills also extend to report creation, both [interactive with Shiny](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/) and [static reports](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)** and **delivering detail-precise presentations** ([*See my award-winning presentation at an international conference by clicking here*](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)).
+           - My communication skills also extend to report creation, both [interactive with Shiny](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/) and [static reports](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
            - Passion for data analysis to solve biological questions, great focus, time-management, proactive mindset, project-management skills, team player           
 #           - Familiar with clinical trials
 #           - Technically sound skills in **R, bash and python** developed in Linux HPC environments coding acquired during **PhD work in Bioinformatics**
@@ -221,11 +221,11 @@ sidebar:
             - idiom: Bash
               level: ★★★★★              
             - idiom: Shiny
-              level: ★★★★★  
-            - idiom: Python
-              level: ★★★★☆
+              level: ★★★★★ 
             - idiom: SLURM for HPC
               level: ★★★★★
+            - idiom: Python
+              level: ★★★★☆
             - idiom: SQL
               level: ★★★☆☆          
         - title: 🧬 Bioinformatics & Omics
@@ -296,3 +296,4 @@ sidebar:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
