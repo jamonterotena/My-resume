@@ -1,16 +1,13 @@
 career-profile:
     title: ABOUT ME
     summary: |
-           - Expert level in **R** with proven record of [program development for processing and extracting information from complex genomic marker sequences](https://github.com/GoliczGenomeLab)
-           - [I planned the research strategy, designed **workflows in R** for **integrating, clearning, analyzing and interpreting** **high-dimentional multi-omics data** **via machine learning (ML)** and documented everything with Quarto for my PhD project (LINK)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
-           - **[Proficient in Shiny app development](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/) and [Quarto report creation](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)** and **delivering detail-precise presentations** ([*See my award-winning presentation at an international conference by clicking here*](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)).
-           - Experience in **bash**, using High Performance Computing (HPC) in Linux Systems, **Python** and unuspervised ML clustering (**Principal Component Analysis, PCA**)
-           - Interdisciplinary, familiar with drug development & clinical studies
-           - Quick-learning, proactive, flexible and adaptable
+           - [I planned the research strategy, designed **workflows in R** for **integrating, clearning, analyzing and interpreting** **high-dimentional multi-omics data (genomics, transcriptomics, proteomics, epigenomics)** **via predictive modelling with machine learning (ML)** to solve a daunting biological question and documented everything with Quarto for my PhD project (LINK)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
+           - [**Watch my presentation at an international conference about a bionformatics methods I developed in R, haploMAGIC, for extracting recombination data from populational genomic data**](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)
+           - Bachelor-level training in microbial biotechnology and bioengineering, learning concepts such as fermentors, population growth models and microbial metabolism...
+           - My communication skills also extend to report creation, both [interactive with Shiny](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/) and [static reports](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)** and **delivering detail-precise presentations** ([*See my award-winning presentation at an international conference by clicking here*](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)).
+           - Passion for data analysis to solve biological questions, great focus, time-management, proactive mindset, project-management skills, team player           
+#           - Familiar with clinical trials
 #           - Technically sound skills in **R, bash and python** developed in Linux HPC environments coding acquired during **PhD work in Bioinformatics**
-#           - [**Award-winning communication skills**](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)
-#           - Familiar with drug development & clinical studies
-#           - Great focus, Time-management, proactive mindset, project-management skills, team player       
 #           - **Collaboration skills** proved with [scientific collaboration in academic papers](https://academic.oup.com/g3journal/article/14/8/jkae109/7684607), mentoring duties, training of colleagues on bioinformatics affairs ([See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
 #           - Interdisciplinary, up-to-date bioinformatics skills, I like to research about computational methods and choose the best after benchmarking
 #           - Proactive, flexible and adaptable
@@ -190,7 +187,7 @@ sidebar:
      
     # Profile information
     name: Jose Montero
-    tagline: Pro-active Bioinformatician Seeking for a New Challenge
+    tagline: Analytical, Problem-Solving Computational Biologist
     avatar: agrobioinformatics.jpg #profile.png  # Make sure this image is available in the /assets/images/ folder
     
     # Sidebar links
@@ -241,8 +238,8 @@ sidebar:
               level: ★★★★★
             - idiom: OMICS Pipeline construction
               level: ★★★★★
-#            - idiom: Proteomics Data Analysis (RNAseq)
-#              level: ★★☆☆☆              
+            - idiom: Proteomics Data Analysis (RNAseq)
+              level: ★★☆☆☆              
 #            - idiom: Clinical Databases (TCGA, ClinVar, etc.)
 #              level: ★★☆☆☆              
 #            - idiom: BLAST
@@ -299,5 +296,3 @@ sidebar:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
-
-
