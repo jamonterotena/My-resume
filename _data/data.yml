@@ -238,7 +238,7 @@ sidebar:
           info:
             - idiom: Bioinformatics Software Development
               level: ★★★★★
-            - idiom: Variant Calling with short read data
+            - idiom: Variant Calling with Short Read Data
               level: ★★★★★              
             - idiom: Next Generation Sequencing (NGS) Data Analysis
               level: ★★★★★
@@ -250,11 +250,11 @@ sidebar:
           info:
             - idiom: Git (Version Control)
               level: ★★★★★
-            - idiom: Shiny apps
-              level: ★★★★★
             - idiom: Machine Learning
               level: ★★★★★
-            - idiom: MarkDown/Quarto for report crafting
+            - idiom: Shiny Apps
+              level: ★★★★★
+            - idiom: MarkDown/Quarto for Report Crafting
               level: ★★★★★
             - idiom: Variant Annotation Tools (SnpEff, ClinVar)
               level: ★★★★☆
@@ -288,6 +288,7 @@ sidebar:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
 
 
 
