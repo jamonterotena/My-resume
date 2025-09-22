@@ -1,11 +1,16 @@
 career-profile:
     title: ABOUT ME
     summary: |
-           - [I planned the research strategy, designed **workflows in R** for **integrating, clearning, analyzing and interpreting** **high-dimentional multi-omics data (genomics, transcriptomics, proteomics, epigenomics)** **via predictive modelling with machine learning (ML)** to solve a daunting biological question and documented everything with Quarto for my PhD project (LINK)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
-           - [**Watch my presentation at an international conference about a bionformatics methods I developed in R, haploMAGIC, for extracting recombination data from populational genomic data**](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)
-           - Bachelor-level training in microbial biotechnology and bioengineering, learning concepts such as fermentors, population growth models and microbial metabolism...
-           - My communication skills also extend to report creation, both [interactive with Shiny](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/) and [static reports](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
-           - Passion for data analysis to solve biological questions, great focus, time-management, proactive mindset, project-management skills, team player           
+           - Developed workflows for **NGS data processing** (quality control --> alignment vs reference --> post-processing --> variant calling)
+           - Built software for **NGS data analysis** (e.g., *haploMAGIC* ((link)[https://github.com/GoliczGenomeLab/haploMAGIC]) & *haploRILs* (link[https://github.com/GoliczGenomeLab/haploRILs]))
+           - Trained machine learning predictive models on *multi-omics data*, including **RNAseq, DNA methylation and NGS data**-based recombination data, for predicting recombination hotspots ((link)[https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html])
+           - Experience mentoring and training **multidisciplinary** teams (see [letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0), password: jamonterotena)
+           - Award-winning **communication** ((link)[https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s])
+#           - [I planned the research strategy, designed **workflows in R** for **integrating, clearning, analyzing and interpreting** **high-dimentional multi-omics data (genomics, transcriptomics, proteomics, epigenomics)** **via predictive modelling with machine learning (ML)** to solve a daunting biological question and documented everything with Quarto for my PhD project (LINK)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
+#           - [**Watch my presentation at an international conference about a bionformatics methods I developed in R, haploMAGIC, for extracting recombination data from populational genomic data**](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)
+#           - Bachelor-level training in microbial biotechnology and bioengineering, learning concepts such as fermentors, population growth models and microbial metabolism...
+#           - My communication skills also extend to report creation, both [interactive with Shiny](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/) and [static reports](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
+#           - Passion for data analysis to solve biological questions, great focus, time-management, proactive mindset, project-management skills, team player           
 #           - Familiar with clinical trials
 #           - Technically sound skills in **R, bash and python** developed in Linux HPC environments coding acquired during **PhD work in Bioinformatics**
 #           - **Collaboration skills** proved with [scientific collaboration in academic papers](https://academic.oup.com/g3journal/article/14/8/jkae109/7684607), mentoring duties, training of colleagues on bioinformatics affairs ([See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
@@ -53,21 +58,22 @@ experiences:
         time: "March 2021 – April 2021"
         company: "Deutsche Saatveredelung (DSV)"
         details: |
-          - Insightful experience in ambitious corporative environment
-#          - Development of KASP markers for resistance-related genes using BLAST
+          - Development of KASP markers for resistance-related genes using BLAST
+#          - Insightful experience in ambitious corporative environment
       - role: "Science Classroom Teacher"
         time: "Sep 2018 – Jul 2019"
         company: "Holmer Green Senior School (HGSS)"
         details: |
-          - Time management and team work demanding
-          - Instruction of Science (Physics, Chemistry and Biology) to year 9-11 school students
-          - **Regular communication with parents and colleagues**
+#          - Time management and team work demanding
+#          - Instruction of Science (Physics, Chemistry and Biology) to year 9-11 school students
+#          - **Regular communication with parents and colleagues**
 #          - Supervision of practical scientific lectures
 #          - Evaluation of assignments and examinations
       - role: "Undergraduate Student Assistant"
         company: "University of Extremadura"
         time: "June 2014 - June 2014"
         details:
+           - Collection and analysis of *in-vivo* murine models data for natural antioxidant research
       - role: "Volunteer Assistant"
         time: "Aug 2016 - Sep 2016"
         company: "Hostelling Scotland (SYHA)"
@@ -187,7 +193,7 @@ sidebar:
      
     # Profile information
     name: Jose Montero
-    tagline: Analytical, Problem-Solving Computational Biologist
+    tagline: Passionate, Skilled Bioformatician
     avatar: agrobioinformatics.jpg #profile.png  # Make sure this image is available in the /assets/images/ folder
     
     # Sidebar links
@@ -222,40 +228,24 @@ sidebar:
               level: ★★★★★              
             - idiom: Shiny
               level: ★★★★★ 
-            - idiom: SLURM for HPC
+            - idiom: SLURM for High Performance Computing (HPC)
               level: ★★★★★
             - idiom: Python
               level: ★★★★☆
             - idiom: SQL
-              level: ★★★☆☆          
+              level: ★★★☆☆         
         - title: 🧬 Bioinformatics & Omics
           info:
             - idiom: Bioinformatics Software Development
               level: ★★★★★
-            - idiom: Transcriptomic Data Analysis (RNAseq)
+            - idiom: Variant Calling with short read data
+              level: ★★★★★              
+            - idiom: Next Generation Sequencing (NGS) Data Analysis
               level: ★★★★★
-            - idiom: Next Generation Sequencing (NGS)
+            - idiom: Transcriptomic Data (RNAseq) Analysis
               level: ★★★★★
-            - idiom: OMICS Pipeline construction
-              level: ★★★★★
-            - idiom: Proteomics Data Analysis (RNAseq)
-              level: ★★☆☆☆              
-#            - idiom: Clinical Databases (TCGA, ClinVar, etc.)
-#              level: ★★☆☆☆              
-#            - idiom: BLAST
-#              level: ★★★★★
-#            - idiom: Ensemble
-#              level: ★★★★☆                     
-#            - idiom: Workflow Automation
-#              level: ★★★★★
-#            - idiom: Proteomics Data Analysis
-#              level: ★★★☆☆                            
-#            - idiom: Next Generation Sequencing
-#              level: ★★★★★
-#            - idiom: Genomic Imputation
-#              level: ★★★★☆
-#            - idiom: Genomic Simulation
-#              level: ★★★★☆
+            - idiom: Whole Genome Sequencing (WGBS) Data Analysis
+              level: ★★★★☆
         - title: 🛠️ Software & Tools
           info:
             - idiom: Git (Version Control)
@@ -266,11 +256,13 @@ sidebar:
               level: ★★★★★
             - idiom: MarkDown/Quarto for report crafting
               level: ★★★★★
+            - idiom: Variant Annotation Tools (SnpEff, ClinVar)
+              level: ★★★★☆
 #            - idiom: Amazon Web Services (AWS)
 #              level: ★★★★☆
         - title: 🖥️ Computing & Infrastructure
           info:
-            - idiom: High-Performance Computing
+            - idiom: High-Performance Computing (HPC)
               level: ★★★★★
             - idiom: Linux Terminal
               level: ★★★★★
@@ -296,4 +288,5 @@ sidebar:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
 
