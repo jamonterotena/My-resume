@@ -72,8 +72,8 @@ experiences:
       - role: "Undergraduate Student Assistant"
         company: "University of Extremadura"
         time: "June 2014 - June 2014"
-        details:
-           - Collection and analysis of *in-vivo* murine models data for natural antioxidant research
+        details: |
+          - Collection and analysis of *in-vivo* murine models data for natural antioxidant research
       - role: "Volunteer Assistant"
         time: "Aug 2016 - Sep 2016"
         company: "Hostelling Scotland (SYHA)"
@@ -288,6 +288,7 @@ sidebar:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
 
 
 
