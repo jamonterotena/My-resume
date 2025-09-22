@@ -2,10 +2,10 @@ career-profile:
     title: ABOUT ME
     summary: |
            - Developed workflows for **NGS data processing** (quality control --> alignment vs reference --> post-processing --> variant calling)
-           - Built software for **NGS data analysis** (e.g., *haploMAGIC* ((link)[https://github.com/GoliczGenomeLab/haploMAGIC]) & *haploRILs* (link[https://github.com/GoliczGenomeLab/haploRILs]))
-           - Trained machine learning predictive models on *multi-omics data*, including **RNAseq, DNA methylation and NGS data**-based recombination data, for predicting recombination hotspots ((link)[https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html])
+           - Built software for **NGS data analysis** (e.g., *haploMAGIC* ([link](https://github.com/GoliczGenomeLab/haploMAGIC)) & *haploRILs* ([link](https://github.com/GoliczGenomeLab/haploRILs)))
+           - Trained machine learning predictive models on *multi-omics data*, including **RNAseq, DNA methylation and NGS data**-based recombination data, for predicting recombination hotspots ([link](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html))
            - Experience mentoring and training **multidisciplinary** teams (see [letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0), password: jamonterotena)
-           - Award-winning **communication** ((link)[https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s])
+           - Award-winning **communication** ([link](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s))
 #           - [I planned the research strategy, designed **workflows in R** for **integrating, clearning, analyzing and interpreting** **high-dimentional multi-omics data (genomics, transcriptomics, proteomics, epigenomics)** **via predictive modelling with machine learning (ML)** to solve a daunting biological question and documented everything with Quarto for my PhD project (LINK)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
 #           - [**Watch my presentation at an international conference about a bionformatics methods I developed in R, haploMAGIC, for extracting recombination data from populational genomic data**](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)
 #           - Bachelor-level training in microbial biotechnology and bioengineering, learning concepts such as fermentors, population growth models and microbial metabolism...
@@ -288,6 +288,7 @@ sidebar:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
 
 
 
