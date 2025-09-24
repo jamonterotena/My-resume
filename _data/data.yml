@@ -133,7 +133,7 @@ recommendations:
   list:
   - person: Prof. Dr. Agnieszka A Golicz
     email: Agnieszka.Golicz@agrar.uni-giessen.de 
-    phone: +496419937432
+    phone: 00496419937432
     role: Professor for Agrobioinformatics at Justus Liebig University
     recommendation: |
       *"Jose’s willingness to share his expertise has made him an important member of the group. Apart from day to day interaction with group members, he took on the supervision of a student assistant, who later reported a very positive experience. [...]"* ([See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
@@ -292,6 +292,7 @@ sidebar:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
 
 
 
