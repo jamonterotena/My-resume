@@ -1,11 +1,12 @@
 career-profile:
     title: ABOUT ME
     summary: |
-           - Developed workflows for **NGS data processing** (quality control --> alignment vs reference --> post-processing --> variant calling)
+           - PhD candidate, I studied recombination in *Brassica napus* using homemade **coding pipelines** and **multi-omics** and **machine learning** approaches
            - Built software for **NGS data analysis** (e.g., *haploMAGIC* ([link](https://github.com/GoliczGenomeLab/haploMAGIC)) & *haploRILs* ([link](https://github.com/GoliczGenomeLab/haploRILs)))
-           - Trained machine learning predictive models on *multi-omics data*, including **RNAseq, DNA methylation and NGS data**-based recombination data, for predicting recombination hotspots ([link](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html))
            - Experience mentoring and training **multidisciplinary** teams (see [letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0), password: *jamonterotena*)
            - Award-winning **communication** ([link](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s))
+#           - Trained machine learning predictive models on *multi-omics data*, including **RNAseq, DNA methylation and NGS data**-based recombination data, for predicting recombination hotspots ([link](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html))
+#           - Developed workflows for **NGS data processing** (quality control --> alignment vs reference --> post-processing --> variant calling)
 #           - [I planned the research strategy, designed **workflows in R** for **integrating, clearning, analyzing and interpreting** **high-dimentional multi-omics data (genomics, transcriptomics, proteomics, epigenomics)** **via predictive modelling with machine learning (ML)** to solve a daunting biological question and documented everything with Quarto for my PhD project (LINK)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
 #           - [**Watch my presentation at an international conference about a bionformatics methods I developed in R, haploMAGIC, for extracting recombination data from populational genomic data**](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)
 #           - Bachelor-level training in microbial biotechnology and bioengineering, learning concepts such as fermentors, population growth models and microbial metabolism...
@@ -64,7 +65,7 @@ experiences:
         time: "Sep 2018 – Jul 2019"
         company: "Holmer Green Senior School (HGSS)"
         details: |
-#          - Time management and team work demanding
+          - Time management and team work demanding
 #          - Instruction of Science (Physics, Chemistry and Biology) to year 9-11 school students
 #          - **Regular communication with parents and colleagues**
 #          - Supervision of practical scientific lectures
@@ -91,8 +92,8 @@ education:
         time: "Oct 2019 – Oct 2021"
         details: |
           - Practical experience with R coding and NGS-based variant discovery ([See thesis manuscript](https://github.com/jamonterotena/Haplotype-based-Pangenome-Wheat-Analysis))
+          - Practical module in plant tissue culture and genetic transformation ([See certificate](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
 #         - Quantitative genetics-related topics: biostatistics, genomic prediction, genomic selection, GWAS, QTL mapping
-#         - Practical module in plant tissue culture and genetic transformation ([See certificate](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
       - degree: "M. D. in Secondary Education Teacher’s Training"
         university: "University of Extremadura (UEx)"
         time: "Oct 2017 – Jun 2018"
@@ -114,9 +115,9 @@ publications:
         authors: "Montero-Tena JA, Abdollahi Sisi N, Kox T, Abbadi A, Snowdon RJ, Golicz AA"
         conference: "G3 (Bethesda) (2024)"
         link: https://academic.oup.com/g3journal/article/14/8/jkae109/7684607
-#      - title: "Poster: Defining the Genome-wide Recombination Landscape of Brassica napus"
-#        authors: "Montero-Tena JA"
-#        conference: "GCB German Conference of Bioinformatics, Bielefeld, Germany (30 Sep – 2 Oct 2024)"
+      - title: "Poster: Defining the Genome-wide Recombination Landscape of Brassica napus"
+        authors: "Montero-Tena JA"
+        conference: "GCB German Conference of Bioinformatics, Bielefeld, Germany (30 Sep – 2 Oct 2024)"
       - title: "Oral presentation (watch video): haploMAGIC: Phasing and detecting recombination in multiparental populations (awarded prize to best oral presentation)"
         authors: "Montero-Tena JA"
         conference: "IRC International Rapeseed Congress, Sydney, Australia (24 – 27 Sep 2023)"
@@ -134,7 +135,7 @@ recommendations:
     phone: +496419937432
     role: Professor for Agrobioinformatics at Justus Liebig University
     recommendation: |
-      *"Jose has very strong technical skills, including proficiency in R, bash scripting, version control, and highperformance computing. In our group, he has become a contact point for various programming and technical questions. He has a very strong commitment to open source programming, the implementation of good programming practices, and has been a dedicated git user. As a result, he has also helped train others in the group on version control with git."* ([See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
+      *"Jose’s willingness to share his expertise has made him an important member of the group. Apart from day to day interaction with group members, he took on the supervision of a student assistant, who later reported a very positive experience. [...]"* ([See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
 certifications:
       title: Certifications
       list:
@@ -193,7 +194,7 @@ sidebar:
      
     # Profile information
     name: Jose Montero
-    tagline: Motivated, Skilled Bioformatician
+    tagline: Passionate, Resourceful Scientist
     avatar: agrobioinformatics.jpg #profile.png  # Make sure this image is available in the /assets/images/ folder
     
     # Sidebar links
@@ -232,8 +233,8 @@ sidebar:
               level: ★★★★★
             - idiom: Python
               level: ★★★★☆
-            - idiom: SQL
-              level: ★★★☆☆         
+#            - idiom: SQL
+#              level: ★★★☆☆         
         - title: 🧬 Bioinformatics & Omics
           info:
             - idiom: Bioinformatics Software Development
@@ -245,6 +246,8 @@ sidebar:
             - idiom: Transcriptomic Data (RNAseq) Analysis
               level: ★★★★★
             - idiom: Whole Genome Sequencing (WGBS) Data Analysis
+              level: ★★★★★
+            - idiom: ATACseq Data Analysis
               level: ★★★★☆
         - title: 🛠️ Software & Tools
           info:
@@ -256,8 +259,8 @@ sidebar:
               level: ★★★★★
             - idiom: MarkDown/Quarto for Report Crafting
               level: ★★★★★
-            - idiom: Variant Annotation Tools (SnpEff, ClinVar)
-              level: ★★★★☆
+#            - idiom: Variant Annotation Tools (SnpEff, ClinVar)
+#              level: ★★★★☆
 #            - idiom: Amazon Web Services (AWS)
 #              level: ★★★★☆
         - title: 🖥️ Computing & Infrastructure
@@ -288,10 +291,3 @@ sidebar:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
-
-
-
-
-
-
-
