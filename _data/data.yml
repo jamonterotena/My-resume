@@ -2,7 +2,7 @@ career-profile:
     title: ABOUT ME
     summary: |
            - PhD candidate, I studied recombination in *Brassica napus* using homemade **coding pipelines** and **multi-omics** and **machine learning** approaches
-           - Built software for **phasing and crossover detection** (e.g., *haploMAGIC* ([link](https://github.com/GoliczGenomeLab/haploMAGIC)) & *haploRILs* ([link](https://github.com/GoliczGenomeLab/haploRILs)))
+           - Built software for **phasing and crossover detection**, e.g., *haploMAGIC* ([link](https://github.com/GoliczGenomeLab/haploMAGIC)) & *haploRILs* ([link](https://github.com/GoliczGenomeLab/haploRILs))
            - Experience preprocessing, exploring and analyzing multi-omics data, including **RNAseq, DNA methylation and NGS data**
            - Trained machine learning predictive models on *multi-omics data* for predicting recombination hotspots ([link](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html))
            - Experience mentoring and training **multidisciplinary** teams (see [letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0), password: *jamonterotena*)
@@ -292,5 +292,6 @@ sidebar:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
 
 
