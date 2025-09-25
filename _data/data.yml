@@ -1,14 +1,18 @@
 career-profile:
     title: ABOUT ME
     summary: |
-           - PhD candidate, I studied **recombination** in ***Brassica napus*** using homemade **coding pipelines**, **multi-omics** and **machine learning**
-           - Built software for **phasing and crossover detection**, e.g., *haploMAGIC* ([link](https://github.com/GoliczGenomeLab/haploMAGIC)) & *haploRILs* ([link](https://github.com/GoliczGenomeLab/haploRILs))
-           - Experience preprocessing, exploring and analyzing **multi-omics data**, including **RNAseq, DNA methylation and NGS data**
-           - Trained **machine learning** predictive models on multi-omics data of **plant populations** for predicting recombination hotspots ([link](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html))
+           - [I planned the research strategy, designed **workflows in R** for **preparing, integrating, exploring, analyzing and interpreting** **high-dimentional multi-omics data (genomics, transcriptomics, proteomics, epigenomics)** **via predictive modelling with machine learning (ML)** to predict recombination and documented everything with Quarto for my PhD project (LINK)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
+           - Knowledge of **machine learning algorithms for unsupervised (PCA) and supervised learning (generalized linear regression, LIME, random forest, deep neural network, etc.)**
+           - I applied **Explainable Machine Learning (xML) techniques—SHapley Additive exPlanations (SHAP), Partial Dependence Plots (PDP), Accumulated Local Effect (ALE)**—to understand the local non-linear effects of multi-collinear features on the model's predictions
            - Experience mentoring and training **multidisciplinary** teams (see [letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0), password: *jamonterotena*)
            - Award-winning **communication** ([link](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s))
+           - Strong record in interactive **Shiny** apps for [complex biological data visualization](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/)
+#            
+#           - PhD candidate, I studied **recombination** in ***Brassica napus*** using homemade **coding pipelines**, **multi-omics** and **machine learning**
+#           - Built software for **phasing and crossover detection**, e.g., *haploMAGIC* ([link](https://github.com/GoliczGenomeLab/haploMAGIC)) & *haploRILs* ([link](https://github.com/GoliczGenomeLab/haploRILs))
+#           - Experience preprocessing, exploring and analyzing **multi-omics data**, including **RNAseq, DNA methylation and NGS data**
+#           - Trained **machine learning** predictive models on multi-omics data of **plant populations** for predicting recombination hotspots ([link](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html))
 #           - Developed workflows for **NGS data processing** (quality control --> alignment vs reference --> post-processing --> variant calling)
-#           - [I planned the research strategy, designed **workflows in R** for **integrating, clearning, analyzing and interpreting** **high-dimentional multi-omics data (genomics, transcriptomics, proteomics, epigenomics)** **via predictive modelling with machine learning (ML)** to solve a daunting biological question and documented everything with Quarto for my PhD project (LINK)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
 #           - [**Watch my presentation at an international conference about a bionformatics methods I developed in R, haploMAGIC, for extracting recombination data from populational genomic data**](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)
 #           - Bachelor-level training in microbial biotechnology and bioengineering, learning concepts such as fermentors, population growth models and microbial metabolism...
 #           - My communication skills also extend to report creation, both [interactive with Shiny](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/) and [static reports](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
@@ -31,7 +35,7 @@ career-profile:
 #          - Development of **front-end** tools with **Shiny** for [complex biological data visualization](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/)
 #          - Ability with **cloud computing** and infrastructure management skills (AWS, HPC, version control, etc.)#          - Acquainted and motivated to work in pharma industry
 #          - Developed automated [**pipelines**](https://github.com/GoliczGenomeLab/haploMAGIC) for [large-scale **omics** data analysis (genomics, proteomics, transcriptomics)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html) in R and Linux environments
-#          - Strong record in workflow development and interactive **Shiny** apps for [complex biological data visualization](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/)
+
 experiences:
     title: WORK EXPERIENCE
     info:
@@ -195,7 +199,7 @@ sidebar:
      
     # Profile information
     name: Jose Montero
-    tagline: Passionate, Resourceful Scientist
+    tagline: Team-Oriented Data Scientist & Excellent Communicator
     avatar: agrobioinformatics.jpg #profile.png  # Make sure this image is available in the /assets/images/ folder
     
     # Sidebar links
@@ -228,38 +232,40 @@ sidebar:
               level: ★★★★★
             - idiom: Bash
               level: ★★★★★              
-            - idiom: Shiny
-              level: ★★★★★ 
             - idiom: SLURM for High Performance Computing (HPC)
               level: ★★★★★
             - idiom: Python
               level: ★★★★☆
+#            - idiom: Shiny
+#              level: ★★★★★ 
 #            - idiom: SQL
 #              level: ★★★☆☆         
         - title: 🧬 Bioinformatics & Omics
           info:
             - idiom: Bioinformatics Software Development
               level: ★★★★★
-            - idiom: Variant Calling with NGS Data
-              level: ★★★★★              
-            - idiom: Next Generation Sequencing (NGS) Data Analysis
-              level: ★★★★★
             - idiom: Transcriptomic Data (RNAseq) Analysis
               level: ★★★★★
-            - idiom: Whole Genome Sequencing (WGBS) Data Analysis
+            - idiom: Next Generation Sequencing (NGS) Data Analysis
               level: ★★★★★
-            - idiom: ATACseq Data Analysis
-              level: ★★★★☆
+#            - idiom: Variant Calling with NGS Data
+#              level: ★★★★★              
+#            - idiom: Whole Genome Sequencing (WGBS) Data Analysis
+#              level: ★★★★★
+#            - idiom: ATACseq Data Analysis
+#              level: ★★★★☆
         - title: 🛠️ Software & Tools
           info:
+            - idiom: Machine Learning Algorithms
+              level: ★★★★★
+            - idiom: Explainable Machine Learning (xML)  
+              level: ★★★★★            
             - idiom: Git (Version Control)
               level: ★★★★★
-            - idiom: Machine Learning
-              level: ★★★★★
-            - idiom: Shiny Apps
-              level: ★★★★★
-            - idiom: MarkDown/Quarto for Report Crafting
-              level: ★★★★★
+#            - idiom: Shiny Apps
+#              level: ★★★★★
+#            - idiom: MarkDown/Quarto for Report Crafting
+#              level: ★★★★★
 #            - idiom: Variant Annotation Tools (SnpEff, ClinVar)
 #              level: ★★★★☆
 #            - idiom: Amazon Web Services (AWS)
@@ -292,6 +298,7 @@ sidebar:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
 
 
 
