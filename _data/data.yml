@@ -114,7 +114,8 @@ publications:
     papers:
       - title: "Machine learning and multi-omic analysis reveal contrasting recombination landscape of A and C subgenomes of winter oilseed rape (SUBMITTED)"
         authors: "Montero-Tena JA, Zanini SF, Yildiz Gozde, Kox T, Abbadi A, Snowdon RJ, Golicz AA"
-        conference: "Under Review"
+        conference: "bioRxiv"
+        link: https://www.biorxiv.org/content/10.1101/2025.09.23.677995v1
       - title: "haploMAGIC: accurate phasing and detection of recombination in multiparental populations despite
       genotyping errors"
         authors: "Montero-Tena JA, Abdollahi Sisi N, Kox T, Abbadi A, Snowdon RJ, Golicz AA"
@@ -298,6 +299,7 @@ sidebar:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
 
 
 
