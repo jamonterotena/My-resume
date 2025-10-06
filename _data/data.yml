@@ -45,8 +45,8 @@ experiences:
         time: "March 2021 – April 2021"
         company: "Deutsche Saatveredelung (DSV)"
         details: |
-#          - Insightful experience in ambitious corporative environment
           - Development of KASP markers for resistance-related genes using BLAST
+#          - Insightful experience in ambitious corporative environment
       - role: "Science Classroom Teacher"
         time: "Sep 2018 – Jul 2019"
         company: "Holmer Green Senior School (HGSS)"
@@ -277,6 +277,7 @@ sidebar:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
 
 
 
