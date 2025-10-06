@@ -28,7 +28,7 @@ experiences:
           - Developed pipelines for OMICS data processing and analysis in R and bash
           - Created interactive [Shiny applications](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/) and [Markdown reports](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html) for summarization and data exploration, supporting interdisciplinary collaborations.
           - Presented research at leading conferences, earning **[Best Student Presentation at IRC 2023](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)**
-          - Activelly collaborated with a [big team of external and internal scientists](https://www.irtg2843.de/about)** of breeders, data scientists and bioinformaticians
+          - Activelly collaborated with a [big team of external and internal scientists](https://www.irtg2843.de/about) of breeders, data scientists and bioinformaticians
 #         - Extensive experience integrating transcriptomics and proteomics data with genomic datasets
 #         - Developed **NGS analysis workflows** for variant calling          
 #         - Built and optimized pipelines for **[multi-omics data analysis](https://jamonterotena.github.io/ML-reports/)**
@@ -271,6 +271,7 @@ sidebar:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
 
 
 
