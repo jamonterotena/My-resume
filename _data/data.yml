@@ -1,12 +1,15 @@
 career-profile:
     title: ABOUT ME
     summary: |
-          - Strong background in molecular genetics (NGS analysis), multi-omics and **molecular biology**
-          - Experience designing, building, reporting, and maintaining [**OMICS workflows**](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html) for scientific projects
-          - Developed automated [**pipelines**](https://github.com/GoliczGenomeLab/haploMAGIC) for [large-scale **omics** data analysis (genomics, proteomics, transcriptomics)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html) in R and Linux environments
-          - Proven record in teaching, mentoring students, **helping** colleagues fix bugs, and training colleagues on bioinformatic tools (for example *Git*, [See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
-          - [Award-winning oral **communication**](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)
-          - Technically gifted (**R, python, bash, HPC**)
+          - 4-year experience working in High Performance Computing (HPC) Unix-based environments
+          - Strong background in general and molecular genetics and genetic inheritance (PhD): I wrote code for pedigree-based DNA phasing in populations of related individuals [(link)](https://github.com/GoliczGenomeLab/haploMAGIC)
+          - Technically gifted (**python, R, bash, HPC**)
+          - Familiarity with clinical databases (ClinVar, dbSNP, etc.)
+          - Spanish native speaker and professionally proficient in English
+#          - Experience designing, building, reporting, and maintaining [**OMICS workflows**](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html) for scientific projects
+#          - Developed automated [**pipelines**](https://github.com/GoliczGenomeLab/haploMAGIC) for [large-scale **omics** data analysis (genomics, proteomics, transcriptomics)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html) in R and Linux environments
+#          - Proven record in teaching, mentoring students, **helping** colleagues fix bugs, and training colleagues on bioinformatic tools (for example *Git*, [See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
+#          - [Award-winning oral **communication**](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)      
 #          - I designed **workflows** in R for **data processing**, **result interpretation**, and documented everything with Quarto for my PhD project [IN THIS REPORT](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
 #          - Development of **front-end** tools with **Shiny** for [complex biological data visualization](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/)
 #          - Ability with **cloud computing** and infrastructure management skills (AWS, HPC, version control, etc.)#          - Acquainted and motivated to work in pharma industry
@@ -23,12 +26,12 @@ experiences:
         details: |
           - I designed **workflows** in R for **data processing** and **result interpretation**, and documented everything with Quarto for my PhD project [IN THIS REPORT](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
           - Developed **[novel bioinformatics tools](https://github.com/GoliczGenomeLab/haploMAGIC)** for genomic recombination analysis, leading to **[high-impact publications](https://academic.oup.com/g3journal/article/14/8/jkae109/7684607)**
-          - Trained colleagues on the use of Git and mentored a master thesis student with positive feedback ([See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
           - Work in HPC environments using SLURM and Git version control
-          - Developed pipelines for OMICS data processing and analysis in R and bash
-          - Created interactive [Shiny applications](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/) and [Markdown reports](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html) for summarization and data exploration, supporting interdisciplinary collaborations.
-          - Presented research at leading conferences, earning **[Best Student Presentation at IRC 2023](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)**
-          - Activelly collaborated with a [big team of external and internal scientists](https://www.irtg2843.de/about) of breeders, data scientists and bioinformaticians
+#          - Trained colleagues on the use of Git and mentored a master thesis student with positive feedback ([See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
+#          - Developed pipelines for OMICS data processing and analysis in R and bash
+#          - Created interactive [Shiny applications](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/) and [Markdown reports](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html) for summarization and data exploration, supporting interdisciplinary collaborations.
+#          - Presented research at leading conferences, earning **[Best Student Presentation at IRC 2023](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)**
+#          - Activelly collaborated with a [big team of external and internal scientists](https://www.irtg2843.de/about) of breeders, data scientists and bioinformaticians
 #         - Extensive experience integrating transcriptomics and proteomics data with genomic datasets
 #         - Developed **NGS analysis workflows** for variant calling          
 #         - Built and optimized pipelines for **[multi-omics data analysis](https://jamonterotena.github.io/ML-reports/)**
@@ -37,21 +40,21 @@ experiences:
         time: "Dec 2021 - Feb 2022"
         company: "Justus Liebig University (JLU)"
         details: |
-          - Built **bioinformatics pipelines** in collaboration with the faba bean pangenome consortium (gene ortholog identification, gene sequence alignment, RNA-seq)
+#          - Built **bioinformatics pipelines** in collaboration with the faba bean pangenome consortium (gene ortholog identification, gene sequence alignment, RNA-seq)
       - role: "Industry Intern"
         time: "March 2021 – April 2021"
         company: "Deutsche Saatveredelung (DSV)"
         details: |
-          - Insightful experience in ambitious corporative environment
-#          - Development of KASP markers for resistance-related genes using BLAST
+#          - Insightful experience in ambitious corporative environment
+          - Development of KASP markers for resistance-related genes using BLAST
       - role: "Science Classroom Teacher"
         time: "Sep 2018 – Jul 2019"
         company: "Holmer Green Senior School (HGSS)"
         details: |
-          - Instruction of Science (Physics, Chemistry and Biology) to year 9-11 school students
-          - Supervision of practical scientific lectures
-          - Evaluation of assignments and examinations
-          - **Regular communication with parents and colleagues**
+ #         - Instruction of Science (Physics, Chemistry and Biology) to year 9-11 school students
+ #         - Supervision of practical scientific lectures
+ #         - Evaluation of assignments and examinations
+#          - **Regular communication with parents and colleagues**
       - role: "Undergraduate Student Assistant"
         company: "University of Extremadura"
         time: "June 2014 - June 2014"
@@ -206,26 +209,28 @@ sidebar:
           info:
             - idiom: R/Bioconductor
               level: ★★★★★
-            - idiom: Shiny
+            - idiom: Python
               level: ★★★★★
             - idiom: Bash
               level: ★★★★★              
             - idiom: SLURM for HPC
               level: ★★★★★
-            - idiom: Snakemake
-              level: ★★★☆☆
-            - idiom: Python
-              level: ★★★☆☆
+#            - idiom: Snakemake
+#              level: ★★★☆☆
+#            - idiom: Shiny
+#              level: ★★★★★
 #            - idiom: SQL
 #              level: ★★★☆☆
         - title: 🧬 Bioinformatics & Omics
           info:
             - idiom: Bioinformatics Software Development
               level: ★★★★★
-            - idiom: OMICS Pipeline construction
-              level: ★★★★★              
             - idiom: Next Generation Sequencing
-              level: ★★★★★              
+              level: ★★★★★
+            - idiom: Genomics Software
+              level: ★★★★★
+#            - idiom: OMICS Pipeline construction
+#              level: ★★★★★              
 #            - idiom: Workflow Automation
 #              level: ★★★★★
 #            - idiom: Proteomics Data Analysis
@@ -265,12 +270,14 @@ sidebar:
             - idiom: Category B Driving License
               level: ★★★★★
 #            - idiom: Teaching & Training
-#              level: ★★★★★    interests:
+#              level: ★★★★★
+    interests:
       title: Interests
       info:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
 
 
 
