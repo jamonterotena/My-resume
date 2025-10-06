@@ -1,11 +1,11 @@
 career-profile:
     title: ABOUT ME
     summary: |
-          - 4-year experience working in High Performance Computing (HPC) Unix-based environments
-          - Strong background in general and molecular genetics and genetic inheritance (PhD): I wrote code for pedigree-based DNA phasing in populations of related individuals [(link)](https://github.com/GoliczGenomeLab/haploMAGIC)
+          - 4-year experience working in **Unix**-based environments
+          - Strong background in general and molecular **genetics** and genetic inheritance (**PhD**): I wrote code for pedigree-based DNA phasing in populations of related individuals [(link)](https://github.com/GoliczGenomeLab/haploMAGIC)
           - Technically gifted (**python, R, bash, HPC**)
-          - Familiarity with clinical databases (ClinVar, dbSNP, etc.)
-          - Spanish native speaker and professionally proficient in English
+          - Familiarity with **clinical databases** (ClinVar, dbSNP, etc.)
+          - **Spanish** native speaker and professionally proficient in **[English](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)**
 #          - Experience designing, building, reporting, and maintaining [**OMICS workflows**](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html) for scientific projects
 #          - Developed automated [**pipelines**](https://github.com/GoliczGenomeLab/haploMAGIC) for [large-scale **omics** data analysis (genomics, proteomics, transcriptomics)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html) in R and Linux environments
 #          - Proven record in teaching, mentoring students, **helping** colleagues fix bugs, and training colleagues on bioinformatic tools (for example *Git*, [See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
@@ -277,6 +277,7 @@ sidebar:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
 
 
 
