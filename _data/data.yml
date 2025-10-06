@@ -51,9 +51,9 @@ experiences:
         time: "Sep 2018 – Jul 2019"
         company: "Holmer Green Senior School (HGSS)"
         details: |
- #         - Instruction of Science (Physics, Chemistry and Biology) to year 9-11 school students
- #         - Supervision of practical scientific lectures
- #         - Evaluation of assignments and examinations
+#         - Instruction of Science (Physics, Chemistry and Biology) to year 9-11 school students
+#         - Supervision of practical scientific lectures
+#         - Evaluation of assignments and examinations
 #          - **Regular communication with parents and colleagues**
       - role: "Undergraduate Student Assistant"
         company: "University of Extremadura"
@@ -277,6 +277,7 @@ sidebar:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
 
 
 
