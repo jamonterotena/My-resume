@@ -228,7 +228,8 @@ sidebar:
             - idiom: Single-cell RNAseq data analysis (Seurat)
               level: ★★★★☆              
             - idiom: Proteomics Data Analysis
-              level: ★★★☆☆#            - idiom: Workflow Automation
+              level: ★★★☆☆
+#            - idiom: Workflow Automation
 #              level: ★★★★★
 #            - idiom: Pipeline construction
 #              level: ★★★★★              
@@ -272,6 +273,7 @@ sidebar:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
 
 
 
