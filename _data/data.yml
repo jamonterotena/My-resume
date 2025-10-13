@@ -1,16 +1,17 @@
 career-profile:
     title: ABOUT ME
     summary: |
+          - Wrote NGS pipelines for variant calling (fastQC, bowtie, minimap, samtools, VCF HaplotypeCaller) in the Linux-terminal optimized for High Performance Computing (HPC) using SLURM
+          - Experience coding **bioinformatics algorithms** in R ([link](https://github.com/GoliczGenomeLab/haploMAGIC)) and automated pipelines for [large-scale **omics** data analysis (genomics, proteomics, transcriptomics)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html) in R and Linux environments
           - Provided bioinformatics support and leadership to **interdisciplinary** research teams ([See letter of recommendation, password: jamonterotena](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
-          - Developed automated [**pipelines**](https://github.com/GoliczGenomeLab/haploMAGIC) for [large-scale **omics** data analysis (genomics, proteomics, transcriptomics)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html) in R and Linux environments
-          - AWS Certified Cloud Practicioner (S3, EC2, Lambda, AWS Batch, VPC, etc.)
-          - Training in **single-cell RNA sequencing data analysis** using the **Seurat R package** and 10x Genomics data format (QC, normalization, PCA, clustering, cell annotation, gene marker id, DEGs, gene set enrichment)
-          - Strong experience working in Unix-based **High Performance Computing (HPC)** clusters
+          - Excellent communication of scientific insights, both for oral presentations ([**Best Student Presentation Award**, link](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)) and visual dynamic or static reports for [complex biological data visualization](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/)       
+          - Knowledge and interest in microbiology honed with different academic activities (modules in Biochemistry bachelor's, completed course "Whole genome sequencing of bacterial genomes", [link](Whole genome sequencing of bacterial genomes)) and 
+#          - Strong experience working in Unix-based **High Performance Computing (HPC)** clusters
+#          - AWS Certified Cloud Practicioner (S3, EC2, Lambda, AWS Batch, VPC, etc.)
+#          - Training in **single-cell RNA sequencing data analysis** using the **Seurat R package** and 10x Genomics data format (QC, normalization, PCA, clustering, cell annotation, gene marker id, DEGs, gene set enrichment)
 #          - Instructed and motivated to work in compound **screening** for discovering drugs for treating AML
 #          - Experience with Cloud Computing and Version Control (Git)
 #          - Fast learner, detail-oriented, technically skilled, and experience working with interdisciplinary teams
-#          - [Award-winning oral **communication**](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)
-#          - Strong record in workflow development and interactive **Shiny** apps for [complex biological data visualization](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/)       
 experiences:
     title: WORK EXPERIENCE
     info:
@@ -111,8 +112,8 @@ recommendations:
     phone: +496419937432
     role: Professor for Agrobioinformatics at Justus Liebig University
     recommendation: |
-      *"Jose has shown a genuine ability to work well in diverse settings and contribute to a supportive environment"* ([See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
-#      *"Jose has very strong technical skills, including proficiency in R, bash scripting, version control, and highperformance computing. In our group, he has become a contact point for various programming and technical questions. He has a very strong commitment to open source programming, the implementation of good programming practices, and has been a dedicated git user. As a result, he has also helped train others in the group on version control with git."* ([See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
+      *"Jose has very strong technical skills, including proficiency in R, bash scripting, version control, and highperformance computing. In our group, he has become a contact point for various programming and technical questions. He has a very strong commitment to open source programming, the implementation of good programming practices, and has been a dedicated git user. As a result, he has also helped train others in the group on version control with git."* ([See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
+#      *"Jose has shown a genuine ability to work well in diverse settings and contribute to a supportive environment"* ([See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
 #      *"Jose’s willingness to share his expertise has made him an important member of the group. Apart from day to day interaction with group members, he took on the supervision of a student assistant, who later reported a very positive experience. He also served as an instructor in our Master level practical bioinformatics course."* ([See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
 certifications:
       title: Certifications
@@ -180,7 +181,7 @@ sidebar:
      
     # Profile information
     name: Jose Montero
-    tagline: Team-Focused Bioinformatician | scRNAseq | NGS Experience | AWS
+    tagline: Skilled, Team-Oriented Bioinformatician with NGS Background
     avatar: agrobioinformatics.jpg #profile.png  # Make sure this image is available in the /assets/images/ folder
     
     # Sidebar links
@@ -273,6 +274,7 @@ sidebar:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
 
 
 
