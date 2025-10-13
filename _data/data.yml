@@ -1,12 +1,14 @@
 career-profile:
     title: ABOUT ME
     summary: |
-          - Strong experience working in Unix-based **High Performance Computing (HPC)** clusters
           - Provided bioinformatics support and leadership to **interdisciplinary** research teams ([See letter of recommendation, password: jamonterotena](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
           - Developed automated [**pipelines**](https://github.com/GoliczGenomeLab/haploMAGIC) for [large-scale **omics** data analysis (genomics, proteomics, transcriptomics)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html) in R and Linux environments
-          - Instructed and motivated to work in compound **screening** for discovering drugs for treating AML
-          - Experience with Cloud Computing and Version Control (Git)
-          - Fast learner, detail-oriented, technically skilled, and experience working with interdisciplinary teams
+          - AWS Certified Cloud Practicioner (S3, EC2, Lambda, AWS Batch, VPC, etc.)
+          - Training in **single-cell RNA sequencing data analysis** using the **Seurat R package** and 10x Genomics data format (QC, normalization, PCA, clustering, cell annotation, gene marker id, DEGs, gene set enrichment)
+          - Strong experience working in Unix-based **High Performance Computing (HPC)** clusters
+#          - Instructed and motivated to work in compound **screening** for discovering drugs for treating AML
+#          - Experience with Cloud Computing and Version Control (Git)
+#          - Fast learner, detail-oriented, technically skilled, and experience working with interdisciplinary teams
 #          - [Award-winning oral **communication**](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)
 #          - Strong record in workflow development and interactive **Shiny** apps for [complex biological data visualization](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/)       
 experiences:
@@ -18,11 +20,11 @@ experiences:
         details: |
           - Developed **[novel bioinformatics tools](https://github.com/GoliczGenomeLab/haploMAGIC)** for genomic recombination analysis, leading to **[high-impact publications](https://academic.oup.com/g3journal/article/14/8/jkae109/7684607)**
           - Mentorship of a master thesis student with positive feedback ([See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
-          - Developed pipelines for omics data processing and analysis in R and bash
-          - Extensive experience integrating transcriptomics and proteomics data with genomic datasets
-          - Created interactive [Shiny applications](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/) and [Markdown reports](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html) for summarization and data exploration, supporting interdisciplinary collaborations.
           - Activelly collaborated with a [big team of external and internal scientists](https://www.irtg2843.de/about)** of breeders, data scientists and bioinformaticians
           - Presented research at leading conferences, earning **[Best Student Presentation at IRC 2023](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)**
+#          - Developed pipelines for omics data processing and analysis in R and bash
+#          - Extensive experience integrating transcriptomics and proteomics data with genomic datasets
+#          - Created interactive [Shiny applications](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/) and [Markdown reports](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html) for summarization and data exploration, supporting interdisciplinary collaborations.
 #         - Developed **NGS analysis workflows** for variant calling          
 #         - Built and optimized pipelines for **[multi-omics data analysis](https://jamonterotena.github.io/ML-reports/)**
 #         - Delivered workshop for introducing version control systems to peers, specifically git 
@@ -110,9 +112,19 @@ recommendations:
     role: Professor for Agrobioinformatics at Justus Liebig University
     recommendation: |
       *"Jose has shown a genuine ability to work well in diverse settings and contribute to a supportive environment"* ([See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
+#      *"Jose has very strong technical skills, including proficiency in R, bash scripting, version control, and highperformance computing. In our group, he has become a contact point for various programming and technical questions. He has a very strong commitment to open source programming, the implementation of good programming practices, and has been a dedicated git user. As a result, he has also helped train others in the group on version control with git."* ([See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
+#      *"Jose’s willingness to share his expertise has made him an important member of the group. Apart from day to day interaction with group members, he took on the supervision of a student assistant, who later reported a very positive experience. He also served as an instructor in our Master level practical bioinformatics course."* ([See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
 certifications:
       title: Certifications
       list:
+        - name: "AWS Certificate - Cloud Practicioner"
+          start: "Nov 2025"
+          end:
+          organization: "Amazon Web Services"
+          credentialid:
+          credentialurl: www.gcb2024.de/
+          credentialname: link
+          details: |
         - name: "Workshop: Standardizing and harmonizing NGS analysis workflows"
           start: "Sep 2024"
           end:
@@ -168,7 +180,7 @@ sidebar:
      
     # Profile information
     name: Jose Montero
-    tagline: Team-Focused Bioinformatician with Strong HPC Management Skills
+    tagline: Team-Focused Bioinformatician | scRNAseq | NGS Experience | AWS
     avatar: agrobioinformatics.jpg #profile.png  # Make sure this image is available in the /assets/images/ folder
     
     # Sidebar links
@@ -201,44 +213,47 @@ sidebar:
               level: ★★★★★
             - idiom: Bash
               level: ★★★★★              
-            - idiom: Python
+           - idiom: SLURM for batch computing
+             level: ★★★★★
+           - idiom: Python
               level: ★★★☆☆
-#           - idiom: SQL
-#             level: ★★★☆☆
-#           - idiom: SLURM
-#             level: ★★★★★
+           - idiom: SQL
+             level: ★★★☆☆
         - title: 🧬 Bioinformatics & Omics
           info:
             - idiom: Bioinformatics Software Development
+              level: ★★★★★                          
+            - idiom: Next Generation Sequencing (FastQC, Bowtie, VCF, etc.)
               level: ★★★★★
-            - idiom: Workflow Automation
-              level: ★★★★★
-            - idiom: Pipeline construction
-              level: ★★★★★              
-            - idiom: Transcriptomics Data Analysis
+            - idiom: Single-cell RNAseq data analysis (Seurat)
               level: ★★★★☆              
             - idiom: Proteomics Data Analysis
-              level: ★★★☆☆                            
-#           - idiom: Next Generation Sequencing
-#             level: ★★★★★
+              level: ★★★☆☆#            - idiom: Workflow Automation
+#              level: ★★★★★
+#            - idiom: Pipeline construction
+#              level: ★★★★★              
 #           - idiom: Genomic Imputation
 #             level: ★★★★☆
 #           - idiom: Genomic Simulation
 #             level: ★★★★☆
         - title: 🛠️ Software & Tools
           info:
-            - idiom: Shiny apps
-              level: ★★★★★
+            - idiom: Amazon Web Services (EC2, S3, Lambda, AWS Batch, VPC, etc.)
+              level: ★★★★★          
             - idiom: Git (Version Control)
               level: ★★★★★
             - idiom: MarkDown/Quarto
-              level: ★★★★★
-            - idiom: ChatGPT for Productivity
+              level: ★★★★☆
+            - idiom: Shiny apps
               level: ★★★☆☆
+#            - idiom: ChatGPT for Productivity
+#              level: ★★★☆☆
         - title: 🖥️ Computing & Infrastructure
           info:
-            - idiom: High-Performance Computing
+            - idiom: Cloud Computing
               level: ★★★★★
+            - idiom: High-Performance Computing
+              level: ★★★★☆
             - idiom: Linux Terminal
               level: ★★★★☆
         - title: 🎯 Productivity
@@ -246,18 +261,18 @@ sidebar:
             - idiom: Fast Typing
               level: ★★★★★
             - idiom: Version Control
-              level: ★★★☆☆
+              level: ★★★★★
         - title: 🚗 Other Skills
           info:
             - idiom: Category B Driving License
-              level: ★★★★★
-
+              level:
     interests:
       title: Interests
       info:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
 
 
 
