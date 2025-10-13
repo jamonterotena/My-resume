@@ -216,7 +216,7 @@ sidebar:
             - idiom: SLURM for batch computing
               level: ★★★★★
             - idiom: Python
-               level: ★★★☆☆
+              level: ★★★☆☆
             - idiom: SQL
               level: ★★★☆☆
         - title: 🧬 Bioinformatics & Omics
@@ -273,6 +273,7 @@ sidebar:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
 
 
 
