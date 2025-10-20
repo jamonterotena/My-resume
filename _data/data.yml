@@ -1,22 +1,23 @@
 career-profile:
     title: ABOUT ME
     summary: |
-           - PhD candidate, I studied **meiotic recombination** in plant genomes using homemade **coding pipelines**, **multi-omics** and **machine learning** for [detecting crossovers (COs)](https://github.com/GoliczGenomeLab/haploMAGIC), calculating recombination frequency and [predicting it based on **multi-omics** features](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
-           - Built software for **phasing and crossover detection**, e.g., *haploMAGIC* ([link](https://github.com/GoliczGenomeLab/haploMAGIC)) & *haploRILs* ([link](https://github.com/GoliczGenomeLab/haploRILs))
+           - Programmer (**python, bash & R**) 
+           - [I planned the research strategy, designed **workflows in R** for **integrating, clearning, analyzing and interpreting** **high-dimentional multi-omics data (genomics, transcriptomics, proteomics, epigenomics)** **via predictive modelling with machine learning (ML)** to predict recombination in *Brassica napus* and documented everything with Quarto for my PhD project (LINK)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
+           - Built **software** for processing and analyzing genomic data sets to generate recombination data, e.g., **haploMAGIC** ([link](https://github.com/GoliczGenomeLab/haploMAGIC)) & **haploRILs** ([link](https://github.com/GoliczGenomeLab/haploRILs))
            - I handled **large genomic datasets** in Linux-based **High Performance Computing (HPC)** clusters with **version controls** tools such as Git/[GitHub](https://github.com/jamonterotena)
-           - Developed code for variant calling from large NGS data
-           - Trained **machine learning** predictive models on multi-omics data of **plant populations** for predicting recombination hotspots ([link](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html))
-           - Experience mentoring and training **multidisciplinary** teams (see [letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0), password: *jamonterotena*)
-           - Award-winning **communication** ([link](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s))
+           - Organized, Detail-Oriented, Projec-management skills
+#           - PhD candidate, I studied **meiotic recombination** in plant genomes using homemade **coding pipelines**, **multi-omics** and **machine learning** for [detecting crossovers (COs)](https://github.com/GoliczGenomeLab/haploMAGIC), calculating recombination frequency and [predicting it based on **multi-omics** features](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
+#           - Developed code for variant calling from large NGS data
+#           - Trained **machine learning** predictive models on multi-omics data of **plant populations** for predicting recombination hotspots ([link](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html))
+#           - Experience mentoring and training **multidisciplinary** teams (see [letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0), password: *jamonterotena*)
+#           - Award-winning **communication** ([link](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s))
 #           - Experience preprocessing, exploring and analyzing **multi-omics data**, including **RNAseq, DNA methylation and NGS data**
 #           - Developed workflows for **NGS data processing** (quality control --> alignment vs reference --> post-processing --> variant calling)
-#           - [I planned the research strategy, designed **workflows in R** for **integrating, clearning, analyzing and interpreting** **high-dimentional multi-omics data (genomics, transcriptomics, proteomics, epigenomics)** **via predictive modelling with machine learning (ML)** to solve a daunting biological question and documented everything with Quarto for my PhD project (LINK)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
 #           - [**Watch my presentation at an international conference about a bionformatics methods I developed in R, haploMAGIC, for extracting recombination data from populational genomic data**](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)
 #           - Bachelor-level training in microbial biotechnology and bioengineering, learning concepts such as fermentors, population growth models and microbial metabolism...
 #           - My communication skills also extend to report creation, both [interactive with Shiny](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/) and [static reports](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
 #           - Passion for data analysis to solve biological questions, great focus, time-management, proactive mindset, project-management skills, team player           
 #           - Familiar with clinical trials
-#           - Technically sound skills in **R, bash and python** developed in Linux HPC environments coding acquired during **PhD work in Bioinformatics**
 #           - **Collaboration skills** proved with [scientific collaboration in academic papers](https://academic.oup.com/g3journal/article/14/8/jkae109/7684607), mentoring duties, training of colleagues on bioinformatics affairs ([See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
 #           - Interdisciplinary, up-to-date bioinformatics skills, I like to research about computational methods and choose the best after benchmarking
 #           - Proactive, flexible and adaptable
@@ -229,16 +230,18 @@ sidebar:
       categories:
         - title: 💻 Programming & Scripting
           info:
-            - idiom: R/Bioconductor
+            - idiom: Python
+              level: ★★★★★
+            - idiom: Vibe Coding (Copilot)
               level: ★★★★★
             - idiom: Bash
               level: ★★★★★              
+            - idiom: R/Bioconductor
+              level: ★★★★★
             - idiom: Shiny
               level: ★★★★★ 
             - idiom: SLURM for High Performance Computing (HPC)
               level: ★★★★★
-            - idiom: Python
-              level: ★★★★☆
             - idiom: SQL
               level: ★★★☆☆         
         - title: 🧬 Bioinformatics & Omics
@@ -249,12 +252,14 @@ sidebar:
               level: ★★★★★              
             - idiom: Next Generation Sequencing (NGS) Data Analysis
               level: ★★★★★
-            - idiom: Recombination Machine Learning Modelling
+            - idiom: Machine Learning Modelling for Recombination
               level: ★★★★★
-#            - idiom: Transcriptomic Data (RNAseq) Analysis
-#              level: ★★★★★
-#            - idiom: ATAC-seq Data Analysis
-#              level: ★★★★☆
+            - idiom: Multi-omics Data Integration
+              level: ★★★★★
+            - idiom: Transcriptomic Data (RNAseq) Analysis
+              level: ★★★★★
+            - idiom: ATAC-seq Data Analysis
+              level: ★★★★☆
         - title: 🛠️ Software & Tools
           info:
             - idiom: Git (Version Control)
@@ -268,7 +273,7 @@ sidebar:
             - idiom: MarkDown/Quarto for Report Crafting
               level: ★★★★★
             - idiom: Amazon Web Services (AWS)
-              level: ★★★★☆
+              level: ★★★☆☆
 #            - idiom: Variant Annotation Tools (SnpEff, ClinVar)
 #              level: ★★★★☆
         - title: 🖥️ Computing & Infrastructure
@@ -282,23 +287,24 @@ sidebar:
             - idiom: Fast Typing
               level: ★★★★★
             - idiom: Version Control
-              level: ★★★☆☆
+              level: ★★★★★
         - title: 🚗 Other Skills
           info:
             - idiom: Team Work and Collaboration
               level: ★★★★★          
-            - idiom: Oral & Written Communication
-              level: ★★★★★  
-            - idiom: Teaching/Training/Mentorship
-              level: ★★★★★
             - idiom: Category B Driving License
               level: ★★★★★
+            - idiom: Oral & Written Communication
+              level: ★★★★★  
+#            - idiom: Teaching/Training/Mentorship
+#              level: ★★★★★
     interests:
       title: Interests
       info:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
 
 
 
