@@ -1,12 +1,12 @@
 career-profile:
     title: ABOUT ME
     summary: |
-           - Experience in NGS & transcriptomics (RNA-seq, single-cell RNA-seq)
+           - Experience in **NGS** & **transcriptomics** (RNA-seq, single-cell RNA-seq)
            - [I planned the research strategy, designed **workflows in R** for **integrating, cleaning, analyzing and interpreting** **high-dimentional multi-omics data (genomics, transcriptomics, proteomics, epigenomics)** **via predictive modelling with machine learning (ML)** to predict recombination in *Brassica napus* and documented everything with Quarto for my PhD project (LINK)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
            - Built **software** for processing and analyzing genomic data sets to generate recombination data, e.g., **haploMAGIC** ([link](https://github.com/GoliczGenomeLab/haploMAGIC)) & **haploRILs** ([link](https://github.com/GoliczGenomeLab/haploRILs))
            - Experience designing, building, documenting, and maintaining [**OMICS workflows**](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html) for scientific projects
            - Award-winning **communication** ([link](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)), **interactive reports** with Shiny for [complex biological data visualization](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/)
-           - AWS Cloud Practitioner
+           - **AWS Cloud Practitioner**
 #           - PhD candidate, I studied **meiotic recombination** in plant genomes using homemade **coding pipelines**, **multi-omics** and **machine learning** for [detecting crossovers (COs)](https://github.com/GoliczGenomeLab/haploMAGIC), calculating recombination frequency and [predicting it based on **multi-omics** features](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
 #           - Developed code for variant calling from large NGS data
 #           - Trained **machine learning** predictive models on multi-omics data of **plant populations** for predicting recombination hotspots ([link](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html))
@@ -303,6 +303,7 @@ sidebar:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
 
 
 
