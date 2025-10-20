@@ -5,7 +5,7 @@ career-profile:
            - [I planned the research strategy, designed **workflows in R** for **integrating, clearning, analyzing and interpreting** **high-dimentional multi-omics data (genomics, transcriptomics, proteomics, epigenomics)** **via predictive modelling with machine learning (ML)** to predict recombination in *Brassica napus* and documented everything with Quarto for my PhD project (LINK)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
            - Built **software** for processing and analyzing genomic data sets to generate recombination data, e.g., **haploMAGIC** ([link](https://github.com/GoliczGenomeLab/haploMAGIC)) & **haploRILs** ([link](https://github.com/GoliczGenomeLab/haploRILs))
            - I handled **large genomic datasets** in Linux-based **High Performance Computing (HPC)** clusters with **version controls** tools such as Git/[GitHub](https://github.com/jamonterotena)
-           - Organized, Detail-Oriented, Projec-management skills
+           - Organized, Detail-Oriented, Project-management skills
 #           - PhD candidate, I studied **meiotic recombination** in plant genomes using homemade **coding pipelines**, **multi-omics** and **machine learning** for [detecting crossovers (COs)](https://github.com/GoliczGenomeLab/haploMAGIC), calculating recombination frequency and [predicting it based on **multi-omics** features](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
 #           - Developed code for variant calling from large NGS data
 #           - Trained **machine learning** predictive models on multi-omics data of **plant populations** for predicting recombination hotspots ([link](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html))
@@ -140,7 +140,8 @@ recommendations:
     phone: (+49)6419937432
     role: Professor for Agrobioinformatics at Justus Liebig University
     recommendation: |
-      *"[...] he developed two open source packages haploMAGIC and haploRILS, which identify recombination events from genotyping data. Manuscript describing haploMAGIC received high praise from reviewers and has already been published in a peer reviewed journal. A corresponding presentation received ‘Best Oral Presentation’ award at a large international conference."* ([See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
+      *"Jose has very strong technical skills, including proficiency in python, R, bash scripting, version control, and highperformance computing. In our group, he has become a contact point for various programming and technical questions. He has a very strong commitment to open source programming, the implementation of good programming practices, and has been a dedicated git user. As a result, he has also helped train others in the group on version control with git."*  ([See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
+#      *"[...] he developed two open source packages haploMAGIC and haploRILS, which identify recombination events from genotyping data. Manuscript describing haploMAGIC received high praise from reviewers and has already been published in a peer reviewed journal. A corresponding presentation received ‘Best Oral Presentation’ award at a large international conference."* ([See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
 #      *"Jose’s willingness to share his expertise has made him an important member of the group. Apart from day to day interaction with group members, he took on the supervision of a student assistant, who later reported a very positive experience. [...]"* ([See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
       
 certifications:
@@ -201,7 +202,7 @@ sidebar:
      
     # Profile information
     name: Jose Montero
-    tagline: Passionate, Resourceful Scientist
+    tagline: Detail-Oriented Scientist | Plant Breeding | Bioinformatics | Machine Learning
     avatar: agrobioinformatics.jpg #profile.png  # Make sure this image is available in the /assets/images/ folder
     
     # Sidebar links
@@ -304,6 +305,7 @@ sidebar:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
 
 
 
