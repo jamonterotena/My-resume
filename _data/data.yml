@@ -1,16 +1,16 @@
 career-profile:
     title: ABOUT ME
     summary: |
-           - Programmer (**python, bash & R**) 
+           - Experience in NGS & transcriptomics (RNA-seq, single-cell RNA-seq)
            - [I planned the research strategy, designed **workflows in R** for **integrating, cleaning, analyzing and interpreting** **high-dimentional multi-omics data (genomics, transcriptomics, proteomics, epigenomics)** **via predictive modelling with machine learning (ML)** to predict recombination in *Brassica napus* and documented everything with Quarto for my PhD project (LINK)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
            - Built **software** for processing and analyzing genomic data sets to generate recombination data, e.g., **haploMAGIC** ([link](https://github.com/GoliczGenomeLab/haploMAGIC)) & **haploRILs** ([link](https://github.com/GoliczGenomeLab/haploRILs))
-           - I handled **large genomic datasets** in Linux-based **High Performance Computing (HPC)** clusters with **version controls** tools such as Git/[GitHub](https://github.com/jamonterotena)
-           - Organized, Detail-Oriented, Project-management skills
+           - Experience designing, building, documenting, and maintaining [**OMICS workflows**](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html) for scientific projects
+           - Award-winning **communication** ([link](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)), **interactive reports** with Shiny for [complex biological data visualization](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/)
+           - AWS Cloud Practitioner
 #           - PhD candidate, I studied **meiotic recombination** in plant genomes using homemade **coding pipelines**, **multi-omics** and **machine learning** for [detecting crossovers (COs)](https://github.com/GoliczGenomeLab/haploMAGIC), calculating recombination frequency and [predicting it based on **multi-omics** features](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
 #           - Developed code for variant calling from large NGS data
 #           - Trained **machine learning** predictive models on multi-omics data of **plant populations** for predicting recombination hotspots ([link](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html))
 #           - Experience mentoring and training **multidisciplinary** teams (see [letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0), password: *jamonterotena*)
-#           - Award-winning **communication** ([link](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s))
 #           - Experience preprocessing, exploring and analyzing **multi-omics data**, including **RNAseq, DNA methylation and NGS data**
 #           - Developed workflows for **NGS data processing** (quality control --> alignment vs reference --> post-processing --> variant calling)
 #           - [**Watch my presentation at an international conference about a bionformatics methods I developed in R, haploMAGIC, for extracting recombination data from populational genomic data**](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)
@@ -27,11 +27,9 @@ career-profile:
 #          - Multilingual, self-confident conversationist with [award-winning presentation skills](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s) and experience in teaching in a British senior school
 #          - Experience with Amazon Web Services (AWS) Cloud Computing, SQL, BLAST and Ensembl
 #          - Strong background in **molecular genetics** (NGS analysis) and multi-omics
-#          - Experience designing, building, documenting, and maintaining [**OMICS workflows**](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html) for scientific projects
 #          - Proven record in teaching, mentoring students, **helping** colleagues fix bugs, and training colleagues on bioinformatic tools (for example *Git*, [See letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0))
 #          - Technically gifted (**R, python, bash, HPC**)
 #          - I designed **workflows** in R for **data processing**, **result interpretation**, and documented everything with Quarto for my PhD project [IN THIS REPORT](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
-#          - Development of **front-end** tools with **Shiny** for [complex biological data visualization](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/)
 #          - Ability with **cloud computing** and infrastructure management skills (AWS, HPC, version control, etc.)#          - Acquainted and motivated to work in pharma industry
 #          - Developed automated [**pipelines**](https://github.com/GoliczGenomeLab/haploMAGIC) for [large-scale **omics** data analysis (genomics, proteomics, transcriptomics)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html) in R and Linux environments
 #          - Strong record in workflow development and interactive **Shiny** apps for [complex biological data visualization](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/)
@@ -202,7 +200,7 @@ sidebar:
      
     # Profile information
     name: Jose Montero
-    tagline: Detail-Oriented Scientist | Plant Breeding | Bioinformatics | Machine Learning
+    tagline: Team-Playing Bioinformacian with Experience in Transcriptomics
     avatar: agrobioinformatics.jpg #profile.png  # Make sure this image is available in the /assets/images/ folder
     
     # Sidebar links
@@ -305,6 +303,7 @@ sidebar:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
 
 
 
