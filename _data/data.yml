@@ -1,12 +1,14 @@
 career-profile:
     title: ABOUT ME
     summary: |
-           - PhD candidate, I studied **recombination** in ***Brassica napus*** using homemade **coding pipelines**, **multi-omics** and **machine learning**
+           - PhD candidate, I studied **recombination** in ***Brassica napus*** using homemade **coding pipelines**, **multi-omics** and **machine learning** for [detecting crossovers (COs)](https://github.com/GoliczGenomeLab/haploMAGIC), calculating recombination frequency and [predicting it based on **multi-omics** features](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
            - Built software for **phasing and crossover detection**, e.g., *haploMAGIC* ([link](https://github.com/GoliczGenomeLab/haploMAGIC)) & *haploRILs* ([link](https://github.com/GoliczGenomeLab/haploRILs))
-           - Experience preprocessing, exploring and analyzing **multi-omics data**, including **RNAseq, DNA methylation and NGS data**
+           - I handled large genomic datasets in Linux-based High Performance Computing (HPC) clusters with version controls tools such as Git/[GitHub](https://github.com/jamonterotena)
+           - Developed code for variant calling from large NGS data
            - Trained **machine learning** predictive models on multi-omics data of **plant populations** for predicting recombination hotspots ([link](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html))
            - Experience mentoring and training **multidisciplinary** teams (see [letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0), password: *jamonterotena*)
            - Award-winning **communication** ([link](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s))
+#           - Experience preprocessing, exploring and analyzing **multi-omics data**, including **RNAseq, DNA methylation and NGS data**
 #           - Developed workflows for **NGS data processing** (quality control --> alignment vs reference --> post-processing --> variant calling)
 #           - [I planned the research strategy, designed **workflows in R** for **integrating, clearning, analyzing and interpreting** **high-dimentional multi-omics data (genomics, transcriptomics, proteomics, epigenomics)** **via predictive modelling with machine learning (ML)** to solve a daunting biological question and documented everything with Quarto for my PhD project (LINK)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
 #           - [**Watch my presentation at an international conference about a bionformatics methods I developed in R, haploMAGIC, for extracting recombination data from populational genomic data**](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)
@@ -111,6 +113,7 @@ publications:
       - title: "Machine learning and multi-omic analysis reveal contrasting recombination landscape of A and C subgenomes of winter oilseed rape (SUBMITTED)"
         authors: "Montero-Tena JA, Zanini SF, Yildiz Gozde, Kox T, Abbadi A, Snowdon RJ, Golicz AA"
         conference: "Under Review"
+        link: https://www.biorxiv.org/content/10.1101/2025.09.23.677995v1
       - title: "haploMAGIC: accurate phasing and detection of recombination in multiparental populations despite
       genotyping errors"
         authors: "Montero-Tena JA, Abdollahi Sisi N, Kox T, Abbadi A, Snowdon RJ, Golicz AA"
@@ -224,7 +227,7 @@ sidebar:
       categories:
         - title: 💻 Programming & Scripting
           info:
-            - idiom: R
+            - idiom: R/Bioconductor
               level: ★★★★★
             - idiom: Bash
               level: ★★★★★              
@@ -234,8 +237,8 @@ sidebar:
               level: ★★★★★
             - idiom: Python
               level: ★★★★☆
-#            - idiom: SQL
-#              level: ★★★☆☆         
+            - idiom: SQL
+              level: ★★★☆☆         
         - title: 🧬 Bioinformatics & Omics
           info:
             - idiom: Bioinformatics Software Development
@@ -244,12 +247,12 @@ sidebar:
               level: ★★★★★              
             - idiom: Next Generation Sequencing (NGS) Data Analysis
               level: ★★★★★
-            - idiom: Transcriptomic Data (RNAseq) Analysis
+            - idiom: Recombination Machine Learning Modelling
               level: ★★★★★
-            - idiom: Whole Genome Sequencing (WGBS) Data Analysis
-              level: ★★★★★
-            - idiom: ATACseq Data Analysis
-              level: ★★★★☆
+#            - idiom: Transcriptomic Data (RNAseq) Analysis
+#              level: ★★★★★
+#            - idiom: ATAC-seq Data Analysis
+#              level: ★★★★☆
         - title: 🛠️ Software & Tools
           info:
             - idiom: Git (Version Control)
@@ -258,11 +261,13 @@ sidebar:
               level: ★★★★★
             - idiom: Shiny Apps
               level: ★★★★★
+            - idiom: Environment Management Systems (Bioconda, Conda)
+              level: ★★★★★
             - idiom: MarkDown/Quarto for Report Crafting
               level: ★★★★★
+            - idiom: Amazon Web Services (AWS)
+              level: ★★★★☆
 #            - idiom: Variant Annotation Tools (SnpEff, ClinVar)
-#              level: ★★★★☆
-#            - idiom: Amazon Web Services (AWS)
 #              level: ★★★★☆
         - title: 🖥️ Computing & Infrastructure
           info:
@@ -292,6 +297,7 @@ sidebar:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
 
 
 
