@@ -1,9 +1,9 @@
 career-profile:
     title: ABOUT ME
     summary: |
-           - PhD candidate, I studied **recombination** in ***Brassica napus*** using homemade **coding pipelines**, **multi-omics** and **machine learning** for [detecting crossovers (COs)](https://github.com/GoliczGenomeLab/haploMAGIC), calculating recombination frequency and [predicting it based on **multi-omics** features](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
+           - PhD candidate, I studied **meiotic recombination** in plant genomes using homemade **coding pipelines**, **multi-omics** and **machine learning** for [detecting crossovers (COs)](https://github.com/GoliczGenomeLab/haploMAGIC), calculating recombination frequency and [predicting it based on **multi-omics** features](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
            - Built software for **phasing and crossover detection**, e.g., *haploMAGIC* ([link](https://github.com/GoliczGenomeLab/haploMAGIC)) & *haploRILs* ([link](https://github.com/GoliczGenomeLab/haploRILs))
-           - I handled large genomic datasets in Linux-based High Performance Computing (HPC) clusters with version controls tools such as Git/[GitHub](https://github.com/jamonterotena)
+           - I handled **large genomic datasets** in Linux-based **High Performance Computing (HPC)** clusters with **version controls** tools such as Git/[GitHub](https://github.com/jamonterotena)
            - Developed code for variant calling from large NGS data
            - Trained **machine learning** predictive models on multi-omics data of **plant populations** for predicting recombination hotspots ([link](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html))
            - Experience mentoring and training **multidisciplinary** teams (see [letter of recommendation](https://drive.proton.me/urls/2MRNSK703M#BQLO4og93WI0), password: *jamonterotena*)
@@ -297,6 +297,7 @@ sidebar:
         - item:  "🎸 Classical Guitar"
         - item:  "🚵 Mountain Bike"
         - item:  "🗣️ Languages"
+
 
 
 
