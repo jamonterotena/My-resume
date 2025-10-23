@@ -1,37 +1,20 @@
+###### LINKS ######
+# SOFTWARE:
+# haploMAGIC: https://github.com/GoliczGenomeLab/haploMAGIC
+# haploRILs: https://github.com/GoliczGenomeLab/haploRILs
+# Quarto multi-omics data workflow: https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html
+# Quarto scRNA-seq workflow: https://jamonterotena.github.io/scRNA-seq-analysis-with-Seurat/
+# Shiny app rapeseed: https://jamonterotena.github.io/The-Impact-of-Oil-Crops/
+# Report about haploRILs benchmarking: https://jamonterotena.github.io/haploRILs-benchmarking-results/#/load-required-packages-install-if-required
+# ARTICLES:
+# haploMAGIC: https://academic.oup.com/g3journal/article/14/8/jkae109/7684607
+# MachineLearning: https://www.biorxiv.org/content/10.1101/2025.09.23.677995v1
+# CERTIFICATES: https://drive.proton.me/urls/6R8FHX9XJC#9LphRvL03GOJ
+# CONFERENCE: https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s
+#######################
 career-profile:
     title: ABOUT ME
     summary: |
-           - Experience in **NGS** & **transcriptomics** (RNA-seq, single-cell RNA-seq)
-           - [I planned the research strategy, designed **workflows in R** for **integrating, cleaning, analyzing and interpreting** **high-dimentional multi-omics data (genomics, transcriptomics, proteomics, epigenomics)** **via predictive modelling with machine learning (ML)** to predict recombination in *Brassica napus* and documented everything with Quarto for my PhD project (LINK)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
-           - Built **software** for processing and analyzing genomic data sets to generate recombination data, e.g., **haploMAGIC** ([link](https://github.com/GoliczGenomeLab/haploMAGIC)) & **haploRILs** ([link](https://github.com/GoliczGenomeLab/haploRILs))
-           - Experience designing, building, documenting, and maintaining [**OMICS workflows**](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html) for scientific projects
-           - Award-winning **communication** ([link](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)), **interactive reports** with Shiny for [complex biological data visualization](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/)
-           - **AWS Cloud Practitioner**
-#           - PhD candidate, I studied **meiotic recombination** in plant genomes using homemade **coding pipelines**, **multi-omics** and **machine learning** for [detecting crossovers (COs)](https://github.com/GoliczGenomeLab/haploMAGIC), calculating recombination frequency and [predicting it based on **multi-omics** features](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
-#           - Developed code for variant calling from large NGS data
-#           - Trained **machine learning** predictive models on multi-omics data of **plant populations** for predicting recombination hotspots ([link](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html))
-#           - Experience mentoring and training **multidisciplinary** teams (see [letter of recommendation](https://drive.proton.me/urls/6R8FHX9XJC#9LphRvL03GOJ), password: *jamonterotena*)
-#           - Experience preprocessing, exploring and analyzing **multi-omics data**, including **RNAseq, DNA methylation and NGS data**
-#           - Developed workflows for **NGS data processing** (quality control --> alignment vs reference --> post-processing --> variant calling)
-#           - [**Watch my presentation at an international conference about a bionformatics methods I developed in R, haploMAGIC, for extracting recombination data from populational genomic data**](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)
-#           - Bachelor-level training in microbial biotechnology and bioengineering, learning concepts such as fermentors, population growth models and microbial metabolism...
-#           - My communication skills also extend to report creation, both [interactive with Shiny](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/) and [static reports](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
-#           - Passion for data analysis to solve biological questions, great focus, time-management, proactive mindset, project-management skills, team player           
-#           - Familiar with clinical trials
-#           - Interdisciplinary, up-to-date bioinformatics skills, I like to research about computational methods and choose the best after benchmarking
-#           - Proactive, flexible and adaptable
-#           - Understanding of various topics in life sciences, acquired during my educational training (bachelor's degree in Biochemistry)
-#           - [Experience in **Machine Learning** for analyzing complex multiomics data sets](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
-#          - Development of **front-end** tools with **Shiny** for [complex biological data visualization](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/)
-#          - Multilingual, self-confident conversationist with [award-winning presentation skills](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s) and experience in teaching in a British senior school
-#          - Experience with Amazon Web Services (AWS) Cloud Computing, SQL, BLAST and Ensembl
-#          - Strong background in **molecular genetics** (NGS analysis) and multi-omics
-#          - Proven record in teaching, mentoring students, **helping** colleagues fix bugs, and training colleagues on bioinformatic tools (for example *Git*, [See letter of recommendation](https://drive.proton.me/urls/6R8FHX9XJC#9LphRvL03GOJ))
-#          - Technically gifted (**R, python, bash, HPC**)
-#          - I designed **workflows** in R for **data processing**, **result interpretation**, and documented everything with Quarto for my PhD project [IN THIS REPORT](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
-#          - Ability with **cloud computing** and infrastructure management skills (AWS, HPC, version control, etc.)#          - Acquainted and motivated to work in pharma industry
-#          - Developed automated [**pipelines**](https://github.com/GoliczGenomeLab/haploMAGIC) for [large-scale **omics** data analysis (genomics, proteomics, transcriptomics)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html) in R and Linux environments
-#          - Strong record in workflow development and interactive **Shiny** apps for [complex biological data visualization](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/)
 experiences:
     title: WORK EXPERIENCE
     info:
@@ -39,43 +22,22 @@ experiences:
         time: "March 2022 – Feb 2025"
         company: "Justus Liebig University (JLU)"
         details: |
-          - Developed **[novel bioinformatics tools](https://github.com/GoliczGenomeLab/haploMAGIC)** for genomic recombination analysis, leading to **[high-impact publications](https://academic.oup.com/g3journal/article/14/8/jkae109/7684607)**
-          - [I planned the research strategy, designed **workflows** in R for **integrating, clearning, analyzing and interpreting** **RNAseq** and other heterogeneous **OMIC data** **via machine learning (ML)** and documented everything with Quarto for my PhD project (LINK)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
-          - Presented research at leading conferences, earning **[Best Student Presentation at IRC 2023](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)**
-          - Work in Linux HPC environments using SLURM and Git version control
-          - Created interactive [Shiny applications](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/) and [Markdown reports](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html) for summarization and data exploration, supporting interdisciplinary collaborations.
-          - Trained colleagues on the use of Git and mentored a master thesis student with positive feedback ([See letter of recommendation](#           - **Collaboration skills** proved with [scientific collaboration in academic papers](https://academic.oup.com/g3journal/article/14/8/jkae109/7684607), mentoring duties, training of colleagues on bioinformatics affairs ([See letter of recommendation](#           - **Collaboration skills** proved with [scientific collaboration in academic papers](https://academic.oup.com/g3journal/article/14/8/jkae109/7684607), mentoring duties, training of colleagues on bioinformatics affairs ([See letter of recommendation](https://drive.proton.me/urls/6R8FHX9XJC#9LphRvL03GOJ))))))
-#          - Developed pipelines for OMICS data processing and analysis in R and bash
-#          - Activelly collaborated with a [big team of external and internal scientists](https://www.irtg2843.de/about)** of breeders, data scientists and bioinformaticians
-#          - Extensive experience integrating transcriptomics and proteomics data with genomic datasets
-#          - Developed **NGS analysis workflows** for variant calling          
-#          - Built and optimized pipelines for **[multi-omics data analysis](https://jamonterotena.github.io/ML-reports/)**
-#          - Delivered workshop for introducing version control systems to peers, specifically git 
       - role: "Graduate Student Assistant"
         time: "Dec 2021 - Feb 2022"
         company: "Justus Liebig University (JLU)"
         details: |
-          - Built **bioinformatics pipelines** in collaboration with the faba bean pangenome consortium (gene ortholog identification, gene sequence alignment, RNA-seq)
       - role: "Industry Intern"
         time: "March 2021 – April 2021"
         company: "Deutsche Saatveredelung (DSV)"
         details: |
-          - Development of KASP markers for resistance-related genes using BLAST
-#          - Insightful experience in ambitious corporative environment
       - role: "Science Classroom Teacher"
         time: "Sep 2018 – Jul 2019"
         company: "Holmer Green Senior School (HGSS)"
         details: |
-          - Time management and team work demanding
-#          - Instruction of Science (Physics, Chemistry and Biology) to year 9-11 school students
-#          - **Regular communication with parents and colleagues**
-#          - Supervision of practical scientific lectures
-#          - Evaluation of assignments and examinations
       - role: "Undergraduate Student Assistant"
         company: "University of Extremadura"
         time: "June 2014 - June 2014"
         details: |
-          - Collection and analysis of *in-vivo* murine models data for natural antioxidant research
       - role: "Volunteer Assistant"
         time: "Aug 2016 - Sep 2016"
         company: "Hostelling Scotland (SYHA)"
@@ -87,14 +49,10 @@ education:
         university: "Justus Liebig University (JLU)"
         time: "March 2022 – Present"
         details: |
-          - Topic: Defining the global recombination landscape in *Brassica napus* (See *Experience* for more info)
       - degree: "M. Sc. in Agrobiotechnology"
         university: "Justus Liebig University (JLU)"
         time: "Oct 2019 – Oct 2021"
         details: |
-          - Practical experience with R coding and NGS-based variant discovery ([See thesis manuscript](https://github.com/jamonterotena/Haplotype-based-Pangenome-Wheat-Analysis))
-          - Practical module in plant tissue culture and genetic transformation ([See certificate](#           - **Collaboration skills** proved with [scientific collaboration in academic papers](https://academic.oup.com/g3journal/article/14/8/jkae109/7684607), mentoring duties, training of colleagues on bioinformatics affairs ([See letter of recommendation](https://drive.proton.me/urls/6R8FHX9XJC#9LphRvL03GOJ))))
-#         - Quantitative genetics-related topics: biostatistics, genomic prediction, genomic selection, GWAS, QTL mapping
       - degree: "M. D. in Secondary Education Teacher’s Training"
         university: "University of Extremadura (UEx)"
         time: "Oct 2017 – Jun 2018"
@@ -103,8 +61,6 @@ education:
         university: "University of Sevilla (US)"
         time: "Sep 2013 – Jul 2017"
         details: |
-          - Regular participation in diverse lab practicals 
-          - Thesis: Biochemical and physiological effects of ozone on *Capsicum annuum* (greenhouse cultivation, spectrophotometry, ROS assays) ([See manuscript](https://drive.proton.me/urls/6R8FHX9XJC#9LphRvL03GOJ)).
 publications:
     title: Communications / Articles
     papers:
@@ -117,9 +73,6 @@ publications:
         authors: "Montero-Tena JA, Abdollahi Sisi N, Kox T, Abbadi A, Snowdon RJ, Golicz AA"
         conference: "G3 (Bethesda) (2024)"
         link: https://academic.oup.com/g3journal/article/14/8/jkae109/7684607
-      - title: "Poster: Defining the Genome-wide Recombination Landscape of Brassica napus"
-        authors: "Montero-Tena JA"
-        conference: "GCB German Conference of Bioinformatics, Bielefeld, Germany (30 Sep – 2 Oct 2024)"
       - title: "Oral presentation (watch video): haploMAGIC: Phasing and detecting recombination in multiparental populations (awarded prize to best oral presentation)"
         authors: "Montero-Tena JA"
         conference: "IRC International Rapeseed Congress, Sydney, Australia (24 – 27 Sep 2023)"
@@ -137,20 +90,28 @@ recommendations:
     phone: (+49)6419937432
     role: Professor for Agrobioinformatics at Justus Liebig University
     recommendation: |
-      *"Jose has very strong technical skills, including proficiency in python, R, bash scripting, version control, and highperformance computing. In our group, he has become a contact point for various programming and technical questions. He has a very strong commitment to open source programming, the implementation of good programming practices, and has been a dedicated git user. As a result, he has also helped train others in the group on version control with git."*  ([See letter of recommendation](https://drive.proton.me/urls/6R8FHX9XJC#9LphRvL03GOJ))
+#      *"Jose has very strong technical skills, including proficiency in python, R, bash scripting, version control, and highperformance computing. In our group, he has become a contact point for various programming and technical questions. He has a very strong commitment to open source programming, the implementation of good programming practices, and has been a dedicated git user. As a result, he has also helped train others in the group on version control with git."*  ([See letter of recommendation](https://drive.proton.me/urls/6R8FHX9XJC#9LphRvL03GOJ))
 #      *"[...] he developed two open source packages haploMAGIC and haploRILS, which identify recombination events from genotyping data. Manuscript describing haploMAGIC received high praise from reviewers and has already been published in a peer reviewed journal. A corresponding presentation received ‘Best Oral Presentation’ award at a large international conference."* ([See letter of recommendation](https://drive.proton.me/urls/6R8FHX9XJC#9LphRvL03GOJ))
 #      *"Jose’s willingness to share his expertise has made him an important member of the group. Apart from day to day interaction with group members, he took on the supervision of a student assistant, who later reported a very positive experience. [...]"* ([See letter of recommendation](https://drive.proton.me/urls/6R8FHX9XJC#9LphRvL03GOJ))
       
 certifications:
       title: Certifications
       list:
+        - name: "Udemy Course: Learn Single-Cell RNA-Seq Data Analysis Using R & Python"
+          start: "Oct 2025"
+          end:
+          organization: "Udemy"
+          credentialid:
+          credentialurl: https://drive.proton.me/urls/6R8FHX9XJC#9LphRvL03GOJ
+          credentialname: cert
+          details: |
         - name: "Workshop: Standardizing and harmonizing NGS analysis workflows"
           start: "Sep 2024"
           end:
           organization: "German Conference of Bioinformatics, Bielefeld, Germany"
           credentialid:
           credentialurl: www.gcb2024.de/
-          credentialname: link
+          credentialname: info
           details: |
         - name: "Workshop: Machine Learning with tidymodels"
           start: "Aug 2024"
@@ -158,7 +119,7 @@ certifications:
           organization: "Posit Conference, Seattle, USA"
           credentialid:
           credentialurl: www.linkedin.com/posts/chaima-boug_seattle-posit-positconf2024-ugcPost-7229004878839255042-B4LL?utm_source=share&utm_medium=member_desktop
-          credentialname: link
+          credentialname: info
           details: |
         - name: "DataCamp courses (x18) on Python, R, and Shell, covering coding fundamentals, data manipulation, statistics, and machine learning"
           start: 2022
@@ -166,7 +127,7 @@ certifications:
           organization: "datacamp"
           credentialid:
           credentialurl: www.datacamp.com/portfolio/jamonterotena?view=true
-          credentialname: link
+          credentialname: cert
           details: |
         - name: "Plant tissue culture and genetic transformation"
           start: "April 2020"
@@ -174,7 +135,7 @@ certifications:
           organization: "JLU, Giessen, Germany"
           credentialid:
           credentialurl: https://drive.proton.me/urls/6R8FHX9XJC#9LphRvL03GOJ
-          credentialname: link
+          credentialname: cert
           details: |
         - name: "Bioinformatics for beginners"
           start: "Sep 2021"
@@ -193,15 +154,13 @@ certifications:
           credentialname: link
           details: |
 sidebar:
-    position: left # position of the sidebar : left or right
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
-     
+    position: left
+    about: False
+    education: False
     # Profile information
     name: Jose Montero
-    tagline: Skilled, Problem-Solving Scientist | Genomics | Bioinformatics
-    avatar: agrobioinformatics.jpg #profile.png  # Make sure this image is available in the /assets/images/ folder
-    
+    tagline: INSERT TAGLINE HERE
+    avatar: agrobioinformatics.jpg
     # Sidebar links
     fullname: "Montero Tena, José Antonio"
     citizenship: Spanish
@@ -211,7 +170,6 @@ sidebar:
     github: jamonterotena
     phone: +34 603 769 969
     certificates: https://drive.proton.me/urls/6R8FHX9XJC#9LphRvL03GOJ
-    
     languages:
       title: Languages
       info:
@@ -226,100 +184,100 @@ sidebar:
     skills_sidebar:
       title: Skills
       categories:
-        - title: 💻 Programming & Scripting
+        - title: 💻 Programming Languages
           info:
-            - idiom: Python
-              level: ★★★★★
-            - idiom: Vibe Coding (Copilot)
+            - idiom: R/Bioconductor
               level: ★★★★★
             - idiom: Bash
               level: ★★★★★              
-            - idiom: R/Bioconductor
-              level: ★★★★★
-            - idiom: Shiny
-              level: ★★★★★ 
-            - idiom: SLURM for High Performance Computing (HPC)
+            - idiom: Python
               level: ★★★★★
             - idiom: SQL
-              level: ★★★☆☆         
+              level: ★★★☆☆  
         - title: 🧬 Bioinformatics & Omics
           info:
-            - idiom: Bioinformatics Software Development
+            - idiom: Computational Method Development (haploMAGIC, ML pipelines)
               level: ★★★★★
-            - idiom: Variant Calling with NGS Data
-              level: ★★★★★              
-            - idiom: Next Generation Sequencing (NGS) Data Analysis
+            - idiom: Next Generation Sequencing (NGS) Workflow (fastQC, cutadapt, Bowtie, BEDTools, GATK, HaplotypeCaller)
               level: ★★★★★
-            - idiom: Machine Learning Modelling for Recombination
+            - idiom: (Single-Cell) RNA-seq Data Analysis (kallisto, DESeq2, edgeR, 10xGenomics, Seurat, SingleR)
               level: ★★★★★
-            - idiom: Multi-omics Data Integration
+            - idiom: Multi-omics Data Integration (feature selection, data transformation, clustering)
               level: ★★★★★
             - idiom: Transcriptomic Data (RNAseq) Analysis
               level: ★★★★★
-            - idiom: ATAC-seq Data Analysis
+            - idiom: ATAC-seq Data Analysis (EDTA)
               level: ★★★★☆
-        - title: 🛠️ Software & Tools
+            - idiom: Whole Genome Bisulfite Sequencing (WGBS) Data Analysis (Bismark)
+              level: ★★★★☆
+            - idiom: Variant Annotation Tools (SnpEff, ClinVar)
+              level: ★★★★☆
+        - title: 📊 Statistics & Data Visualization
           info:
-            - idiom: Git (Version Control)
+            - idiom: Hypothesis Testing
               level: ★★★★★
-            - idiom: Machine Learning (Classif, L Regression, PCA, xML, ALE, etc)
+            - idiom: Statistical Analysis
               level: ★★★★★
-            - idiom: Shiny Apps
+            - idiom: Data Visualization (ggplot2, matplotlib, seaborn)
               level: ★★★★★
-            - idiom: Environment Management Systems (Bioconda, Conda)
+            - idiom: Data Manipulation (dplyr, data.table, pandas)
               level: ★★★★★
-            - idiom: MarkDown/Quarto for Report Crafting
+            - idiom: Machine Learning & Predictive Modeling (tidymodels, h2o, scikit-learn)
+              level: ★★★★★
+        - title: 🌐 Computing & Cloud
+          info:
+            - idiom: Linux Terminal
+              level: ★★★★★
+            - idiom: High Performance Computing (HPC)
+              level: ★★★★★
+            - idiom: Version Control (Git/GitHub)
               level: ★★★★★
             - idiom: Amazon Web Services (AWS; AWS Batch, Lambda, S3, etc)
               level: ★★★☆☆
-#            - idiom: Variant Annotation Tools (SnpEff, ClinVar)
-#              level: ★★★★☆
-        - title: 🖥️ Computing & Infrastructure
+        - title: 🔀 Workflow Management
           info:
-            - idiom: High-Performance Computing (HPC)
+            - idiom: SLURM
               level: ★★★★★
-            - idiom: Linux Terminal
+            - idiom: Environment Management Systems (Bioconda, Conda)
               level: ★★★★★
+            - idiom: Snakemake
+              level: ★★★☆☆
+            - idiom: Nextflow
+              level: ★★★☆☆
+        - title: 📁 Documentation
+          info:
+            - idiom: Quarto/RMarkdown
+              level: ★★★★★
+            - idiom: Shiny
+              level: ★★★★★ 
+            - idiom: LaTeX
+              level: ★★★★☆
         - title: 🎯 Productivity
           info:
             - idiom: Fast Typing
               level: ★★★★★
-            - idiom: Version Control
-              level: ★★★★★
-        - title: 🚗 Other Skills
+            - idiom: Vibe Coding (Copilot)
+              level: ★★★☆☆ 
+        - title: 🤝 Soft Skills
           info:
-            - idiom: Team Work and Collaboration
-              level: ★★★★★          
+            - idiom: Communication
+              level: ★
+            - idiom: Collaboration & Teamwork
+              level: ★
+            - idiom: Resilience & Focus
+              level: ★
+            - idiom: Adapting to Change
+              level: ★ 
+            - idiom: Mentoring & Couching
+              level: ★ 
+        - title: 🚗 Other      
+          info:
             - idiom: Category B Driving License
-              level: ★★★★★
-            - idiom: Oral & Written Communication
-              level: ★★★★★  
-#            - idiom: Teaching/Training/Mentorship
-#              level: ★★★★★
+              level: ★
     interests:
       title: Interests
       info:
-        - item:  "🎸 Classical Guitar"
-        - item:  "🚵 Mountain Bike"
-        - item:  "🗣️ Languages"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        - item: "🎸 Classical Guitar"
+        - item: "🚵 Mountain Bike"
+        - item: "🗣 Languages"
+        - item: "🏺 Clay Working & Pottery"
