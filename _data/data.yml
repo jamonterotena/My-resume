@@ -1,6 +1,26 @@
+###### LINKS ######
+# SOFTWARE:
+# haploMAGIC: https://github.com/GoliczGenomeLab/haploMAGIC
+# haploRILs: https://github.com/GoliczGenomeLab/haploRILs
+# Quarto multi-omics data workflow: https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html
+# Quarto scRNA-seq workflow: https://jamonterotena.github.io/scRNA-seq-analysis-with-Seurat/
+# Shiny app rapeseed: https://github.com/jamonterotena/The-Impact-of-Oil-Crops
+# Report about haploRILs benchmarking: https://jamonterotena.github.io/haploRILs-benchmarking-results/#/load-required-packages-install-if-required
+# ARTICLES:
+# haploMAGIC: https://academic.oup.com/g3journal/article/14/8/jkae109/7684607
+# MachineLearning: https://www.biorxiv.org/content/10.1101/2025.09.23.677995v1
+# CERTIFICATES: https://drive.proton.me/urls/6R8FHX9XJC#9LphRvL03GOJ
+# CONFERENCE: https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s
+#######################
 career-profile:
     title: ABOUT ME
     summary: |
+           - Background in genomics; interest in investigating **cancer genomics**.
+           - [Outstanding **analytical thinking** to understand complex biological data from multi-omics sources](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html); **Bibliographical research** and constancy in problem solving.
+           - Experience managing Computing and Cloud resources for Bioinformatics analyses: Linux-based High Performance Computing (**HPC**) clusters, Amazon Web Services (**AWS Cloud Practitioner**), Virtual Control Systems (**Git/GitHub**).
+           - Excellent **programming** skills; [Developed open source bioinformatics tools in R(haploMAGIC) in **genomics**](https://github.com/GoliczGenomeLab/haploMAGIC); built NGS workflows in bash ; [wrote machine learning pipelines in R for biological interpretation of **multi-omics** data analysis](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html).
+           - [Completed course in single-cell RNA-seq data for **cancer microenvironment analysis** using R and Python; proficient in Seurat, SingleR, and other relevant tools (See letter of recommendation — password jamonterotena).](https://drive.proton.me/urls/6R8FHX9XJC#9LphRvL03GOJ).
+           - Award-winning communication skills: [Best Oral Presentation at the International Rapeseed Congress 2023](https://www.youtube.com/watch?v=wlufwc6DqV4&t=0s) for presentation of haploMAGIC tool; experience presenting scientific results to both expert and non-expert audiences.
 experiences:
     title: WORK EXPERIENCE
     info:
@@ -8,6 +28,9 @@ experiences:
         time: "March 2022 – Feb 2025"
         company: "Justus Liebig University (JLU)"
         details: |
+           - [Trained colleagues on the use of GiHub and version control systems](https://drive.proton.me/urls/6R8FHX9XJC#9LphRvL03GOJ).
+           - [Mentoring of thesis student with excellent feed-back](https://drive.proton.me/urls/6R8FHX9XJC#9LphRvL03GOJ).
+           - Development of computational methods in genomics        
       - role: "Graduate Student Assistant"
         time: "Dec 2021 - Feb 2022"
         company: "Justus Liebig University (JLU)"
@@ -47,6 +70,7 @@ education:
         university: "University of Sevilla (US)"
         time: "Sep 2013 – Jul 2017"
         details: |
+          - Molecular biology and genetics of cancer
 publications:
     title: Communications / Articles
     papers:
@@ -76,7 +100,7 @@ recommendations:
     phone: (+49)6419937432
     role: Professor for Agrobioinformatics at Justus Liebig University
     recommendation: |
-#      *"Jose has very strong technical skills, including proficiency in python, R, bash scripting, version control, and highperformance computing. In our group, he has become a contact point for various programming and technical questions. He has a very strong commitment to open source programming, the implementation of good programming practices, and has been a dedicated git user. As a result, he has also helped train others in the group on version control with git."*  ([See letter of recommendation](https://drive.proton.me/urls/6R8FHX9XJC#9LphRvL03GOJ))
+      *"Jose has very strong technical skills, including proficiency in python, R, bash scripting, version control, and highperformance computing. In our group, he has become a contact point for various programming and technical questions. He has a very strong commitment to open source programming, the implementation of good programming practices, and has been a dedicated git user. As a result, he has also helped train others in the group on version control with git."*  ([See letter of recommendation](https://drive.proton.me/urls/6R8FHX9XJC#9LphRvL03GOJ))
 #      *"[...] he developed two open source packages haploMAGIC and haploRILS, which identify recombination events from genotyping data. Manuscript describing haploMAGIC received high praise from reviewers and has already been published in a peer reviewed journal. A corresponding presentation received ‘Best Oral Presentation’ award at a large international conference."* ([See letter of recommendation](https://drive.proton.me/urls/6R8FHX9XJC#9LphRvL03GOJ))
 #      *"Jose’s willingness to share his expertise has made him an important member of the group. Apart from day to day interaction with group members, he took on the supervision of a student assistant, who later reported a very positive experience. [...]"* ([See letter of recommendation](https://drive.proton.me/urls/6R8FHX9XJC#9LphRvL03GOJ))
       
@@ -145,7 +169,7 @@ sidebar:
     education: False
     # Profile information
     name: Jose Montero
-    tagline: INSERT TAGLINE HERE
+    tagline: Talented, Curious Bioinformatician with Strong Interest in Cancer Genomics
     avatar: agrobioinformatics.jpg
     # Sidebar links
     fullname: "Montero Tena, José Antonio"
@@ -170,6 +194,26 @@ sidebar:
     skills_sidebar:
       title: Skills
       categories:
+        - title: 🧬 Bioinformatics & Omics
+          info:
+            - idiom: Computational Method Development (haploMAGIC, ML pipelines)
+              level: ★★★★★
+            - idiom: Next Generation Sequencing (NGS) Workflow (fastQC, cutadapt, Bowtie, BEDTools, GATK, HaplotypeCaller)
+              level: ★★★★★
+            - idiom: (Single-Cell) RNA-seq Data Analysis (kallisto, DESeq2, edgeR, 10xGenomics, Seurat, SingleR)
+              level: ★★★★★
+            - idiom: Machine Learning (tidymodels, h2o, scikit-learn)
+              level: ★★★★★
+            - idiom: Multi-omics Data Integration (feature selection, data transformation, clustering)
+              level: ★★★★★
+            - idiom: Transcriptomic Data (RNAseq) Analysis
+              level: ★★★★★
+            - idiom: ATAC-seq Data Analysis (EDTA)
+              level: ★★★★☆
+            - idiom: Whole Genome Bisulfite Sequencing (WGBS) Data Analysis (Bismark)
+              level: ★★★★☆
+            - idiom: Variant Annotation Tools (SnpEff, ClinVar)
+              level: ★★★★☆
         - title: 💻 Programming Languages
           info:
             - idiom: R/Bioconductor
@@ -180,14 +224,6 @@ sidebar:
               level: ★★★★★
             - idiom: SQL
               level: ★★★☆☆  
-        - title: 📁 Documentation
-          info:
-            - idiom: Quarto/RMarkdown
-              level: ★★★★★
-            - idiom: Shiny
-              level: ★★★★★ 
-            - idiom: LaTeX
-              level: ★★★★☆
         - title: 🌐 Computing & Cloud
           info:
             - idiom: Linux Terminal
@@ -208,25 +244,13 @@ sidebar:
               level: ★★★☆☆
             - idiom: Nextflow
               level: ★★★☆☆
-        - title: 🧬 Bioinformatics & Omics
+        - title: 📁 Documentation
           info:
-            - idiom: Computational Method Development (haploMAGIC, ML pipelines)
+            - idiom: Quarto/RMarkdown
               level: ★★★★★
-            - idiom: Next Generation Sequencing (NGS) Workflow (fastQC, cutadapt, Bowtie, BEDTools, GATK, HaplotypeCaller)
-              level: ★★★★★
-            - idiom: (Single-Cell) RNA-seq Data Analysis (kallisto, DESeq2, edgeR, 10xGenomics, Seurat, SingleR)
-              level: ★★★★★
-            - idiom: Machine Learning (tidymodels, h2o, scikit-learn)
-              level: ★★★★★
-            - idiom: Multi-omics Data Integration (feature selection, data transformation, clustering)
-              level: ★★★★★
-            - idiom: Transcriptomic Data (RNAseq) Analysis
-              level: ★★★★★
-            - idiom: ATAC-seq Data Analysis (EDTA)
-              level: ★★★★☆
-            - idiom: Whole Genome Bisulfite Sequencing (WGBS) Data Analysis (Bismark)
-              level: ★★★★☆
-            - idiom: Variant Annotation Tools (SnpEff, ClinVar)
+            - idiom: Shiny
+              level: ★★★★★ 
+            - idiom: LaTeX
               level: ★★★★☆
         - title: 🎯 Productivity
           info:
