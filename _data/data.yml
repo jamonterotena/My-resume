@@ -16,9 +16,10 @@ career-profile:
     title: ABOUT ME
     summary: |
            - [I planned the research strategy, designed **workflows in R** for **integrating, cleaning, analyzing and interpreting** **high-dimentional multi-omics data (genomics, transcriptomics, proteomics, epigenomics)** **via predictive modelling with machine learning (ML)** to predict recombination in *Brassica napus* and documented everything with Quarto for my PhD project (LINK)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
-          - Developed automated [**pipelines**](https://github.com/GoliczGenomeLab/haploMAGIC) for [large-scale **omics** data analysis (genomics, proteomics, transcriptomics)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html) in R and Linux environments           - Award-winning **communication** ([link](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)), **interactive reports** with Shiny for [complex biological data visualization](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/)
+           - Developed automated [**pipelines**](https://github.com/GoliczGenomeLab/haploMAGIC) for [large-scale **omics** data analysis (genomics, proteomics, transcriptomics)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html) in R and Linux environments           - Award-winning **communication** ([link](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)), **interactive reports** with Shiny for [complex biological data visualization](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/)
            - Benchmarking, AI/ML & statistics skills        
-          - Proven record in teaching, mentoring students, **helping** colleagues fix bugs, and training colleagues on bioinformatic tools (for example *Git*, [See letter of recommendation](https://drive.proton.me/urls/6R8FHX9XJC#9LphRvL03GOJ))           experiences:
+           - Proven record in teaching, mentoring students, **helping** colleagues fix bugs, and training colleagues on bioinformatic tools (for example *Git*, [See letter of recommendation](https://drive.proton.me/urls/6R8FHX9XJC#9LphRvL03GOJ))
+experiences:
     title: WORK EXPERIENCE
     info:
       - role: "Scientific Researcher (Ph. D.)"
@@ -284,3 +285,4 @@ sidebar:
         - item: "🚵 Mountain Bike"
         - item: "🗣 Languages"
         - item: "🏺 Clay Working & Pottery"
+
