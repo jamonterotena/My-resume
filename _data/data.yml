@@ -184,7 +184,7 @@ sidebar:
     skills_sidebar:
       title: Skills
       categories:
-        - title: 💻 Programming Languages
+        - title: 🖳️ Programming Languages
           info:
             - idiom: R/Bioconductor
               level: ★★★★★
@@ -212,7 +212,7 @@ sidebar:
               level: ★★★★☆
             - idiom: Variant Annotation Tools (SnpEff, ClinVar)
               level: ★★★★☆
-        - title: 📊 Statistics & Data Visualization
+        - title: 📈 Statistics & Data Visualization
           info:
             - idiom: Hypothesis Testing
               level: ★★★★★
