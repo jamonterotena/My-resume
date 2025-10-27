@@ -15,7 +15,10 @@
 career-profile:
     title: ABOUT ME
     summary: |
-experiences:
+           - [I planned the research strategy, designed **workflows in R** for **integrating, cleaning, analyzing and interpreting** **high-dimentional multi-omics data (genomics, transcriptomics, proteomics, epigenomics)** **via predictive modelling with machine learning (ML)** to predict recombination in *Brassica napus* and documented everything with Quarto for my PhD project (LINK)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
+          - Developed automated [**pipelines**](https://github.com/GoliczGenomeLab/haploMAGIC) for [large-scale **omics** data analysis (genomics, proteomics, transcriptomics)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html) in R and Linux environments           - Award-winning **communication** ([link](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)), **interactive reports** with Shiny for [complex biological data visualization](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/)
+           - Benchmarking, AI/ML & statistics skills        
+          - Proven record in teaching, mentoring students, **helping** colleagues fix bugs, and training colleagues on bioinformatic tools (for example *Git*, [See letter of recommendation](https://drive.proton.me/urls/6R8FHX9XJC#9LphRvL03GOJ))           experiences:
     title: WORK EXPERIENCE
     info:
       - role: "Scientific Researcher (Ph. D.)"
@@ -90,7 +93,7 @@ recommendations:
     phone: (+49)6419937432
     role: Professor for Agrobioinformatics at Justus Liebig University
     recommendation: |
-#      *"Jose has very strong technical skills, including proficiency in python, R, bash scripting, version control, and highperformance computing. In our group, he has become a contact point for various programming and technical questions. He has a very strong commitment to open source programming, the implementation of good programming practices, and has been a dedicated git user. As a result, he has also helped train others in the group on version control with git."*  ([See letter of recommendation](https://drive.proton.me/urls/6R8FHX9XJC#9LphRvL03GOJ))
+      *"Jose has very strong technical skills, including proficiency in python, R, bash scripting, version control, and highperformance computing. In our group, he has become a contact point for various programming and technical questions. He has a very strong commitment to open source programming, the implementation of good programming practices, and has been a dedicated git user. As a result, he has also helped train others in the group on version control with git."*  ([See letter of recommendation](https://drive.proton.me/urls/6R8FHX9XJC#9LphRvL03GOJ))
 #      *"[...] he developed two open source packages haploMAGIC and haploRILS, which identify recombination events from genotyping data. Manuscript describing haploMAGIC received high praise from reviewers and has already been published in a peer reviewed journal. A corresponding presentation received ‘Best Oral Presentation’ award at a large international conference."* ([See letter of recommendation](https://drive.proton.me/urls/6R8FHX9XJC#9LphRvL03GOJ))
 #      *"Jose’s willingness to share his expertise has made him an important member of the group. Apart from day to day interaction with group members, he took on the supervision of a student assistant, who later reported a very positive experience. [...]"* ([See letter of recommendation](https://drive.proton.me/urls/6R8FHX9XJC#9LphRvL03GOJ))
       
@@ -159,7 +162,7 @@ sidebar:
     education: False
     # Profile information
     name: Jose Montero
-    tagline: INSERT TAGLINE HERE
+    tagline: Skilled Bioinformatician with Focus on AI/ML & Multi-Omics
     avatar: agrobioinformatics.jpg
     # Sidebar links
     fullname: "Montero Tena, José Antonio"
