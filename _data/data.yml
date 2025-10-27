@@ -4,7 +4,7 @@
 # haploRILs: https://github.com/GoliczGenomeLab/haploRILs
 # Quarto multi-omics data workflow: https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html
 # Quarto scRNA-seq workflow: https://jamonterotena.github.io/scRNA-seq-analysis-with-Seurat/
-# Shiny app rapeseed: https://github.com/jamonterotena/The-Impact-of-Oil-Crops
+# Shiny app rapeseed: https://jamonterotena.github.io/The-Impact-of-Oil-Crops/
 # Report about haploRILs benchmarking: https://jamonterotena.github.io/haploRILs-benchmarking-results/#/load-required-packages-install-if-required
 # ARTICLES:
 # haploMAGIC: https://academic.oup.com/g3journal/article/14/8/jkae109/7684607
@@ -15,22 +15,16 @@
 career-profile:
     title: ABOUT ME
     summary: |
-           - Background in genomics; interest in investigating **cancer genomics**.
-           - [Outstanding **analytical thinking** to understand complex biological data from multi-omics sources](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html); **Bibliographical research** and constancy in problem solving.
-           - Experience managing Computing and Cloud resources for Bioinformatics analyses: Linux-based High Performance Computing (**HPC**) clusters, Amazon Web Services (**AWS Cloud Practitioner**), Virtual Control Systems (**Git/GitHub**).
-           - Excellent **programming** skills; [Developed open source bioinformatics tools in R(haploMAGIC) in **genomics**](https://github.com/GoliczGenomeLab/haploMAGIC); built NGS workflows in bash ; [wrote machine learning pipelines in R for biological interpretation of **multi-omics** data analysis](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html).
-           - [Completed course in single-cell RNA-seq data for **cancer microenvironment analysis** using R and Python; proficient in Seurat, SingleR, and other relevant tools (See letter of recommendation — password jamonterotena).](https://drive.proton.me/urls/6R8FHX9XJC#9LphRvL03GOJ).
-           - Award-winning communication skills: [Best Oral Presentation at the International Rapeseed Congress 2023](https://www.youtube.com/watch?v=wlufwc6DqV4&t=0s) for presentation of haploMAGIC tool; experience presenting scientific results to both expert and non-expert audiences.
-experiences:
+           - [I planned the research strategy, designed **workflows in R** for **integrating, cleaning, analyzing and interpreting** **high-dimentional multi-omics data (genomics, transcriptomics, proteomics, epigenomics)** **via predictive modelling with machine learning (ML)** to predict recombination in *Brassica napus* and documented everything with Quarto for my PhD project (LINK)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html)
+          - Developed automated [**pipelines**](https://github.com/GoliczGenomeLab/haploMAGIC) for [large-scale **omics** data analysis (genomics, proteomics, transcriptomics)](https://jamonterotena.github.io/bnapus.reco.ml/gw_workflow.html) in R and Linux environments           - Award-winning **communication** ([link](https://www.youtube.com/watch?v=wlufwc6DqV4&t=478s)), **interactive reports** with Shiny for [complex biological data visualization](https://jamonterotena.github.io/The-Impact-of-Oil-Crops/)
+           - Benchmarking, AI/ML & statistics skills        
+          - Proven record in teaching, mentoring students, **helping** colleagues fix bugs, and training colleagues on bioinformatic tools (for example *Git*, [See letter of recommendation](https://drive.proton.me/urls/6R8FHX9XJC#9LphRvL03GOJ))           experiences:
     title: WORK EXPERIENCE
     info:
       - role: "Scientific Researcher (Ph. D.)"
         time: "March 2022 – Feb 2025"
         company: "Justus Liebig University (JLU)"
         details: |
-           - [Trained colleagues on the use of GiHub and version control systems](https://drive.proton.me/urls/6R8FHX9XJC#9LphRvL03GOJ).
-           - [Mentoring of thesis student with excellent feed-back](https://drive.proton.me/urls/6R8FHX9XJC#9LphRvL03GOJ).
-           - Development of computational methods in genomics        
       - role: "Graduate Student Assistant"
         time: "Dec 2021 - Feb 2022"
         company: "Justus Liebig University (JLU)"
@@ -70,7 +64,6 @@ education:
         university: "University of Sevilla (US)"
         time: "Sep 2013 – Jul 2017"
         details: |
-          - Molecular biology and genetics of cancer
 publications:
     title: Communications / Articles
     papers:
@@ -169,7 +162,7 @@ sidebar:
     education: False
     # Profile information
     name: Jose Montero
-    tagline: Talented, Curious Bioinformatician with Strong Interest in Cancer Genomics
+    tagline: Skilled Bioinformatician with Focus on AI/ML & Multi-Omics
     avatar: agrobioinformatics.jpg
     # Sidebar links
     fullname: "Montero Tena, José Antonio"
@@ -194,6 +187,16 @@ sidebar:
     skills_sidebar:
       title: Skills
       categories:
+        - title: 💻 Programming Languages
+          info:
+            - idiom: R/Bioconductor
+              level: ★★★★★
+            - idiom: Bash
+              level: ★★★★★              
+            - idiom: Python
+              level: ★★★★★
+            - idiom: SQL
+              level: ★★★☆☆  
         - title: 🧬 Bioinformatics & Omics
           info:
             - idiom: Computational Method Development (haploMAGIC, ML pipelines)
@@ -201,8 +204,6 @@ sidebar:
             - idiom: Next Generation Sequencing (NGS) Workflow (fastQC, cutadapt, Bowtie, BEDTools, GATK, HaplotypeCaller)
               level: ★★★★★
             - idiom: (Single-Cell) RNA-seq Data Analysis (kallisto, DESeq2, edgeR, 10xGenomics, Seurat, SingleR)
-              level: ★★★★★
-            - idiom: Machine Learning (tidymodels, h2o, scikit-learn)
               level: ★★★★★
             - idiom: Multi-omics Data Integration (feature selection, data transformation, clustering)
               level: ★★★★★
@@ -214,16 +215,18 @@ sidebar:
               level: ★★★★☆
             - idiom: Variant Annotation Tools (SnpEff, ClinVar)
               level: ★★★★☆
-        - title: 💻 Programming Languages
+        - title: 📊 Statistics & Data Visualization
           info:
-            - idiom: R/Bioconductor
+            - idiom: Hypothesis Testing
               level: ★★★★★
-            - idiom: Bash
-              level: ★★★★★              
-            - idiom: Python
+            - idiom: Statistical Analysis
               level: ★★★★★
-            - idiom: SQL
-              level: ★★★☆☆  
+            - idiom: Data Visualization (ggplot2, matplotlib, seaborn)
+              level: ★★★★★
+            - idiom: Data Manipulation (dplyr, data.table, pandas)
+              level: ★★★★★
+            - idiom: Machine Learning & Predictive Modeling (tidymodels, h2o, scikit-learn)
+              level: ★★★★★
         - title: 🌐 Computing & Cloud
           info:
             - idiom: Linux Terminal
