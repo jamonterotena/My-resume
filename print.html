@@ -15,3 +15,14 @@ permalink: /print
 
 {% include publications.html %}
 
+<a id="saveAsPdfBtn" href="https://www.sejda.com/html-to-pdf">Save as PDF</a>
+<script>
+document.getElementById('saveAsPdfBtn').addEventListener('click', function(e){
+  var pageUrl = encodeURIComponent(window.location.href);
+  var opts = ['save-link=' + pageUrl, 'pageOrientation=auto'];
+  window.open('https://www.sejda.com/html-to-pdf?' + opts.join('&'));
+  e.preventDefault();
+});
+</script>
+
+
